@@ -77,7 +77,7 @@ python scripts/validate.py
 > and drop the export folder through `import.py` — the analysis is then written from the
 > actual source instead of an automated draft.
 
-Full process: see `CONTRIBUTING.md`. Build plan & progress: see `BUILD.md`.
+Full process: see `CONTRIBUTING.md`.
 
 ## Requirements
 
