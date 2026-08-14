@@ -1,0 +1,6 @@
+# Python deps for repo-management scripts (scripts/*.py)
+# NOTE: Extraction itself is done by Dembrandt via `npx dembrandt <url>` (Node.js 18+).
+#       Install Chromium when first needed: `npx dembrandt install-browser`
+
+pyyaml>=6.0        # parse SKILL.md frontmatter (validate.py)
+requests>=2.31     # HTTP helpers (script utilities)

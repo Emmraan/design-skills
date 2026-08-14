@@ -1,0 +1,116 @@
+{
+  "version": "1.0.0",
+  "description": "Industry -> references index. Open the listed analyses + pattern + collection, then synthesize. Source of truth: references/websites/*/metadata.json.",
+  "industries": {
+    "fintech": {
+      "sites": [
+        {
+          "slug": "assembly",
+          "name": "Assembly",
+          "style": "minimal-clean",
+          "theme": "light"
+        },
+        {
+          "slug": "ramp",
+          "name": "Ramp",
+          "style": "bold-clean",
+          "theme": "light"
+        }
+      ],
+      "pattern": "references/patterns/fintech.md",
+      "collection": "references/collections/fintech.md",
+      "borrow": [
+        "institutional confidence + accent discipline from Ramp",
+        "platform-grade credibility + restraint from Assembly"
+      ]
+    },
+    "saas": {
+      "sites": [
+        {
+          "slug": "clickup",
+          "name": "ClickUp",
+          "style": "bold-vibrant",
+          "theme": "light"
+        },
+        {
+          "slug": "ghost",
+          "name": "Ghost",
+          "style": "minimal-editorial",
+          "theme": "light"
+        },
+        {
+          "slug": "juno",
+          "name": "Juno",
+          "style": "playful-warm",
+          "theme": "light"
+        },
+        {
+          "slug": "mobbin",
+          "name": "Mobbin",
+          "style": "minimal-clean",
+          "theme": "light"
+        }
+      ],
+      "pattern": "references/patterns/saas-landing.md",
+      "collection": "references/collections/saas.md",
+      "borrow": [
+        "editorial restraint from Ghost",
+        "energetic color + bento storytelling from ClickUp",
+        "warm approachable tone from Juno",
+        "product-first chrome from Mobbin"
+      ]
+    },
+    "ecommerce": {
+      "sites": [
+        {
+          "slug": "gumroad",
+          "name": "Gumroad",
+          "style": "bold-playful",
+          "theme": "light"
+        }
+      ],
+      "pattern": "references/patterns/ecommerce.md",
+      "collection": "references/collections/ecommerce.md",
+      "borrow": [
+        "creator commerce with personality + low-friction buy from Gumroad"
+      ]
+    },
+    "agency": {
+      "sites": [
+        {
+          "slug": "primora",
+          "name": "Primora",
+          "style": "editorial-premium",
+          "theme": "dark"
+        }
+      ],
+      "pattern": "references/patterns/portfolio-agency.md",
+      "collection": "references/collections/agency.md",
+      "borrow": [
+        "craft-forward editorial presentation from Primora"
+      ]
+    },
+    "ai": {
+      "sites": [
+        {
+          "slug": "sendr",
+          "name": "Sendr",
+          "style": "minimal-clean",
+          "theme": "light"
+        },
+        {
+          "slug": "wispr",
+          "name": "Wispr",
+          "style": "editorial-playful",
+          "theme": "dark"
+        }
+      ],
+      "pattern": "references/patterns/ai-product.md",
+      "collection": "references/collections/ai.md",
+      "borrow": [
+        "demo as hero from Wispr",
+        "real AI outputs + clarity over hype from Sendr"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "gumroad",
+  "name": "Gumroad",
+  "source-url": "https://gumroad.com/",
+  "industry": "ecommerce",
+  "style": "bold-playful",
+  "layout": "centered-hero",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "F55BBEC2B251"
+}

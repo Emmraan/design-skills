@@ -1,0 +1,16 @@
+{
+  "slug": "ghost",
+  "name": "Ghost",
+  "source-url": "https://ghost.org/",
+  "industry": "saas",
+  "style": "minimal-editorial",
+  "layout": "centered-hero",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "CCD21AE2AEC3"
+}

@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dembrandt extraction output (user runs it locally)
+output/
+
+# Editor
+.vscode/
+.idea/

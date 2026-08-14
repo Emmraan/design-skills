@@ -1,0 +1,16 @@
+{
+  "slug": "juno",
+  "name": "Juno",
+  "source-url": "https://www.withjuno.com/",
+  "industry": "saas",
+  "style": "playful-warm",
+  "layout": "split-hero",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "90E3C6F65DDF"
+}

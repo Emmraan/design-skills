@@ -1,0 +1,16 @@
+{
+  "slug": "assembly",
+  "name": "Assembly",
+  "source-url": "https://assembly.com/",
+  "industry": "fintech",
+  "style": "minimal-clean",
+  "layout": "centered-hero",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "5CAC6C63AA4A"
+}

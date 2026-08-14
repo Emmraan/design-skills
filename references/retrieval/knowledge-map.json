@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "description": "Design-need -> reference map. When you need a specific design move, pull the ranked sites (analysis.md) + supporting files, then synthesize. Never copy a single site.",
+  "map": {
+    "minimalism / premium restraint": {
+      "sites": [
+        { "slug": "ghost", "why": "text-forward confidence; editorial calm on light" },
+        { "slug": "assembly", "why": "near-white + one accent economy; black pill CTAs" },
+        { "slug": "mobbin", "why": "crisp tool aesthetic; quiet chrome around product" }
+      ],
+      "files": [ "references/patterns/saas-landing.md", "references/design-tokens/spacing-scale.md" ]
+    },
+    "bold / energetic / playful color": {
+      "sites": [
+        { "slug": "gumroad", "why": "poster-scale type; saturated primary + lime/pink accents" },
+        { "slug": "juno", "why": "warm playful palette; mint/cream/gold; friendly tone" },
+        { "slug": "clickup", "why": "saturated bento cells; dense feature storytelling" }
+      ],
+      "files": [ "references/design-tokens/color-systems.md", "references/components/hero.md" ]
+    },
+    "dark / editorial / premium": {
+      "sites": [
+        { "slug": "wispr", "why": "warm dark canvas; giant serif + coral accent" },
+        { "slug": "primora", "why": "dark studio statement; serif display + violet/coral" }
+      ],
+      "files": [ "references/patterns/portfolio-agency.md", "references/design-tokens/color-systems.md" ]
+    },
+    "trust-forward fintech": {
+      "sites": [
+        { "slug": "ramp", "why": "dark-first institutional confidence; one crisp accent; trust band" },
+        { "slug": "assembly", "why": "platform-grade credibility; conversion structure" }
+      ],
+      "files": [ "references/patterns/fintech.md", "references/components/stats.md" ]
+    },
+    "product-in-action hero": {
+      "sites": [
+        { "slug": "wispr", "why": "demo as the hero; transparent blurred nav" },
+        { "slug": "sendr", "why": "real AI outputs shown; clarity over hype" },
+        { "slug": "mobbin", "why": "reference UI as the product visual" }
+      ],
+      "files": [ "references/patterns/ai-product.md", "references/components/hero.md" ]
+    },
+    "editorial / serif-forward identity": {
+      "sites": [
+        { "slug": "primora", "why": "serif display at 96px scale; mono meta labels" },
+        { "slug": "ghost", "why": "type-led hierarchy; premium restraint" },
+        { "slug": "wispr", "why": "serif headline energy on dark" }
+      ],
+      "files": [ "references/design-tokens/typography-systems.md", "references/patterns/portfolio-agency.md" ]
+    },
+    "creator commerce": {
+      "sites": [
+        { "slug": "gumroad", "why": "sells digital goods with personality; friction-reduced buy box" },
+        { "slug": "assembly", "why": "creator-payments credibility" }
+      ],
+      "files": [ "references/patterns/ecommerce.md", "references/collections/ecommerce.md" ]
+    },
+    "split hero (product left / text right)": {
+      "sites": [
+        { "slug": "ramp", "why": "split hero with strong statement + lime CTA" },
+        { "slug": "juno", "why": "friendly split; warm palette" },
+        { "slug": "wispr", "why": "split with product/demo visual" }
+      ],
+      "files": [ "references/components/hero.md" ]
+    },
+    "centered hero (announcement style)": {
+      "sites": [
+        { "slug": "clickup", "why": "huge statement + product UI below" },
+        { "slug": "gumroad", "why": "poster headline centered" },
+        { "slug": "ghost", "why": "text-forward centered statement" }
+      ],
+      "files": [ "references/components/hero.md" ]
+    },
+    "warm / approachable SaaS": {
+      "sites": [
+        { "slug": "juno", "why": "playful-warm; employee wellbeing tone" },
+        { "slug": "sendr", "why": "handwriting accents; human warmth on a tool" }
+      ],
+      "files": [ "references/collections/saas.md", "references/patterns/saas-landing.md" ]
+    }
+  },
+  "fallback": "If a need is not listed, read INDEX.md + the relevant collection, then open 3+ analyses from the closest industry/style before designing."
+}

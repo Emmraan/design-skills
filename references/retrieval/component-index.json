@@ -1,0 +1,351 @@
+{
+  "version": "1.0.0",
+  "description": "Component -> reference index. For each component, read the component guidance file, then open the notable site analyses (their Component Map + section styling) before designing.",
+  "components": {
+    "hero": {
+      "file": "references/components/hero.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "centered statement type + product/visual + black pill CTA"
+        },
+        {
+          "slug": "clickup",
+          "take": "huge type statement + product UI visual + CTA"
+        },
+        {
+          "slug": "ghost",
+          "take": "text-forward statement, no product shot"
+        },
+        {
+          "slug": "gumroad",
+          "take": "poster-scale centered headline"
+        },
+        {
+          "slug": "juno",
+          "take": "friendly headline + product/visual + dark pill CTA"
+        },
+        {
+          "slug": "mobbin",
+          "take": "strong display statement + product/library visual + CTA"
+        },
+        {
+          "slug": "primora",
+          "take": "serif statement + mono label + single CTA (editorial-split)"
+        },
+        {
+          "slug": "ramp",
+          "take": "big statement + product visual + crisp accent CTA"
+        },
+        {
+          "slug": "sendr",
+          "take": "bold sans headline + serif statement + handwriting annotation + CTA"
+        },
+        {
+          "slug": "wispr",
+          "take": "giant serif headline + demo visual + coral CTA + trust line"
+        }
+      ]
+    },
+    "navbar": {
+      "file": "references/components/navbar.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "minimal, logo left, CTA right"
+        },
+        {
+          "slug": "clickup",
+          "take": "logo, links, bold black CTA"
+        },
+        {
+          "slug": "ghost",
+          "take": "minimal, logo left, CTA right, transparent -> white"
+        },
+        {
+          "slug": "gumroad",
+          "take": "playful logo, bright CTA"
+        },
+        {
+          "slug": "juno",
+          "take": "warm transparent → white blur; dark CTA"
+        },
+        {
+          "slug": "mobbin",
+          "take": "minimal, logo left, dark pill CTA right"
+        },
+        {
+          "slug": "primora",
+          "take": "minimal dark, muted links"
+        },
+        {
+          "slug": "ramp",
+          "take": "transparent -> white blur; black logo; lime CTA"
+        },
+        {
+          "slug": "sendr",
+          "take": "minimal, logo left, blue accents on interactive"
+        },
+        {
+          "slug": "wispr",
+          "take": "transparent -> blurred dark on scroll; CTA visible"
+        }
+      ]
+    },
+    "logo-cloud": {
+      "file": "references/components/logo-cloud.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "quiet band"
+        },
+        {
+          "slug": "clickup",
+          "take": "customer band after hero"
+        },
+        {
+          "slug": "ghost",
+          "take": "quiet trust band"
+        },
+        {
+          "slug": "primora",
+          "take": "quiet band"
+        },
+        {
+          "slug": "ramp",
+          "take": "customer logos, quiet band"
+        },
+        {
+          "slug": "wispr",
+          "take": "logo row / stats on dark"
+        }
+      ]
+    },
+    "features": {
+      "file": "references/components/features.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "minimal rows with blue highlights"
+        },
+        {
+          "slug": "clickup",
+          "take": "saturated bento cells, organized grid"
+        },
+        {
+          "slug": "ghost",
+          "take": "editorial alternating text+visual rows"
+        },
+        {
+          "slug": "gumroad",
+          "take": "playful editorial steps"
+        },
+        {
+          "slug": "juno",
+          "take": "mint/cream rounded cards, warm bands"
+        },
+        {
+          "slug": "mobbin",
+          "take": "clean alternating rows"
+        },
+        {
+          "slug": "ramp",
+          "take": "split rows, black type, lime highlights"
+        },
+        {
+          "slug": "sendr",
+          "take": "editorial steps with annotations"
+        },
+        {
+          "slug": "wispr",
+          "take": "how dictation works (split, visual-led)"
+        }
+      ]
+    },
+    "stats": {
+      "file": "references/components/stats.md",
+      "notable": [
+        {
+          "slug": "clickup",
+          "take": "large numbers, mono labels"
+        },
+        {
+          "slug": "mobbin",
+          "take": "proof numbers on product library"
+        },
+        {
+          "slug": "ramp",
+          "take": "large numbers with accent key figure"
+        }
+      ]
+    },
+    "testimonials": {
+      "file": "references/components/testimonials.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "quotes"
+        },
+        {
+          "slug": "clickup",
+          "take": "quotes with logos"
+        },
+        {
+          "slug": "gumroad",
+          "take": "bold creator quotes"
+        },
+        {
+          "slug": "juno",
+          "take": "warm quotes"
+        },
+        {
+          "slug": "mobbin",
+          "take": "quotes from designers"
+        },
+        {
+          "slug": "ramp",
+          "take": "quotes with faces/logos"
+        },
+        {
+          "slug": "sendr",
+          "take": "warm quotes"
+        },
+        {
+          "slug": "wispr",
+          "take": "editorial quotes on dark"
+        }
+      ]
+    },
+    "pricing": {
+      "file": "references/components/pricing.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "clean cards, highlighted plan"
+        },
+        {
+          "slug": "clickup",
+          "take": "cards, highlighted plan, black CTA"
+        },
+        {
+          "slug": "ghost",
+          "take": "clean tables/cards, highlighted plan"
+        },
+        {
+          "slug": "gumroad",
+          "take": "graphic cards, highlighted plan"
+        },
+        {
+          "slug": "juno",
+          "take": "rounded cards, highlighted plan"
+        },
+        {
+          "slug": "mobbin",
+          "take": "cards, highlighted plan"
+        },
+        {
+          "slug": "ramp",
+          "take": "cards, highlighted plan, accent CTA"
+        },
+        {
+          "slug": "sendr",
+          "take": "clean cards, highlighted plan"
+        }
+      ]
+    },
+    "faq": {
+      "file": "references/components/faq.md",
+      "notable": []
+    },
+    "cta": {
+      "file": "references/components/cta.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "black or blue moment"
+        },
+        {
+          "slug": "clickup",
+          "take": "brand moment"
+        },
+        {
+          "slug": "ghost",
+          "take": "accent or dark closing moment"
+        },
+        {
+          "slug": "gumroad",
+          "take": "bright closing moment"
+        },
+        {
+          "slug": "juno",
+          "take": "coral or dark moment"
+        },
+        {
+          "slug": "mobbin",
+          "take": "blue or dark moment"
+        },
+        {
+          "slug": "primora",
+          "take": "violet or coral moment"
+        },
+        {
+          "slug": "ramp",
+          "take": "black or lime closing moment"
+        },
+        {
+          "slug": "sendr",
+          "take": "blue moment"
+        },
+        {
+          "slug": "wispr",
+          "take": "cream or accent band, single action"
+        }
+      ]
+    },
+    "footer": {
+      "file": "references/components/footer.md",
+      "notable": [
+        {
+          "slug": "assembly",
+          "take": "muted, legal links"
+        },
+        {
+          "slug": "clickup",
+          "take": "muted, organized, dense"
+        },
+        {
+          "slug": "ghost",
+          "take": "muted links, legal, organized"
+        },
+        {
+          "slug": "gumroad",
+          "take": "playful, muted accents"
+        },
+        {
+          "slug": "juno",
+          "take": "warm, muted"
+        },
+        {
+          "slug": "mobbin",
+          "take": "muted, organized"
+        },
+        {
+          "slug": "primora",
+          "take": "muted, mono accents"
+        },
+        {
+          "slug": "ramp",
+          "take": "muted, legal links"
+        },
+        {
+          "slug": "sendr",
+          "take": "muted"
+        },
+        {
+          "slug": "wispr",
+          "take": "muted links on dark"
+        }
+      ]
+    }
+  }
+}

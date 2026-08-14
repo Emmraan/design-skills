@@ -1,0 +1,107 @@
+{
+  "version": "1.0.0",
+  "description": "Style -> references index. Pick a target mood, open the listed analyses, then synthesize. Source of truth: references/websites/*/metadata.json.",
+  "styles": {
+    "minimal-clean": {
+      "sites": [
+        {
+          "slug": "assembly",
+          "name": "Assembly",
+          "industry": "fintech",
+          "theme": "light"
+        },
+        {
+          "slug": "mobbin",
+          "name": "Mobbin",
+          "industry": "saas",
+          "theme": "light"
+        },
+        {
+          "slug": "sendr",
+          "name": "Sendr",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ],
+      "signature": "quiet chrome, generous whitespace, one accent, product-first clarity"
+    },
+    "bold-vibrant": {
+      "sites": [
+        {
+          "slug": "clickup",
+          "name": "ClickUp",
+          "industry": "saas",
+          "theme": "light"
+        }
+      ],
+      "signature": "saturated bento color, dense feature storytelling, energetic CTAs"
+    },
+    "minimal-editorial": {
+      "sites": [
+        {
+          "slug": "ghost",
+          "name": "Ghost",
+          "industry": "saas",
+          "theme": "light"
+        }
+      ],
+      "signature": "type-led calm, text-forward confidence, premium restraint"
+    },
+    "bold-playful": {
+      "sites": [
+        {
+          "slug": "gumroad",
+          "name": "Gumroad",
+          "industry": "ecommerce",
+          "theme": "light"
+        }
+      ],
+      "signature": "poster-scale type, saturated primary + lime/pink accents, creator-friendly"
+    },
+    "playful-warm": {
+      "sites": [
+        {
+          "slug": "juno",
+          "name": "Juno",
+          "industry": "saas",
+          "theme": "light"
+        }
+      ],
+      "signature": "warm palette (mint/cream/gold), rounded friendly surfaces, human tone"
+    },
+    "editorial-premium": {
+      "sites": [
+        {
+          "slug": "primora",
+          "name": "Primora",
+          "industry": "agency",
+          "theme": "dark"
+        }
+      ],
+      "signature": "dark design-studio statement, serif display scale, mono meta, violet/coral accents"
+    },
+    "bold-clean": {
+      "sites": [
+        {
+          "slug": "ramp",
+          "name": "Ramp",
+          "industry": "fintech",
+          "theme": "light"
+        }
+      ],
+      "signature": "confident typography, one crisp accent, institutional trust"
+    },
+    "editorial-playful": {
+      "sites": [
+        {
+          "slug": "wispr",
+          "name": "Wispr",
+          "industry": "ai",
+          "theme": "dark"
+        }
+      ],
+      "signature": "warm dark canvas, giant serif display, playful accent moments"
+    }
+  },
+  "notes": "Style index supports cross-industry synthesis: e.g. a serious fintech can borrow playful-warm tone for approachability, or an AI product can borrow editorial-premium craft. Combine at least 2 styles deliberately."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ramp",
+  "name": "Ramp",
+  "source-url": "https://ramp.com/",
+  "industry": "fintech",
+  "style": "bold-clean",
+  "layout": "split-hero",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "D12771149136"
+}

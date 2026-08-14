@@ -1,0 +1,16 @@
+{
+  "slug": "sendr",
+  "name": "Sendr",
+  "source-url": "https://www.sendr.ai/",
+  "industry": "ai",
+  "style": "minimal-clean",
+  "layout": "centered-hero",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "48272833DD81"
+}

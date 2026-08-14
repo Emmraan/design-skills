@@ -1,0 +1,16 @@
+{
+  "slug": "wispr",
+  "name": "Wispr",
+  "source-url": "https://wisprflow.ai/",
+  "industry": "ai",
+  "style": "editorial-playful",
+  "layout": "split-hero",
+  "theme": "dark",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-08-14",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "DA9B1872FD26"
+}
