@@ -166,7 +166,86 @@ from the existing indexes (borrow / signature / take notes) while keeping struct
 
 ---
 
-## 7. Rules & conventions
+## 7. Git workflow & branches
+
+`main` is **always clean and releasable** — never commit directly to `main`. Work on a
+short-lived branch per task, named after the task:
+
+- `add-<slug>` — new site analysis
+- `update-<slug>` — refreshing an existing site
+- `fix-<thing>` — bug fix (e.g. `fix-import-slug`)
+- `docs-<thing>` — documentation only
+- `build-plan` — the future-work plan document
+
+**Flow:**
+
+```bash
+git checkout main
+git pull
+git checkout -b add-<slug>
+
+# ... make your changes, run rebuild.py + validate.py (must PASS) ...
+
+git add .
+git commit -m "add <slug>: <short summary>"
+git push -u origin <branch>
+# open a PR (section 9), squash-merge to main, then delete the branch
+```
+
+**Commit message convention** (short, imperative, lowercase type):
+
+| Type | Example |
+|---|---|
+| `add <slug>` | `add acme: fintech landing analysis` |
+| `update <slug>` | `update ramp: refreshed baseline after drift` |
+| `delete <slug>` | `delete acme: site offline` |
+| `fix:` | `fix: import.py slug rewrite for structured folders` |
+| `docs:` | `docs: add git workflow, issue, and PR guidance` |
+| `feat:` | `feat: add rebuild-sync CI check` |
+| `chore:` | `chore: pin Dembrandt version` |
+
+Always commit **after** `validate.py` prints PASS, and never commit generated files
+(`INDEX.md`, `references/retrieval/*.json`) that you changed by hand — regenerate them.
+
+---
+
+## 8. Opening an issue
+
+Before opening, search for an existing issue covering the same thing. Be specific and
+respectful (see `CODE_OF_CONDUCT.md`).
+
+**Bug report:** steps to reproduce, expected vs. actual behaviour, and the script name +
+full error output.
+
+**Feature request:** what you want, why, and how it fits the repo's purpose.
+
+**New-site suggestion:** the site URL, its industry, and why it deserves an analysis.
+
+**Security:** **do not** open a public issue — report privately per `SECURITY.md`.
+
+---
+
+## 9. Opening a pull request
+
+**Maintainers:** push your feature branch (section 7) and open a PR against `main`.
+
+**External contributors:** fork the repo, add the upstream remote, work on a branch in your
+fork, push it, then open a PR from your fork's branch to `Emmraan/design-skills:main`.
+
+**PR checklist — complete before opening:**
+
+- [ ] `python scripts/rebuild.py` and `python scripts/validate.py` both run; validate prints `PASS`.
+- [ ] No hand-edited `INDEX.md` or `references/retrieval/*.json` — regenerate instead.
+- [ ] Site analyses end with **synthesis notes** (sections 10–12).
+- [ ] `metadata.json` fields complete; `fingerprint` matches `baseline.json`.
+- [ ] Description says what changed and links any related issue.
+
+**After merge:** squash-merge to keep `main` history clean, then delete the branch. A CI
+workflow will re-verify validate + rebuild-sync automatically once added.
+
+---
+
+## 10. Rules & conventions
 
 - **User runs Dembrandt** commands himself, one at a time. Scripts only print them.
 - `references/websites/` is the source of truth; indexes are generated, never hand-edited.
