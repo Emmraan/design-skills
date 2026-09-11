@@ -157,12 +157,11 @@ other repo.
 
 ## Phase E — Hygiene → branch `docs-hygiene`
 
-- [ ] **E1. Pin Dembrandt version** so extractions are reproducible across machines:
-      document `npx dembrandt@0.28.0 …` in README (keep D6 command shape unchanged).
-- [ ] **E2. Environment note** in AGENTS.md: record Python 3.13 + Node 22 + Dembrandt
-      0.28.0 as the tested matrix.
-- [ ] **E3. `output/` note** — extraction cache is gitignored local state; document that it
-      stays outside version control (shared-drive move only if Dembrandt runs move to CI).
+- [x] **E1. Pin Dembrandt version** — documented `npx dembrandt@0.28.0 …` in README
+      Requirements (D6 command shape unchanged; scripts untouched).
+- [x] **E2. Environment note** in AGENTS.md — tested matrix Python 3.13 + Node 22 +
+      Dembrandt 0.28.0 recorded.
+- [x] **E3. `output/` note** — documented in CONTRIBUTING.md §0 as local gitignored cache.
 
 Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS on `main`.
 
@@ -176,7 +175,7 @@ Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS
 | B — Quality guardrails | `feat-ci-tests` (merged, deleted) | ✅ complete | 31 tests green, CI green, v0.2.0 tag + v0.2.1 tag+Release |
 | C — Content growth | `add-<slug>` per site | 🟡 in progress | gap: agency/ecommerce=1, healthcare/education/travel/devtools/hospitality/web3=0; `add-linear` scaffolded+pushed, Dembrandt run pending (user) |
 | D — Skill ecosystem | (verify; branch only if needed) | ⬜ pending | spec audit, install test, agent-skills consumer |
-| E — Hygiene | `docs-hygiene` | ⬜ pending | version pin, env notes |
+| E — Hygiene | `docs-hygiene` (merged, deleted) | ✅ complete | pin + env matrix + output note |
 
 ---
 
