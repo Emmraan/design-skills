@@ -3,6 +3,9 @@ name: release
 on:
   push:
     branches: [main]
+    # Plan-tracker-only commits (BUILD.md, always `docs:`) can never cut a
+    # release — skip the run instead of no-op'ing through it.
+    paths-ignore: ['BUILD.md']
 
 permissions:
   contents: write

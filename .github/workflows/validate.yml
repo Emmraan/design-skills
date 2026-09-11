@@ -3,8 +3,11 @@ name: validate
 on:
   push:
     branches: [main]
+    # Plan-tracker-only commits (BUILD.md) don't affect repo consistency — skip CI.
+    paths-ignore: ['BUILD.md']
   pull_request:
     branches: [main]
+    paths-ignore: ['BUILD.md']
 
 jobs:
   validate:
