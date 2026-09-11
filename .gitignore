@@ -5,6 +5,9 @@ __pycache__/
 # Dembrandt extraction output (user runs it locally)
 output/
 
+# Local dev-planning doc (untracked by design — never commit)
+BUILD.md
+
 # Editor
 .vscode/
 .idea/

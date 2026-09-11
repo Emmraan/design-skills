@@ -3,7 +3,7 @@
 Flow:
   1. Scaffold references/websites/<slug>/ with metadata.json + a draft analysis.md.
   2. Print the Dembrandt extraction command for the user to run (user runs it on a
-     low-spec machine — one at a time; see BUILD.md D6):
+     low-spec machine — one at a time; see AGENTS.md D6):
        npx dembrandt <url> --save-output --design-md --wcag --crawl 5
   3. After the user runs it, finalize with the produced JSON:
        python scripts/add.py <url> --finalize output/<domain>/<ts>_v0.28.0.json
