@@ -1,9 +1,9 @@
 # BUILD.md — Master Build Document (Future Plan)
 
 > **READ THIS FIRST.** The **initial release (v0.1.0) is complete and shipped** on `main`
-> (commit history: docs, 10 site analyses, scripts, CI-ready layout). This file lives on the
-> `docs-build-plan` branch and contains the **detailed future work plan** — small, executable
-> tasks grouped into phases. Work items live here so `main` stays clean and releasable.
+> (commit history: docs, 10 site analyses, scripts, CI-ready layout). This file is the
+> **detailed future work plan** — small, executable tasks grouped into phases. All builds
+> follow this file; its `## Progress Tracker` is maintained on `main` after every phase.
 >
 > Status of this plan lives in `## Progress Tracker`. When a phase is finished, mark its
 > checkboxes `[x]` and merge the completed work to `main`.
@@ -55,13 +55,15 @@
 **Goal:** professional GitHub repo, working CHANGELOG links, and automatic tags for all
 future releases.
 
-- [ ] **A1. One-time `v0.1.0` bootstrap tag** at the shipped commit (`78c3116`):
-      `git tag -a v0.1.0 78c3116 -m "v0.1.0" && git push origin v0.1.0`.
+- [x] **A1. One-time `v0.1.0` bootstrap tag** at the shipped commit (`78c3116`):
+      `git tag -a v0.1.0 78c3116 -m "v0.1.0" && git push origin v0.1.0` — DONE, tag live.
       Fixes the dead CHANGELOG links (`releases/tag/v0.1.0`, `compare/v0.1.0...HEAD`).
-- [ ] **A2. Release automation** (files on `feat-release`, merged with a `chore:` prefix so
-      the bootstrap merge itself does not mint `v0.2.0`):
+- [x] **A2. Release automation** (files on `feat-release`, merged with a `chore:` prefix so
+      the bootstrap merge itself does not mint `v0.2.0`) — DONE, merged to `main`:
       - `pyproject.toml` — `version = "0.1.0"` + `[tool.semantic_release]` config
         (PyPI upload off; same role as `npmPublish: false` in the reference repo).
+        Verified via temp-repo rehearsal: `feat:` → `v0.2.0` + changelog insert +
+        pyproject bump (`allow_zero_version = true` required, else PSR jumps to `v1.0.0`).
       - `.github/workflows/release.yml` — on push to `main`: setup-python →
         `pip install` → `validate.py` gate (broken code must never get tagged) →
         release step (`GITHUB_TOKEN`, `contents: write`).
@@ -173,7 +175,7 @@ Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS
 
 | Phase | Branch | Status | Notes |
 |---|---|---|---|
-| A — Release polish + tag automation | `feat-release` | ⬜ pending | bootstrap tag + release.yml + repo metadata |
+| A — Release polish + tag automation | `feat-release` (merged, deleted) | 🟡 in progress | A1+A2 done; A3 manual (user web UI), A4 optional |
 | B — Quality guardrails | `feat-ci-tests` | ⬜ pending | CI + tests; merge mints v0.2.0 via CI |
 | C — Content growth | `add-<slug>` per site | ⬜ pending | new sites + editorial |
 | D — Skill ecosystem | (verify; branch only if needed) | ⬜ pending | spec audit, install test, agent-skills consumer |
@@ -190,4 +192,4 @@ Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS
    every chunk and commit.
 4. Merge to `main` ONLY when the phase exit criteria are complete — local squash-merge,
    push `main` (CI runs), then delete the branch.
-5. Update this file + tracker, commit on `docs-build-plan`.
+5. Update this file + tracker and commit on `main` (BUILD.md lives on `main` now).
