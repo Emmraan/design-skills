@@ -11,6 +11,12 @@
           "theme": "light"
         },
         {
+          "slug": "fundingpips",
+          "name": "FundingPips",
+          "style": "bold-trading",
+          "theme": "light"
+        },
+        {
           "slug": "ramp",
           "name": "Ramp",
           "style": "bold-clean",

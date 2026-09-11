@@ -18,6 +18,10 @@
           "take": "giant Apris display statement (133px) + cream \"Discover\" pill on light"
         },
         {
+          "slug": "fundingpips",
+          "take": "giant DM Sans number-claim (221px) + primary CTA over light or terminal-dark"
+        },
+        {
           "slug": "ghost",
           "take": "text-forward statement, no product shot"
         },
@@ -284,6 +288,10 @@
           "take": "cards, highlighted plan, black CTA"
         },
         {
+          "slug": "fundingpips",
+          "take": "account-size cards with stats + Buy Evaluation/Challenge CTAs"
+        },
+        {
           "slug": "ghost",
           "take": "clean tables/cards, highlighted plan"
         },
@@ -384,6 +392,10 @@
         {
           "slug": "clickup",
           "take": "muted, organized, dense"
+        },
+        {
+          "slug": "fundingpips",
+          "take": "trust depth and closure"
         },
         {
           "slug": "ghost",

@@ -17,9 +17,11 @@ credibility and transparency are the primary selling points. See
 | Ramp | `ramp` | Dark-first institutional confidence; one crisp accent; trust-forward hero |
 | Juno | `juno` | Customer-care design; money made approachable for a specific audience |
 | Assembly | `assembly` | Platform-grade credibility for money-moving products |
+| FundingPips | `fundingpips` | High-energy conversion fintech; giant-number heroes; glow CTA system; green-with-a-contract |
 
-Synthesize: **visual gravity** from one, **emotional tone** from another, **data display**
-from the third. Fintech is where restraint (not decoration) sells.
+Synthesize: **visual gravity** from Ramp, **emotional tone** from Juno, **data display**
+from Assembly, **conversion energy** from FundingPips. Fintech is where restraint (not decoration) sells —
+except the CTA, which may glow.
 
 ## External galleries (inspiration, not sources to replicate)
 

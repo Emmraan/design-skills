@@ -10,6 +10,7 @@
 | assembly | fintech | minimal-clean | light | centered-hero |
 | clickup | saas | bold-vibrant | light | centered-hero |
 | flyward | hospitality | editorial-luxury | light | centered-hero |
+| fundingpips | fintech | bold-trading | light | split-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |
 | gumroad | ecommerce | bold-playful | light | centered-hero |
 | juno | saas | playful-warm | light | split-hero |

@@ -52,6 +52,16 @@
         }
       ]
     },
+    "bold-trading": {
+      "sites": [
+        {
+          "slug": "fundingpips",
+          "name": "FundingPips",
+          "industry": "fintech",
+          "theme": "light"
+        }
+      ]
+    },
     "minimal-editorial": {
       "sites": [
         {

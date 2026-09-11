@@ -1,0 +1,16 @@
+{
+  "slug": "fundingpips",
+  "name": "FundingPips",
+  "source-url": "https://fundingpips.com/",
+  "industry": "fintech",
+  "style": "bold-trading",
+  "layout": "split-hero",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-11",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "B583551B310D"
+}
