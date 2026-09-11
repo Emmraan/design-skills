@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v0.2.0 (2026-09-11)
+
+### Chores
+
+- Add CI release automation (python-semantic-release)
+  ([`bf1cf48`](https://github.com/Emmraan/design-skills/commit/bf1cf48bb1b184f571fc8869dc7315c7caedb2b3))
+
+### Documentation
+
+- Add BUILD.md future-work plan to main
+  ([`f2e43b9`](https://github.com/Emmraan/design-skills/commit/f2e43b9bbbaeb6bbe95123d5a92cec1abf953fe7))
+
+- Update BUILD.md tracker (Phase A automation done, lives on main now)
+  ([`06c877c`](https://github.com/Emmraan/design-skills/commit/06c877c9813db2648df941442d8046b60781b5fa))
+
+### Features
+
+- Add CI validation and pytest suite
+  ([`b2196ee`](https://github.com/Emmraan/design-skills/commit/b2196eef9f00497e979a2a0fa52ea9e52b963a00))
+
+
 ## [Unreleased]
 
 ### Added

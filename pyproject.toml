@@ -5,7 +5,7 @@
 
 [project]
 name = "design-skills"
-version = "0.1.0"
+version = "0.2.0"
 description = "UI/UX Design Knowledge Base shipped as a portable Agent Skill."
 requires-python = ">=3.10"
 
