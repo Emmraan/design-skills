@@ -1,5 +1,7 @@
 # Design Skills
 
+[![validate](https://github.com/Emmraan/design-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/Emmraan/design-skills/actions/workflows/validate.yml)
+
 A **UI/UX Design Knowledge Base** built as a portable Agent Skill. It gives AI coding agents
 (Claude Code, OpenCode, Codex, Cursor, Cline, Roo Code, and any MCP/Agent-Skills compatible
 client) the design intelligence to build **original, high-quality websites of any category** —
