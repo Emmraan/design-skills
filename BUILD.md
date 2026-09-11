@@ -86,27 +86,22 @@ topics set; (A4 optional).
 
 Chunks (verify `pytest` + `validate.py` after each):
 
-- [ ] **B3 first. `requirements-dev.txt`** — `pytest` (keep `requirements.txt` runtime-only).
-- [ ] **B1. GitHub Actions CI** — `.github/workflows/validate.yml`:
-      - Trigger: `push` + `pull_request` on `main` (PR trigger harmless now, future-proof).
-      - Steps: checkout → setup-python (3.13) → `pip install -r requirements.txt` →
-        `python scripts/validate.py`.
-      - **Rebuild-sync check**: run `python scripts/rebuild.py`, then
-        `git diff --exit-code` — fails if someone hand-edited `INDEX.md` / retrieval
-        indexes instead of regenerating them (enforces D9).
-- [ ] **B2a. `tests/conftest.py` + `test_common.py`**: `slugify` (www/port/tld/case edge
-      cases), `fingerprint` (SHA1-12), `dembrandt_command` string shape (flags, `--compare`).
-- [ ] **B2b. `test_rebuild.py`**: component-map parsing (em-dash + hyphen + no-separator,
-      stops at `## 11.`), industry/style index merge preserves curated prose.
-- [ ] **B2c. `test_validate.py`**: a fixture repo (temp dir, monkeypatched paths) that fails
-      validation, and the real repo that passes.
-- [ ] **B4. CI badge in `README.md`** (`github/actions/workflow_status`) once B1 is green.
+- [x] **B3. `requirements-dev.txt`** — `pytest` (runtime `requirements.txt` untouched).
+- [x] **B1. GitHub Actions CI** — `.github/workflows/validate.yml` (push + PR on `main`:
+      checkout → setup-python 3.13 → install → `validate.py` + rebuild-sync
+      `git diff --exit-code`, enforces D9). CI run green.
+- [x] **B2a. `tests/conftest.py` + `test_common.py`** — DONE.
+- [x] **B2b. `test_rebuild.py`** — DONE.
+- [x] **B2c. `test_validate.py`** — DONE. Suite: **31 passed**.
+- [x] **B4. CI badge in `README.md`** — DONE.
 
-Merge with **`feat:`** prefix → push to `main` → CI green + first auto-tag **`v0.2.0`** +
-GitHub Release (proves the A2 automation works end-to-end).
+Merged with **`feat:`** → CI green + auto-tags **`v0.2.0`** (tag only — first release run
+failed at GitHub-Release creation: workflow set `GITHUB_TOKEN` but PSR reads `GH_TOKEN`)
+→ fixed on `fix-release-token` (`GH_TOKEN`, merged as `fix:`) → CI green + **`v0.2.1`
+tag + GitHub Release** (automation proven end-to-end).
 
-**Exit criteria B:** `pytest` green; `validate.py` PASS; rebuild-sync clean; CI green on
-`main`; `v0.2.0` auto-tag exists; badge present.
+**Exit criteria B:** ✅ `pytest` green (31); `validate.py` PASS; rebuild-sync clean; CI green
+on `main`; auto-tags + Release exist; badge present.
 
 ---
 
@@ -176,7 +171,7 @@ Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS
 | Phase | Branch | Status | Notes |
 |---|---|---|---|
 | A — Release polish + tag automation | `feat-release` (merged, deleted) | 🟡 in progress | A1+A2 done; A3 manual (user web UI), A4 optional |
-| B — Quality guardrails | `feat-ci-tests` | ⬜ pending | CI + tests; merge mints v0.2.0 via CI |
+| B — Quality guardrails | `feat-ci-tests` (merged, deleted) | ✅ complete | 31 tests green, CI green, v0.2.0 tag + v0.2.1 tag+Release |
 | C — Content growth | `add-<slug>` per site | ⬜ pending | new sites + editorial |
 | D — Skill ecosystem | (verify; branch only if needed) | ⬜ pending | spec audit, install test, agent-skills consumer |
 | E — Hygiene | `docs-hygiene` | ⬜ pending | version pin, env notes |
