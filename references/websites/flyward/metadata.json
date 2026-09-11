@@ -1,0 +1,16 @@
+{
+  "slug": "flyward",
+  "name": "Flyward",
+  "source-url": "https://www.flyward.com/",
+  "industry": "hospitality",
+  "style": "editorial-luxury",
+  "layout": "centered-hero",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-11",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "B3BA8B5A5711"
+}

@@ -42,6 +42,16 @@
       ],
       "signature": "saturated bento color, dense feature storytelling, energetic CTAs"
     },
+    "editorial-luxury": {
+      "sites": [
+        {
+          "slug": "flyward",
+          "name": "Flyward",
+          "industry": "hospitality",
+          "theme": "light"
+        }
+      ]
+    },
     "minimal-editorial": {
       "sites": [
         {

@@ -60,6 +60,16 @@
         "product-first chrome from Mobbin"
       ]
     },
+    "hospitality": {
+      "sites": [
+        {
+          "slug": "flyward",
+          "name": "Flyward",
+          "style": "editorial-luxury",
+          "theme": "light"
+        }
+      ]
+    },
     "ecommerce": {
       "sites": [
         {

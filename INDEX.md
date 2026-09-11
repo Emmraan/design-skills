@@ -9,6 +9,7 @@
 |---|---|---|---|---|
 | assembly | fintech | minimal-clean | light | centered-hero |
 | clickup | saas | bold-vibrant | light | centered-hero |
+| flyward | hospitality | editorial-luxury | light | centered-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |
 | gumroad | ecommerce | bold-playful | light | centered-hero |
 | juno | saas | playful-warm | light | split-hero |
@@ -32,6 +33,7 @@
 | Education | `references/collections/education.md` |
 | Fintech | `references/collections/fintech.md` |
 | Healthcare | `references/collections/healthcare.md` |
+| Hospitality | `references/collections/hospitality.md` |
 | Portfolio | `references/collections/portfolio.md` |
 | Saas | `references/collections/saas.md` |
 | Travel | `references/collections/travel.md` |
