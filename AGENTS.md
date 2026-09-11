@@ -1,9 +1,13 @@
 # AGENTS.md — Guidance for AI Agents Working in This Repo
 
 > **READ THIS FIRST.** This file is the entry point for any AI agent (and any human)
-> working in `design-skills`. All build phases are complete — the repo is in **maintenance
-> mode**: the operational docs are `CONTRIBUTING.md` (maintenance workflow) and this file
-> (operating rules). There is no more phased build plan.
+> working in `design-skills`. The repo is **automation-guarded and growing**: CI
+> (`validate.yml` + `release.yml`), a pytest suite (`tests/`), and automatic tags +
+> GitHub Releases via `python-semantic-release` all run on push to `main`. Content work
+> (new site analyses) is ongoing. The operational docs are `CONTRIBUTING.md`
+> (maintenance workflow) and this file (operating rules). Remaining work is tracked in
+> the local-only `BUILD.md` (untracked, on the maintainer's disk — ask the user about it;
+> never commit it).
 
 ---
 
@@ -34,6 +38,11 @@ SKILL.md                 Skill instructions (design brain)
 INDEX.md                 Master map — auto-generated, do not edit
 CONTRIBUTING.md          Add/Update/Delete/Manual process (humans + agents)
 AGENTS.md                This file — operating rules
+pyproject.toml           Release config (python-semantic-release; tags are source of truth)
+.gitattributes           `*.json` forced LF (fingerprints hash bytes — never CRLF)
+.github/workflows/      validate.yml (validate + rebuild-sync) + release.yml (auto-tag)
+tests/                   pytest suite for scripts/ (conftest + test_common/rebuild/validate)
+requirements-dev.txt     pytest (runtime deps stay in requirements.txt)
 scripts/                 add/update/update-all/delete/import/rebuild/validate + _common.py + analyze-agent.md
 references/
   collections/           Editorial category guides (curated, not overwritten)
@@ -53,12 +62,21 @@ references/
 - Do not edit `_template/` files unless changing the template itself.
 - User runs all Dembrandt commands himself, **one at a time** (low-spec machine). Scripts
   only print the commands — do not auto-execute them.
+- **No `gh` CLI, no GitHub PRs.** Work on a branch off `main`, merge LOCALLY
+  (`git merge --squash`), push `main`, delete the branch. Never commit directly to `main`.
+- **Conventional Commits on `main`** — CI tagging reads them: `feat:`/`fix:` cut a
+  release (tag + GitHub Release via CI); `docs:`/`chore:`/`add <slug>:` do not.
+- Verify before every merge: `validate.py` PASS **and** `pytest` green **and** rebuild-sync
+  clean (`python scripts/rebuild.py` + `git diff --exit-code`).
+- **Line endings:** `baseline.json` files must stay LF (`.gitattributes` enforces it) —
+  `validate.py` fingerprints file bytes and CRLF breaks the match.
 
 ## 5. Maintenance commands (after any change to `references/websites/`)
 
 ```bash
 python scripts/rebuild.py     # regenerate INDEX.md + retrieval/*.json
 python scripts/validate.py    # SKILL.md spec + links + index consistency (expect PASS)
+python -m pytest tests/ -q    # script test suite (expect all green)
 ```
 
 Full add/update/delete/import workflows: **`CONTRIBUTING.md`**.
