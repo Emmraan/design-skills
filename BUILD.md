@@ -172,7 +172,7 @@ Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS
 |---|---|---|---|
 | A — Release polish + tag automation | `feat-release` (merged, deleted) | 🟡 in progress | A1+A2 done; A3 manual (user web UI), A4 optional |
 | B — Quality guardrails | `feat-ci-tests` (merged, deleted) | ✅ complete | 31 tests green, CI green, v0.2.0 tag + v0.2.1 tag+Release |
-| C — Content growth | `add-<slug>` per site | ⬜ pending | new sites + editorial |
+| C — Content growth | `add-<slug>` per site | 🟡 in progress | gap: agency/ecommerce=1, healthcare/education/travel/devtools/hospitality/web3=0; `add-linear` scaffolded+pushed, Dembrandt run pending (user) |
 | D — Skill ecosystem | (verify; branch only if needed) | ⬜ pending | spec audit, install test, agent-skills consumer |
 | E — Hygiene | `docs-hygiene` | ⬜ pending | version pin, env notes |
 
