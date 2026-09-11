@@ -7,8 +7,9 @@ Flow:
        npx dembrandt <url> --save-output --design-md --wcag --crawl 5
   3. After the user runs it, finalize with the produced JSON:
        python scripts/add.py <url> --finalize output/<domain>/<ts>_v0.28.0.json
-     This stores baseline.json, computes the fingerprint, fills metadata, then runs
-     rebuild.py + validate.py.
+      This stores baseline.json, computes the fingerprint, fills metadata, then runs
+      rebuild.py + validate.py. On success the consumed snapshot is deleted from
+      output/ (its content already lives in baseline.json).
 
 Usage:
     python scripts/add.py <url> [--slug <slug>] [--crawl <n>]
@@ -21,8 +22,8 @@ import datetime as dt
 import sys
 from pathlib import Path
 
-from _common import OUTPUT_DIR, WEBSITES_DIR, dembrandt_command, fingerprint, \
-    read_json, run_script, slugify, write_json
+from _common import OUTPUT_DIR, WEBSITES_DIR, cleanup_consumed_snapshot, \
+    dembrandt_command, fingerprint, read_json, run_script, slugify, write_json
 
 TEMPLATE_META = WEBSITES_DIR / "_template" / "metadata.json"
 TEMPLATE_ANALYSIS = WEBSITES_DIR / "_template" / "analysis.md"
@@ -68,8 +69,11 @@ def finalize(url: str, slug: str, baseline_json: str, crawl: int) -> None:
     write_json(folder / "metadata.json", meta)
     print(f"finalized {slug}: baseline.json + fingerprint {meta['fingerprint']}")
     print(f"  complete analysis.md ({folder / 'analysis.md'}), then:")
-    for name in ("rebuild.py", "validate.py"):
-        run_script(name)
+    results = [run_script(name) for name in ("rebuild.py", "validate.py")]
+    if all(rc == 0 for rc in results):
+        cleanup_consumed_snapshot(src)
+    else:
+        print("  [warn] rebuild/validate failed — snapshot left in place, fix first")
 
 
 def main() -> None:

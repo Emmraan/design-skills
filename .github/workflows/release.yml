@@ -3,6 +3,12 @@ name: release
 on:
   push:
     branches: [main]
+    # Skip pushes that touch ONLY prose/doc files — they always carry docs:/chore:
+    # prefixes, which can never cut a release. Anything else (code, content, config)
+    # runs the workflow; PSR itself no-ops when there is nothing to release. A missed
+    # feat: on a docs-only change would ride along silently in the next release.
+    paths-ignore: ['README.md', 'CONTRIBUTING.md', 'AGENTS.md', 'CHANGELOG.md',
+      'LICENSE', 'CODE_OF_CONDUCT.md', 'SECURITY.md']
 
 permissions:
   contents: write

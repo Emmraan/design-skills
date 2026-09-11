@@ -89,3 +89,43 @@ def run_script(name: str) -> int:
 
 def out(msg: str) -> None:
     print(msg, file=sys.stdout)
+
+
+def cleanup_consumed_snapshot(snapshot: str | Path) -> bool:
+    """Delete a consumed Dembrandt extraction snapshot after a successful finalize.
+
+    Removes ONLY the given snapshot file, then removes its parent folder when it
+    lives directly under OUTPUT_DIR and no other `*_v*.json` snapshots remain in
+    it. The snapshot content already lives in the site's baseline.json, so the
+    cache file is redundant; leftover folders would only waste disk (low-spec
+    machine rule).
+
+    Safety: only files directly under OUTPUT_DIR are ever touched — anything
+    outside OUTPUT_DIR is refused. Never raises; returns False (with a warning)
+    when there is nothing to do or removal fails. Callers must invoke this ONLY
+    after rebuild.py + validate.py both exit 0.
+    """
+    try:
+        snap = Path(snapshot)
+        if not snap.is_file():
+            print(f"  [warn] snapshot already gone: {snap}")
+            return False
+        try:
+            rel = snap.resolve().relative_to(OUTPUT_DIR.resolve())
+        except ValueError:
+            print(f"  [warn] refusing to delete outside output/: {snap}")
+            return False
+        snap.unlink()
+        print(f"  cleaned up consumed snapshot: {rel.as_posix()}")
+        parent = snap.parent
+        if parent.resolve() != OUTPUT_DIR.resolve():
+            remaining = sorted(parent.glob("*_v*.json"))
+            if not remaining:
+                import shutil
+
+                shutil.rmtree(parent)
+                print(f"  removed empty extraction folder: {parent.name}/")
+        return True
+    except OSError as exc:
+        print(f"  [warn] could not remove snapshot {snapshot}: {exc}")
+        return False

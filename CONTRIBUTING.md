@@ -62,7 +62,8 @@ python scripts/add.py https://example.com --finalize output/<domain>/<timestamp>
 ```
 
 This stores `baseline.json`, computes the fingerprint (SHA1 hex-12 of the baseline), fills
-`metadata.json`, and runs `rebuild.py` + `validate.py`.
+`metadata.json`, and runs `rebuild.py` + `validate.py`. On success the consumed snapshot
+is deleted from `output/` automatically (its content already lives in `baseline.json`).
 
 **Step 5 — Check.** `validate.py` should print `PASS`. Commit.
 
@@ -86,7 +87,8 @@ python scripts/update.py <slug> --finalize <new-json>
 ```
 
 This replaces `baseline.json`, refreshes the fingerprint and `collected-at`, then runs
-`rebuild.py` + `validate.py`.
+`rebuild.py` + `validate.py`. On success the consumed snapshot is deleted from `output/`
+automatically.
 
 > Tip: keep `analysis.md` changes in sync with what the new extraction actually shows —
 > the fingerprint only tracks the *baseline*, not your prose.

@@ -1,10 +1,19 @@
 name: validate
 
 on:
+  # Run only when files that validation covers change. validate.py reads SKILL.md,
+  # every *.md (link check), references/**, INDEX.md, requirements (env), plus the
+  # scripts/tests/.gitattributes that drive the checks — anything else cannot break it.
   push:
     branches: [main]
+    paths: ['references/**', 'scripts/**', 'tests/**', 'SKILL.md', 'INDEX.md',
+      'requirements*.txt', '.gitattributes', '.github/workflows/validate.yml',
+      '**/*.md', 'LICENSE']
   pull_request:
     branches: [main]
+    paths: ['references/**', 'scripts/**', 'tests/**', 'SKILL.md', 'INDEX.md',
+      'requirements*.txt', '.gitattributes', '.github/workflows/validate.yml',
+      '**/*.md', 'LICENSE']
 
 jobs:
   validate:

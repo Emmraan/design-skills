@@ -7,7 +7,8 @@ Flow:
      parts of analysis.md.
   3. Accept the new snapshot with --finalize <json> to replace baseline.json and refresh
      the fingerprint (do this AFTER the agent revises analysis.md).
-  4. rebuild.py + validate.py run automatically on finalize.
+   4. rebuild.py + validate.py run automatically on finalize; on success the
+      consumed snapshot is deleted from output/.
 
 Usage:
     python scripts/update.py <slug>
@@ -20,8 +21,8 @@ import datetime as dt
 import sys
 from pathlib import Path
 
-from _common import WEBSITES_DIR, dembrandt_command, fingerprint, \
-    read_json, run_script, write_json
+from _common import WEBSITES_DIR, cleanup_consumed_snapshot, dembrandt_command, \
+    fingerprint, read_json, run_script, write_json
 
 
 def main() -> None:
@@ -60,8 +61,11 @@ def main() -> None:
     meta["fingerprint"] = fingerprint(baseline)
     write_json(meta_path, meta)
     print(f"updated {args.slug}: baseline.json + fingerprint {meta['fingerprint']}")
-    for name in ("rebuild.py", "validate.py"):
-        run_script(name)
+    results = [run_script(name) for name in ("rebuild.py", "validate.py")]
+    if all(rc == 0 for rc in results):
+        cleanup_consumed_snapshot(src)
+    else:
+        print("  [warn] rebuild/validate failed — snapshot left in place, fix first")
 
 
 if __name__ == "__main__":
