@@ -85,6 +85,16 @@
         }
       ]
     },
+    "healthcare": {
+      "sites": [
+        {
+          "slug": "mavenclinic",
+          "name": "Maven Clinic",
+          "style": "editorial-warm",
+          "theme": "light"
+        }
+      ]
+    },
     "agency": {
       "sites": [
         {

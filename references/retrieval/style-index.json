@@ -75,6 +75,16 @@
       ],
       "signature": "warm palette (mint/cream/gold), rounded friendly surfaces, human tone"
     },
+    "editorial-warm": {
+      "sites": [
+        {
+          "slug": "mavenclinic",
+          "name": "Maven Clinic",
+          "industry": "healthcare",
+          "theme": "light"
+        }
+      ]
+    },
     "editorial-premium": {
       "sites": [
         {

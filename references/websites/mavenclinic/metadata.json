@@ -1,0 +1,16 @@
+{
+  "slug": "mavenclinic",
+  "name": "Maven Clinic",
+  "source-url": "https://www.mavenclinic.com/",
+  "industry": "healthcare",
+  "style": "editorial-warm",
+  "layout": "split-hero",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-11",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "6477933811C6"
+}

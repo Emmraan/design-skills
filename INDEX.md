@@ -13,6 +13,7 @@
 | gumroad | ecommerce | bold-playful | light | centered-hero |
 | juno | saas | playful-warm | light | split-hero |
 | linear | developer-tools | minimal-clean | dark | split-hero |
+| mavenclinic | healthcare | editorial-warm | light | split-hero |
 | mobbin | saas | minimal-clean | light | centered-hero |
 | primora | agency | editorial-premium | dark | editorial-split |
 | ramp | fintech | bold-clean | light | split-hero |
@@ -27,6 +28,7 @@
 | Ai | `references/collections/ai.md` |
 | Ecommerce | `references/collections/ecommerce.md` |
 | Fintech | `references/collections/fintech.md` |
+| Healthcare | `references/collections/healthcare.md` |
 | Portfolio | `references/collections/portfolio.md` |
 | Saas | `references/collections/saas.md` |
 

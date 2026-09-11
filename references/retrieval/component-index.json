@@ -30,6 +30,10 @@
           "take": "centered statement type (72px, tight) + dual-pill CTA + product visual"
         },
         {
+          "slug": "mavenclinic",
+          "take": "oversized serif statement (160px fluid) + dual CTA + human photography proof"
+        },
+        {
           "slug": "mobbin",
           "take": "strong display statement + product/library visual + CTA"
         },
@@ -79,6 +83,10 @@
           "take": "dark, hairline-bottom; logo left, quiet links, dual-pill CTA right"
         },
         {
+          "slug": "mavenclinic",
+          "take": "bone/translucent; wordmark left, solution links center, ghost \"Login\" + teal \"Book a demo\" right"
+        },
+        {
           "slug": "mobbin",
           "take": "minimal, logo left, dark pill CTA right"
         },
@@ -120,6 +128,10 @@
           "take": "customer logos as a quiet muted band"
         },
         {
+          "slug": "mavenclinic",
+          "take": "logos + outcome stats (\"predictable costs\") for buyer confidence"
+        },
+        {
           "slug": "primora",
           "take": "quiet band"
         },
@@ -159,6 +171,10 @@
         {
           "slug": "linear",
           "take": "alternating rows pairing copy with UI proof"
+        },
+        {
+          "slug": "mavenclinic",
+          "take": "mint markers + pine bands explaining care models"
         },
         {
           "slug": "mobbin",
@@ -264,6 +280,10 @@
           "take": "tiered cards on dark, highlighted plan, pill CTA per tier"
         },
         {
+          "slug": "mavenclinic",
+          "take": "\"Get pricing\" CTA + predictable-costs card (10px radius band)"
+        },
+        {
           "slug": "mobbin",
           "take": "cards, highlighted plan"
         },
@@ -356,6 +376,10 @@
         {
           "slug": "linear",
           "take": "muted multi-column, meta gray, legal quiet"
+        },
+        {
+          "slug": "mavenclinic",
+          "take": "deep pine/green, multi-column links, newsletter capture, social quiet"
         },
         {
           "slug": "mobbin",
