@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v0.3.1 (2026-09-11)
+
+### Bug Fixes
+
+- Scope release CI to skip content-only pushes
+  ([`ab07b96`](https://github.com/Emmraan/design-skills/commit/ab07b96da5cf288d13857910c13f46fdc453d018))
+
+
 ## v0.3.0 (2026-09-11)
 
 ### Chores
