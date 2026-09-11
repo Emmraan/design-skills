@@ -36,5 +36,8 @@ jobs:
 
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # python-semantic-release reads its GitHub API token from GH_TOKEN
+          # (not GITHUB_TOKEN) — without it, tag+push succeed but creating
+          # the GitHub Release fails and the job exits 1.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: semantic-release version
