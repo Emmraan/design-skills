@@ -75,6 +75,16 @@
         "creator commerce with personality + low-friction buy from Gumroad"
       ]
     },
+    "developer-tools": {
+      "sites": [
+        {
+          "slug": "linear",
+          "name": "Linear",
+          "style": "minimal-clean",
+          "theme": "dark"
+        }
+      ]
+    },
     "agency": {
       "sites": [
         {

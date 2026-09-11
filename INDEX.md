@@ -12,6 +12,7 @@
 | ghost | saas | minimal-editorial | light | centered-hero |
 | gumroad | ecommerce | bold-playful | light | centered-hero |
 | juno | saas | playful-warm | light | split-hero |
+| linear | developer-tools | minimal-clean | dark | split-hero |
 | mobbin | saas | minimal-clean | light | centered-hero |
 | primora | agency | editorial-premium | dark | editorial-split |
 | ramp | fintech | bold-clean | light | split-hero |

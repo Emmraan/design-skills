@@ -1,0 +1,4124 @@
+{
+  "url": "https://linear.app/",
+  "extractedAt": "2026-09-11T09:37:50.740Z",
+  "meta": {
+    "snapshotId": "1a6ce14e-ed37-4205-a3d8-1960c1d2c615",
+    "httpStatus": 200,
+    "dembrandtVersion": "0.32.2",
+    "schemaVersion": "1.12.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": false,
+    "requestedUrl": "https://linear.app",
+    "contentLength": 333365,
+    "flags": {},
+    "crawl": {
+      "technique": "auto",
+      "pagesRequested": 5,
+      "pagesFound": 5
+    }
+  },
+  "siteName": "Linear",
+  "logo": {
+    "source": "svg",
+    "context": "header",
+    "inline": true,
+    "url": "https://linear.app/homepage",
+    "color": "#f7f8f8",
+    "ariaLabel": "Linear",
+    "markup": "<svg height=\"22\" viewBox=\"0 0 400 100\" fill=\"currentColor\" size=\"22\" color=\"currentColor\" aria-label=\"Linear\" xmlns=\"http://www.w3.org/2000/svg\" style=\"color: rgb(247, 248, 248);\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.927 16.371a1.47 1.47 0 0 0 .061 2.027l68.595 68.594c.555.555 1.446.59 2.026.062 10.058-9.152 16.372-22.348 16.372-37.018C99.98 22.402 77.579 0 49.945 0c-14.67 0-27.866 6.313-37.018 16.371M4.353 29.39a1.47 1.47 0 0 0 .309 1.648L68.943 95.32c.434.434 1.09.562 1.648.308a50 50 0 0 0 4.335-2.227c.834-.482.962-1.62.28-2.3L8.882 24.773c-.68-.68-1.818-.553-2.3.281a50 50 0 0 0-2.228 4.334m-3.9 18.407a1.48 1.48 0 0 1-.432-1.14q.2-2.986.74-5.866c.215-1.15 1.62-1.55 2.448-.722l56.703 56.704c.828.827.429 2.233-.722 2.448a50 50 0 0 1-5.865.74 1.48 1.48 0 0 1-1.14-.433zm3.48 13.963c-1.033-1.033-2.7-.143-2.322 1.268C6.221 80.22 19.761 93.76 36.954 98.37c1.41.379 2.3-1.289 1.268-2.322zm197.669-34.224c3.587 0 6.494-2.918 6.494-6.518s-2.907-6.517-6.494-6.517-6.493 2.918-6.493 6.518 2.907 6.517 6.493 6.517m-55.621 56.84v-69.87h11.54v59.648h31.115v10.223zm82.136-28.511v28.51h-11.166V34.857h11.026v8.487l.14-.094q1.682-3.986 5.42-6.659 3.737-2.72 9.531-2.72 5.139 0 9.344 2.299 4.204 2.25 6.727 6.611 2.523 4.362 2.523 10.692v30.903h-11.166V55.02q0-5.628-2.99-8.535-2.943-2.954-7.896-2.954-3.177 0-5.793 1.313t-4.158 4.032-1.542 6.988M329.222 83.53q3.831 1.642 8.783 1.642 4.065 0 6.961-1.032 2.898-1.078 4.766-2.86 1.915-1.782 3.037-3.893h.187v6.988h10.699V50.283q0-3.61-1.402-6.612-1.401-3-4.065-5.205-2.616-2.205-6.354-3.376-3.737-1.22-8.409-1.22-6.4 0-11.073 2.205-4.625 2.157-7.242 5.814t-2.85 8.254h10.793a7.15 7.15 0 0 1 1.495-3.846q1.308-1.687 3.551-2.626 2.242-.984 5.186-.984t4.999.984q2.102.986 3.223 2.673 1.122 1.689 1.122 3.94v.375q0 1.687-1.168 2.485-1.122.797-3.831 1.172-2.664.375-7.289.891a59 59 0 0 0-7.288 1.266q-3.504.844-6.261 2.486a12.25 12.25 0 0 0-4.298 4.36q-1.588 2.72-1.588 6.988 0 4.923 2.242 8.253 2.243 3.282 6.074 4.97m18.081-8.3q-2.71 1.454-6.681 1.454-4.019 0-6.401-1.688-2.383-1.736-2.383-4.736 0-2.345 1.308-3.799 1.356-1.454 3.551-2.297t4.765-1.173q1.869-.281 3.645-.562 1.775-.329 3.317-.61 1.542-.329 2.616-.657 1.122-.328 1.635-.703v5.533q0 2.908-1.355 5.346-1.308 2.392-4.017 3.892m26.094 9.145v-49.52h10.745v8.16h.141q1.354-4.22 4.251-6.425 2.943-2.25 7.709-2.25 1.169 0 2.102.093.982.048 1.636.094V44.61a41 41 0 0 0-2.149-.234 36 36 0 0 0-3.271-.14q-2.756 0-5.046 1.265-2.29 1.267-3.644 3.892-1.308 2.58-1.308 6.518v28.465zm-177.401 0v-49.52h11.166v49.52zm84.238-2.204q5.373 3.33 12.755 3.329 5.7 0 10.372-2.063 4.719-2.11 7.849-5.768 3.13-3.705 4.065-8.535h-10.512a10.1 10.1 0 0 1-2.29 3.892q-1.541 1.642-3.877 2.58-2.337.937-5.42.937-4.158 0-7.148-1.875-2.943-1.876-4.485-5.205-1.4-3.065-1.529-6.94h35.915V59.52q0-5.721-1.682-10.41-1.682-4.735-4.766-8.16-3.082-3.47-7.428-5.345-4.298-1.875-9.578-1.876-6.867 0-12.147 3.33t-8.27 9.19-2.99 13.412q0 7.503 2.897 13.364 2.897 5.815 8.269 9.145m23.501-32.779q-1.542-3.189-4.392-4.923-2.85-1.736-6.728-1.736-3.831 0-6.681 1.736-2.802 1.734-4.391 4.923-1.134 2.31-1.434 5.252h25.059q-.3-2.942-1.433-5.252\"></path></svg>",
+    "dataUri": "data:image/svg+xml;utf8,%3Csvg%20height%3D%2222%22%20viewBox%3D%220%200%20400%20100%22%20fill%3D%22currentColor%22%20size%3D%2222%22%20color%3D%22currentColor%22%20aria-label%3D%22Linear%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20style%3D%22color%3A%20rgb(247%2C%20248%2C%20248)%3B%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12.927%2016.371a1.47%201.47%200%200%200%20.061%202.027l68.595%2068.594c.555.555%201.446.59%202.026.062%2010.058-9.152%2016.372-22.348%2016.372-37.018C99.98%2022.402%2077.579%200%2049.945%200c-14.67%200-27.866%206.313-37.018%2016.371M4.353%2029.39a1.47%201.47%200%200%200%20.309%201.648L68.943%2095.32c.434.434%201.09.562%201.648.308a50%2050%200%200%200%204.335-2.227c.834-.482.962-1.62.28-2.3L8.882%2024.773c-.68-.68-1.818-.553-2.3.281a50%2050%200%200%200-2.228%204.334m-3.9%2018.407a1.48%201.48%200%200%201-.432-1.14q.2-2.986.74-5.866c.215-1.15%201.62-1.55%202.448-.722l56.703%2056.704c.828.827.429%202.233-.722%202.448a50%2050%200%200%201-5.865.74%201.48%201.48%200%200%201-1.14-.433zm3.48%2013.963c-1.033-1.033-2.7-.143-2.322%201.268C6.221%2080.22%2019.761%2093.76%2036.954%2098.37c1.41.379%202.3-1.289%201.268-2.322zm197.669-34.224c3.587%200%206.494-2.918%206.494-6.518s-2.907-6.517-6.494-6.517-6.493%202.918-6.493%206.518%202.907%206.517%206.493%206.517m-55.621%2056.84v-69.87h11.54v59.648h31.115v10.223zm82.136-28.511v28.51h-11.166V34.857h11.026v8.487l.14-.094q1.682-3.986%205.42-6.659%203.737-2.72%209.531-2.72%205.139%200%209.344%202.299%204.204%202.25%206.727%206.611%202.523%204.362%202.523%2010.692v30.903h-11.166V55.02q0-5.628-2.99-8.535-2.943-2.954-7.896-2.954-3.177%200-5.793%201.313t-4.158%204.032-1.542%206.988M329.222%2083.53q3.831%201.642%208.783%201.642%204.065%200%206.961-1.032%202.898-1.078%204.766-2.86%201.915-1.782%203.037-3.893h.187v6.988h10.699V50.283q0-3.61-1.402-6.612-1.401-3-4.065-5.205-2.616-2.205-6.354-3.376-3.737-1.22-8.409-1.22-6.4%200-11.073%202.205-4.625%202.157-7.242%205.814t-2.85%208.254h10.793a7.15%207.15%200%200%201%201.495-3.846q1.308-1.687%203.551-2.626%202.242-.984%205.186-.984t4.999.984q2.102.986%203.223%202.673%201.122%201.689%201.122%203.94v.375q0%201.687-1.168%202.485-1.122.797-3.831%201.172-2.664.375-7.289.891a59%2059%200%200%200-7.288%201.266q-3.504.844-6.261%202.486a12.25%2012.25%200%200%200-4.298%204.36q-1.588%202.72-1.588%206.988%200%204.923%202.242%208.253%202.243%203.282%206.074%204.97m18.081-8.3q-2.71%201.454-6.681%201.454-4.019%200-6.401-1.688-2.383-1.736-2.383-4.736%200-2.345%201.308-3.799%201.356-1.454%203.551-2.297t4.765-1.173q1.869-.281%203.645-.562%201.775-.329%203.317-.61%201.542-.329%202.616-.657%201.122-.328%201.635-.703v5.533q0%202.908-1.355%205.346-1.308%202.392-4.017%203.892m26.094%209.145v-49.52h10.745v8.16h.141q1.354-4.22%204.251-6.425%202.943-2.25%207.709-2.25%201.169%200%202.102.093.982.048%201.636.094V44.61a41%2041%200%200%200-2.149-.234%2036%2036%200%200%200-3.271-.14q-2.756%200-5.046%201.265-2.29%201.267-3.644%203.892-1.308%202.58-1.308%206.518v28.465zm-177.401%200v-49.52h11.166v49.52zm84.238-2.204q5.373%203.33%2012.755%203.329%205.7%200%2010.372-2.063%204.719-2.11%207.849-5.768%203.13-3.705%204.065-8.535h-10.512a10.1%2010.1%200%200%201-2.29%203.892q-1.541%201.642-3.877%202.58-2.337.937-5.42.937-4.158%200-7.148-1.875-2.943-1.876-4.485-5.205-1.4-3.065-1.529-6.94h35.915V59.52q0-5.721-1.682-10.41-1.682-4.735-4.766-8.16-3.082-3.47-7.428-5.345-4.298-1.875-9.578-1.876-6.867%200-12.147%203.33t-8.27%209.19-2.99%2013.412q0%207.503%202.897%2013.364%202.897%205.815%208.269%209.145m23.501-32.779q-1.542-3.189-4.392-4.923-2.85-1.736-6.728-1.736-3.831%200-6.681%201.736-2.802%201.734-4.391%204.923-1.134%202.31-1.434%205.252h25.059q-.3-2.942-1.433-5.252%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E",
+    "svgColors": [],
+    "width": 88,
+    "height": 22,
+    "rect": {
+      "x": 319,
+      "y": 25,
+      "width": 88,
+      "height": 22
+    },
+    "natural": {
+      "width": 400,
+      "height": 100
+    },
+    "type": "wordmark",
+    "reversed": false,
+    "background": null,
+    "safeZone": {
+      "top": 0,
+      "right": 8,
+      "bottom": 0,
+      "left": 8
+    },
+    "position": {
+      "top": 25,
+      "left": 319
+    }
+  },
+  "favicons": [
+    {
+      "type": "icon",
+      "url": "https://linear.app/favicon.ico?v=2",
+      "sizes": "any"
+    },
+    {
+      "type": "icon",
+      "url": "https://linear.app/static/favicon.svg?v=2",
+      "sizes": null
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://linear.app/static/apple-touch-icon.png?v=2",
+      "sizes": "180x180"
+    },
+    {
+      "type": "og:image",
+      "url": "https://linear.app/static/og/homepage.jpg",
+      "sizes": null
+    },
+    {
+      "type": "twitter:image",
+      "url": "https://linear.app/static/og/homepage.jpg",
+      "sizes": null
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_maskable_128.png?v=3",
+      "sizes": "128x128",
+      "purpose": "maskable"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_maskable_192.png?v=3",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_maskable_512.png?v=3",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_512.png?v=3",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_192.png?v=3",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_180.png?v=3",
+      "sizes": "180x180",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_128.png?v=3",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://static.linear.app/assets/pwa/icon_120.png?v=3",
+      "sizes": "120x120",
+      "purpose": "any"
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "secondary": "rgb(228, 242, 34)",
+      "background": "rgb(8, 9, 10)",
+      "text": "rgb(247, 248, 248)",
+      "primary": "rgb(39, 166, 68)",
+      "accent": "rgb(78, 167, 252)"
+    },
+    "palette": [
+      {
+        "color": "rgb(247, 248, 248)",
+        "normalized": "#f7f8f8",
+        "count": 8728,
+        "confidence": "high",
+        "sources": [
+          "tztsqg_header",
+          "tztsqg_menuroot",
+          "tztsqg_innerwrapper"
+        ],
+        "lch": "lch(97.502% 0.342 197.103)",
+        "oklch": "oklch(97.837% 0.00106 197.139)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d2d3d3",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 18.73,
+            "aa": true
+          },
+          {
+            "bg": "#090a0b",
+            "ratio": 18.62,
+            "aa": true
+          },
+          {
+            "bg": "#0b0c0d",
+            "ratio": 18.4,
+            "aa": true
+          },
+          {
+            "bg": "#0f1011",
+            "ratio": 17.9,
+            "aa": true
+          },
+          {
+            "bg": "#141516",
+            "ratio": 17.18,
+            "aa": true
+          },
+          {
+            "bg": "#222324",
+            "ratio": 14.8,
+            "aa": true
+          },
+          {
+            "bg": "#eb5757",
+            "ratio": 3.27,
+            "aa": false
+          },
+          {
+            "bg": "#4ea7fc",
+            "ratio": 2.39,
+            "aa": false
+          },
+          {
+            "bg": "#ffffff",
+            "ratio": 1.06,
+            "aa": false
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(138, 143, 152)",
+        "normalized": "#8a8f98",
+        "count": 1955,
+        "confidence": "high",
+        "sources": [
+          "tztsqg_anchor",
+          "sc-kogvz",
+          "_1uftza_pillbutton"
+        ],
+        "lch": "lch(59.204% 5.462 264.83)",
+        "oklch": "oklch(64.8812% 0.01459 262.359)",
+        "role": "neutral",
+        "onColor": "#000000",
+        "hover": "#757a81",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 6.13,
+            "aa": true
+          },
+          {
+            "bg": "#0b0c0d",
+            "ratio": 6.03,
+            "aa": true
+          },
+          {
+            "bg": "#0f1011",
+            "ratio": 5.86,
+            "aa": true
+          },
+          {
+            "bg": "#101112",
+            "ratio": 5.82,
+            "aa": true
+          },
+          {
+            "bg": "#131415",
+            "ratio": 5.68,
+            "aa": true
+          },
+          {
+            "bg": "#141516",
+            "ratio": 5.63,
+            "aa": true
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(98, 102, 109)",
+        "normalized": "#62666d",
+        "count": 1119,
+        "confidence": "high",
+        "sources": [
+          "mmx1wq_searchbutton",
+          "mmx1wq_navitem",
+          "_1uftza_buttonbase"
+        ],
+        "lch": "lch(43.018% 4.532 264.347)",
+        "oklch": "oklch(50.9176% 0.01212 261.768)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#767a83",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 3.45,
+            "aa": false
+          },
+          {
+            "bg": "#090a0b",
+            "ratio": 3.44,
+            "aa": false
+          },
+          {
+            "bg": "#0b0c0d",
+            "ratio": 3.39,
+            "aa": false
+          },
+          {
+            "bg": "#0f1011",
+            "ratio": 3.3,
+            "aa": false
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(32, 33, 34)",
+        "normalized": "#202122",
+        "count": 366,
+        "confidence": "high",
+        "sources": [
+          "pdolrq_featurecell"
+        ],
+        "lch": "lch(12.663% 0.891 251.186)",
+        "oklch": "oklch(24.7099% 0.00241 247.923)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#262829",
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(235, 87, 87)",
+        "normalized": "#eb5757",
+        "count": 3,
+        "confidence": "high",
+        "sources": [
+          "_5k-xcq_labeldot"
+        ],
+        "lch": "lch(57.939% 66.487 29.094)",
+        "oklch": "oklch(65.3372% 0.18348 23.679)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#c84a4a",
+        "contrastAgainst": [
+          {
+            "bg": "#f7f8f8",
+            "ratio": 3.27,
+            "aa": false
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(39, 166, 68)",
+        "normalized": "#27a644",
+        "count": 7,
+        "confidence": "high",
+        "sources": [
+          "wmqzwg_added",
+          "_5k-xcq_labeldot"
+        ],
+        "lch": "lch(60.013% 64.353 141.874)",
+        "oklch": "oklch(63.7089% 0.17495 146.699)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#218d3a",
+        "variantOf": "primary",
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(78, 167, 252)",
+        "normalized": "#4ea7fc",
+        "count": 4,
+        "confidence": "high",
+        "sources": [
+          "_5k-xcq_labeldot"
+        ],
+        "lch": "lch(65.979% 51.399 262.493)",
+        "oklch": "oklch(71.214% 0.15102 249.883)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#428ed6",
+        "contrastAgainst": [
+          {
+            "bg": "#f7f8f8",
+            "ratio": 2.39,
+            "aa": false
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(130, 143, 255)",
+        "normalized": "#828fff",
+        "count": 11,
+        "confidence": "high",
+        "sources": [
+          "s36ykg_root"
+        ],
+        "lch": "lch(62.27% 60.957 287.178)",
+        "oklch": "oklch(69.058% 0.16374 276.239)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#6f7ad9",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 6.95,
+            "aa": true
+          }
+        ],
+        "pageCount": 4
+      },
+      {
+        "color": "rgb(255, 114, 54)",
+        "normalized": "#ff7236",
+        "count": 6,
+        "confidence": "medium",
+        "sources": [
+          "_5yomvq_projecticon",
+          "[object"
+        ],
+        "lch": "lch(65.388% 78.603 48.048)",
+        "oklch": "oklch(71.3965% 0.18656 41.542)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#d9612e",
+        "source": "menu",
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(197, 40, 40)",
+        "normalized": "#c52828",
+        "count": 18,
+        "confidence": "high",
+        "sources": [
+          "z-_uma_statusiconbg",
+          "z-_uma_statusiconpath",
+          "[object"
+        ],
+        "lch": "lch(44.339% 73.675 34.47)",
+        "oklch": "oklch(53.6752% 0.19279 26.702)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#ec3030",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 3.52,
+            "aa": false
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(242, 153, 74)",
+        "normalized": "#f2994a",
+        "count": 18,
+        "confidence": "high",
+        "sources": [
+          "z-_uma_statusiconbg",
+          "z-_uma_statusiconpath",
+          "[object"
+        ],
+        "lch": "lch(71.561% 62.1 61.642)",
+        "oklch": "oklch(75.9691% 0.14166 59.51)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#ce823f",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 8.95,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(66, 175, 34)",
+        "normalized": "#42af22",
+        "count": 18,
+        "confidence": "high",
+        "sources": [
+          "z-_uma_statusiconbg",
+          "z-_uma_statusiconpath",
+          "[object"
+        ],
+        "lch": "lch(63.377% 75.741 131.913)",
+        "oklch": "oklch(66.53% 0.1986 139.94)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#38951d",
+        "contrastAgainst": [
+          {
+            "bg": "#08090a",
+            "ratio": 7.01,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(0, 184, 204)",
+        "normalized": "#00b8cc",
+        "count": 1,
+        "confidence": "low",
+        "sources": [],
+        "lch": "lch(68.036% 40.983 212.111)",
+        "oklch": "oklch(71.6123% 0.12327 208.5)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#009cad",
+        "contrastAgainst": [
+          {
+            "bg": "#000000",
+            "ratio": 8.73,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(194, 210, 242)",
+        "normalized": "#c2d2f2",
+        "count": 1,
+        "confidence": "low",
+        "sources": [
+          "gijx-a_investorcardlogo"
+        ],
+        "lch": "lch(83.75% 17.711 268.027)",
+        "oklch": "oklch(86.1974% 0.04784 264.284)",
+        "role": "supporting",
+        "onColor": "#000000",
+        "hover": "#a5b3ce",
+        "pageCount": 1
+      }
+    ],
+    "cssVariables": {
+      "--color-accent": {
+        "value": "#7170ff",
+        "hex": "#7170ff",
+        "lch": "lch(53.331% 79.069 293.289)",
+        "oklch": "oklch(62.2508% 0.20694 278.846)"
+      },
+      "--color-line-primary": {
+        "value": "#37393a",
+        "hex": "#37393a",
+        "lch": "lch(23.802% 1.168 232.854)",
+        "oklch": "oklch(34.3004% 0.00326 228.876)"
+      },
+      "--color-border-secondary": {
+        "value": "#34343a",
+        "hex": "#34343a",
+        "lch": "lch(21.88% 3.934 286.107)",
+        "oklch": "oklch(32.7373% 0.0105 285.805)"
+      },
+      "--color-accent-tint": {
+        "value": "#18182f",
+        "hex": "#18182f",
+        "lch": "lch(9.242% 16.59 289.956)",
+        "oklch": "oklch(22.1997% 0.04435 282.175)"
+      },
+      "--color-border-tertiary": {
+        "value": "#3e3e44",
+        "hex": "#3e3e44",
+        "lch": "lch(26.377% 3.824 286.024)",
+        "oklch": "oklch(36.6112% 0.0102 285.885)"
+      },
+      "--color-teal": {
+        "value": "#00b8cc",
+        "hex": "#00b8cc",
+        "lch": "lch(68.036% 40.983 212.111)",
+        "oklch": "oklch(71.6123% 0.12327 208.5)"
+      },
+      "--color-linear-plan": {
+        "value": "#68cc58",
+        "hex": "#68cc58",
+        "lch": "lch(74.163% 66.914 134.924)",
+        "oklch": "oklch(75.9216% 0.18093 140.993)"
+      },
+      "--color-orange": {
+        "value": "#fc7840",
+        "hex": "#fc7840",
+        "lch": "lch(66.087% 73.165 47.952)",
+        "oklch": "oklch(71.9001% 0.17581 42.054)"
+      },
+      "--color-linear-security": {
+        "value": "#7a7fad",
+        "hex": "#7a7fad",
+        "lch": "lch(54.109% 25.985 283.954)",
+        "oklch": "oklch(60.9998% 0.06993 279.299)"
+      },
+      "--color-yellow": {
+        "value": "#f0bf00",
+        "hex": "#f0bf00",
+        "lch": "lch(80.033% 81.284 84.134)",
+        "oklch": "oklch(82.474% 0.16854 89.963)"
+      },
+      "--color-linear-build": {
+        "value": "#d4b144",
+        "hex": "#d4b144",
+        "lch": "lch(73.881% 58.502 85.482)",
+        "oklch": "oklch(77.1604% 0.13133 90.984)"
+      },
+      "--color-red": {
+        "value": "#eb5757",
+        "hex": "#eb5757",
+        "lch": "lch(57.939% 66.487 29.094)",
+        "oklch": "oklch(65.3372% 0.18348 23.679)"
+      },
+      "--color-green": {
+        "value": "#27a644",
+        "hex": "#27a644",
+        "lch": "lch(60.013% 64.353 141.874)",
+        "oklch": "oklch(63.7089% 0.17495 146.699)"
+      },
+      "--color-blue": {
+        "value": "#4ea7fc",
+        "hex": "#4ea7fc",
+        "lch": "lch(65.979% 51.399 262.493)",
+        "oklch": "oklch(71.214% 0.15102 249.883)"
+      },
+      "--color-accent-hover": {
+        "value": "#828fff",
+        "hex": "#828fff",
+        "lch": "lch(62.27% 60.957 287.178)",
+        "oklch": "oklch(69.058% 0.16374 276.239)"
+      },
+      "--color-brand-bg": {
+        "value": "#5e6ad2",
+        "hex": "#5e6ad2",
+        "lch": "lch(47.917% 59.287 288.431)",
+        "oklch": "oklch(56.7376% 0.15853 275.206)"
+      },
+      "--focus-ring-color": {
+        "value": "#5e69d1",
+        "hex": "#5e69d1",
+        "lch": "lch(47.6% 59.329 288.741)",
+        "oklch": "oklch(56.4775% 0.15845 275.564)"
+      }
+    },
+    "detected": [
+      {
+        "color": "rgb(247, 248, 248)",
+        "normalized": "#f7f8f8",
+        "count": 3626,
+        "usageFrac": 0.5761957730812013,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "tztsqg_header",
+          "tztsqg_menuroot",
+          "tztsqg_innerwrapper",
+          "tztsqg_list",
+          "tztsqg_logoitem"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(138, 143, 152)",
+        "normalized": "#8a8f98",
+        "count": 899,
+        "usageFrac": 0.14285714285714285,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "tztsqg_anchor",
+          "sc-kogvz",
+          "_1uftza_pillbutton",
+          "[object",
+          "kfzpfa_splitsegment"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(98, 102, 109)",
+        "normalized": "#62666d",
+        "count": 573,
+        "usageFrac": 0.0910535515652312,
+        "areaFrac": 4.7683273629455257e-7,
+        "confidence": "high",
+        "sources": [
+          "mmx1wq_searchbutton",
+          "mmx1wq_navitem",
+          "_1uftza_buttonbase",
+          "[object",
+          "sc-kogvz"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(208, 214, 224)",
+        "normalized": "#d0d6e0",
+        "count": 460,
+        "usageFrac": 0.0730970920069919,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "sc-kogvz",
+          "mmx1wq_navitem",
+          "nn4gva_name",
+          "_8qm5kg_sendbutton",
+          "_1uftza_labelbutton"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(226, 228, 231)",
+        "normalized": "#e2e4e7",
+        "count": 239,
+        "usageFrac": 0.03797870649928492,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "mmx1wq_newissuebutton"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 176,
+        "usageFrac": 0.027967583028762115,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "mmx1wq_switchworkspacebutton",
+          "mmx1wq_logowrapper",
+          "_1uftza_navbutton",
+          "[object",
+          "mr81zg_item"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(247, 156, 224)",
+        "normalized": "#f79ce0",
+        "count": 82,
+        "usageFrac": 0.013030351183855078,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(247, 191, 139)",
+        "normalized": "#f7bf8b",
+        "count": 44,
+        "usageFrac": 0.006991895757190529,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(15, 16, 17)",
+        "normalized": "#0f1011",
+        "count": 34,
+        "usageFrac": 0.005402828539647227,
+        "areaFrac": 0.07519956256995607,
+        "confidence": "high",
+        "sources": [
+          "kfzpfa_commentcard",
+          "kfzpfa_connectedcard",
+          "mwjdiw_panel",
+          "_5k-xcq_card",
+          "gkoszg_panel"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(8, 9, 10)",
+        "normalized": "#08090a",
+        "count": 22,
+        "usageFrac": 0.0034959478785952644,
+        "areaFrac": 0.8884595192912034,
+        "confidence": "high",
+        "sources": [
+          "s36ykg_root",
+          "sc-kogvz",
+          "jmh1wq_footer"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(255, 223, 159)",
+        "normalized": "#ffdf9f",
+        "count": 20,
+        "usageFrac": 0.0031781344350866043,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(131, 220, 220)",
+        "normalized": "#83dcdc",
+        "count": 18,
+        "usageFrac": 0.002860320991577944,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(148, 148, 150)",
+        "normalized": "#949496",
+        "count": 16,
+        "usageFrac": 0.0025425075480692834,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "wmqzwg_branchname",
+          "[object",
+          "wmqzwg_previewlabel"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(143, 166, 255)",
+        "normalized": "#8fa6ff",
+        "count": 16,
+        "usageFrac": 0.0025425075480692834,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(243, 78, 82)",
+        "normalized": "#f34e52",
+        "count": 12,
+        "usageFrac": 0.0019068806610519624,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [
+          "wmqzwg_removed",
+          "line"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(46, 46, 50)",
+        "normalized": "#2e2e32",
+        "count": 7,
+        "usageFrac": 0.0011123470522803114,
+        "areaFrac": 0.000032341842606867323,
+        "confidence": "medium",
+        "sources": [
+          "kfzpfa_splitdivider",
+          "kfzpfa_activityjoin",
+          "kfzpfa_commentdivider",
+          "kfzpfa_connecteddivider",
+          "_1uftza_labelbutton"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(39, 166, 68)",
+        "normalized": "#27a644",
+        "count": 7,
+        "usageFrac": 0.0011123470522803114,
+        "areaFrac": 7.417398120137484e-7,
+        "confidence": "high",
+        "sources": [
+          "wmqzwg_added",
+          "_5k-xcq_labeldot"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 5,
+        "usageFrac": 0.0007945336087716511,
+        "areaFrac": 0.00014532045296595887,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(35, 37, 42)",
+        "normalized": "#23252a",
+        "count": 4,
+        "usageFrac": 0.0006356268870173208,
+        "areaFrac": 2.422007549432648e-7,
+        "confidence": "high",
+        "sources": [
+          "_8fvxdw_codesection",
+          "jmh1wq_footer"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(229, 229, 230)",
+        "normalized": "#e5e5e6",
+        "count": 4,
+        "usageFrac": 0.0006356268870173208,
+        "areaFrac": 0.00023965764701636052,
+        "confidence": "high",
+        "sources": [
+          "s36ykg_root"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(226, 228, 230)",
+        "normalized": "#e2e4e6",
+        "count": 4,
+        "usageFrac": 0.0006356268870173208,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(22, 23, 24)",
+        "normalized": "#161718",
+        "count": 4,
+        "usageFrac": 0.0006356268870173208,
+        "areaFrac": 0.003940545732738183,
+        "confidence": "medium",
+        "sources": [
+          "gkoszg_panel",
+          "nn4gva_avatar",
+          "uppviq_card"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(78, 167, 252)",
+        "normalized": "#4ea7fc",
+        "count": 4,
+        "usageFrac": 0.0006356268870173208,
+        "areaFrac": 0.0000029669592480549937,
+        "confidence": "high",
+        "sources": [
+          "_5k-xcq_labeldot"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(235, 87, 87)",
+        "normalized": "#eb5757",
+        "count": 3,
+        "usageFrac": 0.0004767201652629906,
+        "areaFrac": 0.0000022252194360412455,
+        "confidence": "high",
+        "sources": [
+          "_5k-xcq_labeldot"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(85, 85, 87)",
+        "normalized": "#555557",
+        "count": 2,
+        "usageFrac": 0.0003178134435086604,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [
+          "wmqzwg_brancharrow"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(109, 120, 213)",
+        "normalized": "#6d78d5",
+        "count": 2,
+        "usageFrac": 0.0003178134435086604,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [
+          "qm9faa_mention"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(9, 10, 11)",
+        "normalized": "#090a0b",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0.01438672484362993,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(16, 17, 18)",
+        "normalized": "#101112",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0.01438672484362993,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(18, 20, 20)",
+        "normalized": "#121414",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0.00000605501887358162,
+        "confidence": "low",
+        "sources": [
+          "mmx1wq_logowrapper"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(36, 40, 44)",
+        "normalized": "#24282c",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [
+          "mmx1wq_newissuebutton"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(28, 28, 29)",
+        "normalized": "#1c1c1d",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0.00002966580809375395,
+        "confidence": "high",
+        "sources": [
+          "wmqzwg_previewbutton"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(42, 42, 45)",
+        "normalized": "#2a2a2d",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "wmqzwg_previewbutton"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(220, 255, 255)",
+        "normalized": "#dcffff",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 7.417398120137484e-7,
+        "confidence": "low",
+        "sources": [
+          "_5k-xcq_labeldot"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(94, 106, 210)",
+        "normalized": "#5e6ad2",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0.000027550335874796372,
+        "confidence": "high",
+        "sources": [
+          "qm9faa_sendbuttongroup"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(59, 59, 59)",
+        "normalized": "#3b3b3b",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 1.513754718395405e-8,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(228, 242, 34)",
+        "normalized": "#e4f222",
+        "count": 1,
+        "usageFrac": 0.0001589067217543302,
+        "areaFrac": 0.003138921784064712,
+        "confidence": "low",
+        "sources": [
+          "dc5tqa_customercard"
+        ],
+        "isToken": false
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "heading-2",
+        "count": 4,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "72px (4.50rem)",
+        "weight": 510,
+        "lineHeight": "1.00",
+        "spacing": "-1.584px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "display",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "72px (4.50rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-1.584px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "display",
+        "count": 2,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "64px (4.00rem)",
+        "weight": 510,
+        "lineHeight": "1.00",
+        "spacing": "-1.408px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "heading-2",
+        "count": 5,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "48px (3.00rem)",
+        "weight": 510,
+        "lineHeight": "1.00",
+        "spacing": "-1.056px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "text",
+        "count": 2,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "32px (2.00rem)",
+        "weight": 400,
+        "lineHeight": "1.13",
+        "spacing": "-0.704px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 3,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "24px (1.50rem)",
+        "weight": 400,
+        "lineHeight": "1.33",
+        "spacing": "-0.288px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "heading-3",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "24px (1.50rem)",
+        "weight": 590,
+        "lineHeight": "1.33",
+        "spacing": "-0.288px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 2,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "24px (1.50rem)",
+        "weight": 510,
+        "lineHeight": "1.33",
+        "spacing": "-0.288px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "heading-3",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "20px (1.25rem)",
+        "weight": 590,
+        "lineHeight": "1.33",
+        "spacing": "-0.24px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "18px (1.13rem)",
+        "weight": 400,
+        "lineHeight": "1.60",
+        "spacing": "-0.165px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 2,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "17px (1.06rem)",
+        "weight": 510,
+        "lineHeight": "1.60",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": "1.60",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 15,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "heading-4",
+        "count": 4,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 590,
+        "lineHeight": "1.75",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "ui",
+        "count": 4,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 510,
+        "lineHeight": "2.75",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 8,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "15px (0.94rem)",
+        "weight": 400,
+        "lineHeight": "1.60",
+        "spacing": "-0.165px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 4,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "15px (0.94rem)",
+        "weight": 510,
+        "lineHeight": "1.60",
+        "spacing": "-0.165px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "15px (0.94rem)",
+        "weight": 590,
+        "lineHeight": "1.33",
+        "spacing": "-0.165px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "15px (0.94rem)",
+        "weight": 300,
+        "lineHeight": "1.33",
+        "spacing": "-0.06px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "15px (0.94rem)",
+        "weight": 700,
+        "lineHeight": "1.60",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "link",
+        "count": 7,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 510,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 590,
+        "lineHeight": "1.50",
+        "spacing": "-0.182px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 5,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": "-0.182px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "text",
+        "count": 2,
+        "family": "Berkeley Mono",
+        "fallbacks": "ui-monospace, SF Mono, Menlo",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 3,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "13.3333px (0.83rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 24,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "13px (0.81rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "ui",
+        "count": 19,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "13px (0.81rem)",
+        "weight": 510,
+        "lineHeight": "2.46",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "13px (0.81rem)",
+        "weight": 500,
+        "lineHeight": "1.54",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "ui",
+        "count": 6,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 510,
+        "lineHeight": "1.17",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 3,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": "1.33",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "mono",
+        "count": 3,
+        "family": "Berkeley Mono",
+        "fallbacks": "ui-monospace, SF Mono, Menlo",
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": "1.67",
+        "spacing": "-0.182px",
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 2,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 500,
+        "lineHeight": "1.17",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Berkeley Mono",
+        "fallbacks": "ui-monospace, SF Mono, Menlo",
+        "size": "12px (0.75rem)",
+        "weight": 510,
+        "lineHeight": "1.67",
+        "spacing": null,
+        "transform": "uppercase"
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "11px (0.69rem)",
+        "weight": 400,
+        "lineHeight": "1.27",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Berkeley Mono",
+        "fallbacks": "ui-monospace, SF Mono, Menlo",
+        "size": "10px (0.63rem)",
+        "weight": 400,
+        "lineHeight": "1.40",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "10px (0.63rem)",
+        "weight": 400,
+        "lineHeight": "1.40",
+        "spacing": "-0.15px",
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Inter Variable",
+        "fallbacks": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue",
+        "size": "10px (0.63rem)",
+        "weight": 510,
+        "lineHeight": "1.40",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"cv01\", \"ss03\""
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": false,
+      "openTypeFeatures": [
+        "cv01",
+        "ss03",
+        "ss01"
+      ],
+      "urls": [
+        "https://static.linear.app/fonts/InterVariable.woff2?v=4.1",
+        "https://static.linear.app/fonts/Tiempos/tiempos-headline-regular.woff2"
+      ],
+      "selfHostedFonts": [
+        "Berkeley-Mono-Variable.woff2",
+        "InterVariable.woff2",
+        "tiempos-headline-regular.woff2"
+      ],
+      "customFonts": [
+        "Berkeley-Mono-Variable.woff2",
+        "InterVariable.woff2",
+        "tiempos-headline-regular.woff2"
+      ],
+      "filteredFamilies": [
+        ""
+      ]
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "14px",
+        "display": "14px",
+        "rem": "0.88rem",
+        "count": 458,
+        "numericValue": 14,
+        "frequency": 0
+      },
+      {
+        "px": "4px",
+        "display": "4px",
+        "rem": "0.25rem",
+        "count": 56,
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "px": "8px",
+        "display": "8px",
+        "rem": "0.50rem",
+        "count": 53,
+        "numericValue": 8
+      },
+      {
+        "px": "24px",
+        "display": "24px",
+        "rem": "1.50rem",
+        "count": 47,
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "px": "32px",
+        "display": "32px",
+        "rem": "2.00rem",
+        "count": 45,
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "px": "12px",
+        "display": "12px",
+        "rem": "0.75rem",
+        "count": 41,
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "px": "1px",
+        "display": "1px",
+        "rem": "0.06rem",
+        "count": 37,
+        "numericValue": 1,
+        "frequency": 0
+      },
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 30,
+        "numericValue": 10
+      },
+      {
+        "px": "6px",
+        "display": "6px",
+        "rem": "0.38rem",
+        "count": 28,
+        "numericValue": 6,
+        "frequency": 0
+      },
+      {
+        "px": "28px",
+        "display": "28px",
+        "rem": "1.75rem",
+        "count": 27,
+        "numericValue": 28,
+        "frequency": 0
+      },
+      {
+        "px": "128px",
+        "display": "128px",
+        "rem": "8.00rem",
+        "count": 27,
+        "numericValue": 128,
+        "frequency": 0
+      },
+      {
+        "px": "20px",
+        "display": "20px",
+        "rem": "1.25rem",
+        "count": 23,
+        "numericValue": 20
+      },
+      {
+        "px": "2px",
+        "display": "2px",
+        "rem": "0.13rem",
+        "count": 21,
+        "numericValue": 2,
+        "frequency": 0
+      },
+      {
+        "px": "48px",
+        "display": "48px",
+        "rem": "3.00rem",
+        "count": 20,
+        "numericValue": 48,
+        "frequency": 0
+      },
+      {
+        "px": "80px",
+        "display": "80px",
+        "rem": "5.00rem",
+        "count": 20,
+        "numericValue": 80,
+        "frequency": 0
+      },
+      {
+        "px": "42px",
+        "display": "42px",
+        "rem": "2.63rem",
+        "count": 20,
+        "numericValue": 42
+      },
+      {
+        "px": "7px",
+        "display": "7px",
+        "rem": "0.44rem",
+        "count": 17,
+        "numericValue": 7,
+        "frequency": 0
+      },
+      {
+        "px": "16px",
+        "display": "16px",
+        "rem": "1.00rem",
+        "count": 16,
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "px": "11px",
+        "display": "11px",
+        "rem": "0.69rem",
+        "count": 13,
+        "numericValue": 11
+      },
+      {
+        "px": "19px",
+        "display": "19px",
+        "rem": "1.19rem",
+        "count": 12,
+        "numericValue": 19,
+        "frequency": 0
+      },
+      {
+        "px": "56px",
+        "display": "56px",
+        "rem": "3.50rem",
+        "count": 9,
+        "numericValue": 56,
+        "frequency": 0
+      },
+      {
+        "px": "96px",
+        "display": "96px",
+        "rem": "6.00rem",
+        "count": 9,
+        "numericValue": 96
+      },
+      {
+        "px": "35px",
+        "display": "35px",
+        "rem": "2.19rem",
+        "count": 7,
+        "numericValue": 35,
+        "frequency": 0
+      },
+      {
+        "px": "3px",
+        "display": "3px",
+        "rem": "0.19rem",
+        "count": 6,
+        "numericValue": 3
+      },
+      {
+        "px": "5px",
+        "display": "5px",
+        "rem": "0.31rem",
+        "count": 6,
+        "numericValue": 5
+      },
+      {
+        "px": "23px",
+        "display": "23px",
+        "rem": "1.44rem",
+        "count": 5,
+        "numericValue": 23,
+        "frequency": 0
+      },
+      {
+        "px": "47px",
+        "display": "47px",
+        "rem": "2.94rem",
+        "count": 5,
+        "numericValue": 47
+      },
+      {
+        "px": "43px",
+        "display": "43px",
+        "rem": "2.69rem",
+        "count": 4,
+        "numericValue": 43
+      },
+      {
+        "px": "224px",
+        "display": "224px",
+        "rem": "14.00rem",
+        "count": 4,
+        "numericValue": 224,
+        "frequency": 0
+      },
+      {
+        "px": "26px",
+        "display": "26px",
+        "rem": "1.63rem",
+        "count": 4,
+        "numericValue": 26
+      },
+      {
+        "px": "72px",
+        "display": "72px",
+        "rem": "4.50rem",
+        "count": 3,
+        "numericValue": 72,
+        "frequency": 0
+      },
+      {
+        "px": "91px",
+        "display": "91px",
+        "rem": "5.69rem",
+        "count": 3,
+        "numericValue": 91,
+        "frequency": 0
+      },
+      {
+        "px": "60px",
+        "display": "60px",
+        "rem": "3.75rem",
+        "count": 3,
+        "numericValue": 60
+      },
+      {
+        "px": "39px",
+        "display": "39px",
+        "rem": "2.44rem",
+        "count": 2,
+        "numericValue": 39
+      },
+      {
+        "px": "61px",
+        "display": "61px",
+        "rem": "3.81rem",
+        "count": 2,
+        "numericValue": 61
+      },
+      {
+        "px": "95px",
+        "display": "95px",
+        "rem": "5.94rem",
+        "count": 2,
+        "numericValue": 95
+      },
+      {
+        "px": "131px",
+        "display": "131px",
+        "rem": "8.19rem",
+        "count": 2,
+        "numericValue": 131,
+        "frequency": 0
+      },
+      {
+        "px": "142px",
+        "display": "142px",
+        "rem": "8.88rem",
+        "count": 2,
+        "numericValue": 142
+      },
+      {
+        "px": "31.9062px",
+        "display": "31.9062px",
+        "rem": "1.99rem",
+        "count": 2,
+        "numericValue": 31.9062
+      },
+      {
+        "px": "52px",
+        "display": "52px",
+        "rem": "3.25rem",
+        "count": 2,
+        "numericValue": 52
+      },
+      {
+        "px": "200px",
+        "display": "200px",
+        "rem": "12.50rem",
+        "count": 2,
+        "numericValue": 200
+      },
+      {
+        "px": "127px",
+        "display": "127px",
+        "rem": "7.94rem",
+        "count": 2,
+        "numericValue": 127
+      },
+      {
+        "px": "55px",
+        "display": "55px",
+        "rem": "3.44rem",
+        "count": 1,
+        "numericValue": 55
+      },
+      {
+        "px": "71px",
+        "display": "71px",
+        "rem": "4.44rem",
+        "count": 1,
+        "numericValue": 71
+      },
+      {
+        "px": "123px",
+        "display": "123px",
+        "rem": "7.69rem",
+        "count": 1,
+        "numericValue": 123
+      },
+      {
+        "px": "199px",
+        "display": "199px",
+        "rem": "12.44rem",
+        "count": 1,
+        "numericValue": 199
+      },
+      {
+        "px": "31px",
+        "display": "31px",
+        "rem": "1.94rem",
+        "count": 1,
+        "numericValue": 31
+      },
+      {
+        "px": "79px",
+        "display": "79px",
+        "rem": "4.94rem",
+        "count": 1,
+        "numericValue": 79
+      },
+      {
+        "px": "111px",
+        "display": "111px",
+        "rem": "6.94rem",
+        "count": 1,
+        "numericValue": 111
+      },
+      {
+        "px": "129px",
+        "display": "129px",
+        "rem": "8.06rem",
+        "count": 1,
+        "numericValue": 129
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "9999px",
+        "count": 160,
+        "elements": [
+          "button",
+          "a",
+          "Search workspace",
+          "New issue",
+          "Remove from favorites"
+        ],
+        "confidence": "high",
+        "numericValue": 9999,
+        "frequency": 0
+      },
+      {
+        "value": "8px",
+        "count": 66,
+        "elements": [
+          "button",
+          "div",
+          "p",
+          "input",
+          "card"
+        ],
+        "confidence": "high",
+        "numericValue": 8,
+        "frequency": 0
+      },
+      {
+        "value": "50%",
+        "count": 35,
+        "elements": [
+          "img",
+          "span",
+          "Attach file"
+        ],
+        "confidence": "high",
+        "numericValue": 50,
+        "frequency": 0
+      },
+      {
+        "value": "4px",
+        "count": 32,
+        "elements": [
+          "code",
+          "span",
+          "Hide formatting",
+          "Emoji",
+          "Mention someone"
+        ],
+        "confidence": "high",
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "value": "6px",
+        "count": 31,
+        "elements": [
+          "Navigate to home",
+          "A screenshot of the Linear app showing the issue that's currently in progress",
+          "div",
+          "card",
+          "image"
+        ],
+        "confidence": "high",
+        "numericValue": 6,
+        "frequency": 0
+      },
+      {
+        "value": "12px",
+        "count": 27,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "value": "9px",
+        "count": 18,
+        "elements": [
+          "div",
+          "card"
+        ],
+        "confidence": "high",
+        "numericValue": 9
+      },
+      {
+        "value": "999px",
+        "count": 17,
+        "elements": [
+          "image",
+          "span"
+        ],
+        "confidence": "high",
+        "numericValue": 999,
+        "frequency": 0
+      },
+      {
+        "value": "12px 12px 0px 0px",
+        "count": 16,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "value": "2px",
+        "count": 12,
+        "elements": [
+          "span"
+        ],
+        "confidence": "high",
+        "numericValue": 2,
+        "frequency": 0
+      },
+      {
+        "value": "5px",
+        "count": 8,
+        "elements": [
+          "span"
+        ],
+        "confidence": "medium",
+        "numericValue": 5,
+        "frequency": 0
+      },
+      {
+        "value": "16px",
+        "count": 6,
+        "elements": [
+          "button",
+          "div"
+        ],
+        "confidence": "medium",
+        "numericValue": 16
+      },
+      {
+        "value": "0px 2px 2px 0px",
+        "count": 4,
+        "elements": [
+          "span"
+        ],
+        "confidence": "medium",
+        "numericValue": 0
+      },
+      {
+        "value": "2px 0px 0px 2px",
+        "count": 4,
+        "elements": [
+          "span"
+        ],
+        "confidence": "medium",
+        "numericValue": 2
+      },
+      {
+        "value": "0px 4px 4px 0px",
+        "count": 3,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 0
+      },
+      {
+        "value": "4px 0px 0px 4px",
+        "count": 3,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 4
+      },
+      {
+        "value": "3px",
+        "count": 2,
+        "elements": [
+          "badge"
+        ],
+        "confidence": "low",
+        "numericValue": 3
+      },
+      {
+        "value": "22px",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 22
+      },
+      {
+        "value": "8px 8px 8px 2px",
+        "count": 2,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 8
+      },
+      {
+        "value": "1.5px",
+        "count": 1,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 1.5
+      },
+      {
+        "value": "24px",
+        "count": 1,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 24
+      },
+      {
+        "value": "400px",
+        "count": 1,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 400
+      },
+      {
+        "value": "12px 0px 0px",
+        "count": 1,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 12
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "0px 0px 0px 1px",
+        "style": "none none none solid",
+        "color": "rgb(247, 248, 248)",
+        "count": 240,
+        "elements": [
+          "div",
+          "card",
+          "cell",
+          "button"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(255, 255, 255, 0.08)",
+        "count": 86,
+        "elements": [
+          "div",
+          "code",
+          "span",
+          "card",
+          "img"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "0px 0px 0px 1px",
+        "style": "none none none solid",
+        "color": "rgb(208, 214, 224)",
+        "count": 36,
+        "elements": [
+          "span"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(229, 229, 230)",
+        "count": 22,
+        "elements": [
+          "button",
+          "a"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "none none solid",
+        "color": "rgb(247, 248, 248)",
+        "count": 15,
+        "elements": [
+          "header",
+          "card",
+          "div",
+          "article"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(255, 255, 255, 0.12)",
+        "count": 13,
+        "elements": [
+          "div",
+          "card"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(255, 255, 255, 0.05)",
+        "count": 12,
+        "elements": [
+          "div",
+          "span",
+          "li",
+          "card"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "0px 0px 0px 2px",
+        "style": "none none none solid",
+        "color": "rgb(208, 214, 224)",
+        "count": 10,
+        "elements": [
+          "span"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "0px 1px 0px 0px",
+        "style": "none solid none none",
+        "color": "rgb(247, 248, 248)",
+        "count": 9,
+        "elements": [
+          "div",
+          "card"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid none none",
+        "color": "rgb(35, 37, 42)",
+        "count": 7,
+        "elements": [
+          "div",
+          "footer"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px 0px",
+        "style": "solid none",
+        "color": "rgba(255, 255, 255, 0.05)",
+        "count": 4,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px 1px 0px",
+        "style": "solid solid none",
+        "color": "rgba(255, 255, 255, 0.05)",
+        "count": 3,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(46, 46, 50)",
+        "count": 2,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(35, 37, 42)",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(255, 255, 255, 0.2)",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid none none",
+        "color": "rgba(255, 255, 255, 0.05)",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(36, 40, 44)",
+        "count": 1,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(255, 255, 255, 0.06)",
+        "count": 1,
+        "elements": [
+          "card"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(42, 42, 45)",
+        "count": 1,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "0px 1px 1px 0px",
+        "style": "none solid solid none",
+        "color": "rgb(247, 248, 248)",
+        "count": 1,
+        "elements": [
+          "card"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "rgba(0, 0, 0, 0) 0px 8px 2px 0px, rgba(0, 0, 0, 0.01) 0px 5px 2px 0px, rgba(0, 0, 0, 0.04) 0px 3px 2px 0px, rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px",
+      "count": 22,
+      "confidence": "high"
+    },
+    {
+      "shadow": "rgba(255, 255, 255, 0.03) 0px 0px 0px 1px inset, rgba(255, 255, 255, 0.04) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.6) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) 0px 4px 4px 0px",
+      "count": 19,
+      "confidence": "high"
+    },
+    {
+      "shadow": "rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset",
+      "count": 12,
+      "confidence": "high"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px 1px",
+      "count": 8,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 12px 0px inset",
+      "count": 7,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgb(8, 9, 10) 0px 8.576px 12.863px 0px, rgb(8, 9, 10) 0px 0px 68.604px 0px",
+      "count": 6,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.25) 0px 2px 32px 0px",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(255, 255, 255, 0.08) 0px 0px 0px 0.5px inset",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgb(35, 37, 42) 0px 0px 0px 1px inset",
+      "count": 3,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.06) 0px 4px 4px -1px, rgba(0, 0, 0, 0.12) 0px 1px 1px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.4) 0px 1px 0px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 4px 24px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 12px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px 2px",
+      "count": 1,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(94, 106, 210, 0.4) 0px 0px 0px 3px",
+      "count": 1,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgb(35, 37, 42) 0px 0px 0px 1px inset, rgba(8, 9, 10, 0.8) 0px 0px 32px 0px",
+      "count": 1,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgb(35, 37, 42) 1px 0px 0px 0px inset",
+      "count": 1,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0) 0px 400px 112px 0px, rgba(0, 0, 0, 0.01) 0px 256px 103px 0px, rgba(0, 0, 0, 0.05) 0px 144px 86px 0px, rgba(0, 0, 0, 0.09) 0px 64px 64px 0px, rgba(0, 0, 0, 0.1) 0px 16px 35px 0px",
+      "count": 1,
+      "confidence": "low"
+    }
+  ],
+  "gradients": [
+    {
+      "gradient": "linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.02))",
+      "type": "linear",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.02)",
+        "rgba(255, 255, 255, 0.02)"
+      ],
+      "count": 13
+    },
+    {
+      "gradient": "linear-gradient(90deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0.02) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.02)",
+        "rgba(255, 255, 255, 0.02)"
+      ],
+      "count": 6
+    },
+    {
+      "gradient": "linear-gradient(90deg, rgba(15, 16, 17, 0.95) 0%, rgba(15, 16, 17, 0.95) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(15, 16, 17, 0.95)",
+        "rgba(15, 16, 17, 0.95)"
+      ],
+      "count": 6
+    },
+    {
+      "gradient": "linear-gradient(rgba(11, 11, 11, 0.8) 0%, oklab(0.149576 0.00000680983 0.00000298768 / 0.761905) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(11, 11, 11, 0.8)",
+        "oklab(0.149576 0.00000680983 0.00000298768 / 0.761905)"
+      ],
+      "count": 4
+    },
+    {
+      "gradient": "linear-gradient(90deg, rgba(255, 255, 255, 0.01) 0%, rgba(255, 255, 255, 0.01) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.01)",
+        "rgba(255, 255, 255, 0.01)"
+      ],
+      "count": 4
+    },
+    {
+      "gradient": "linear-gradient(90deg, rgb(15, 16, 17) 0%, rgb(15, 16, 17) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(15, 16, 17)",
+        "rgb(15, 16, 17)"
+      ],
+      "count": 4
+    },
+    {
+      "gradient": "linear-gradient(rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.03))",
+      "type": "linear",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.03)",
+        "rgba(255, 255, 255, 0.03)"
+      ],
+      "count": 3
+    },
+    {
+      "gradient": "linear-gradient(rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.04))",
+      "type": "linear",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.04)",
+        "rgba(255, 255, 255, 0.04)"
+      ],
+      "count": 2
+    },
+    {
+      "gradient": "linear-gradient(rgb(15, 16, 17) 0%, rgb(8, 9, 10) 80%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(15, 16, 17)",
+        "rgb(8, 9, 10)"
+      ],
+      "count": 2
+    },
+    {
+      "gradient": "radial-gradient(52.53% 57.5% at 50% 100%, rgba(8, 9, 10, 0) 0%, rgba(8, 9, 10, 0.5) 100%)",
+      "type": "radial",
+      "stopColors": [
+        "rgba(8, 9, 10, 0)",
+        "rgba(8, 9, 10, 0.5)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(rgb(8, 9, 10) 10%, rgb(208, 214, 224) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(8, 9, 10)",
+        "rgb(208, 214, 224)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "radial-gradient(50% 50%, rgba(255, 255, 255, 0.04) 0%, rgba(255, 255, 255, 0) 90%)",
+      "type": "radial",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.04)",
+        "rgba(255, 255, 255, 0)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(rgb(22, 23, 24), rgb(22, 23, 24))",
+      "type": "linear",
+      "stopColors": [
+        "rgb(22, 23, 24)",
+        "rgb(22, 23, 24)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(135deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.05) 25%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(255, 255, 255, 0.15)",
+        "rgba(255, 255, 255, 0.05)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(rgba(0, 0, 0, 0) 0%, oklab(0 0 0 / 0) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(0, 0, 0, 0)",
+        "oklab(0 0 0 / 0)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(rgb(207, 215, 226) 0%, rgb(253, 245, 242) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(207, 215, 226)",
+        "rgb(253, 245, 242)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(to top, lab(0 0 0 / 0.5) 0px, lab(0 0 0 / 0.45) 10px, lab(0 0 0 / 0.35) 24px, lab(0 0 0 / 0.25) 40px, lab(0 0 0 / 0.15) 58px, lab(0 0 0 / 0.08) 78px, lab(0 0 0 / 0.03) 98px, lab(0 0 0 / 0.005) 112px, rgba(0, 0, 0, 0) 120px)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(0, 0, 0, 0)"
+      ],
+      "count": 1
+    }
+  ],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.1s",
+        "ms": 100,
+        "count": 196
+      },
+      {
+        "value": "0.15s",
+        "ms": 150,
+        "count": 69
+      },
+      {
+        "value": "0.16s",
+        "ms": 160,
+        "count": 113
+      },
+      {
+        "value": "0.2s",
+        "ms": 200,
+        "count": 2
+      },
+      {
+        "value": "0.25s",
+        "ms": 250,
+        "count": 15
+      },
+      {
+        "value": "0.3s",
+        "ms": 300,
+        "count": 12
+      },
+      {
+        "value": "0.4s",
+        "ms": 400,
+        "count": 2
+      },
+      {
+        "value": "0.7s",
+        "ms": 700,
+        "count": 42
+      },
+      {
+        "value": "1s",
+        "ms": 1000,
+        "count": 1
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease",
+        "type": "ease",
+        "count": 745
+      },
+      {
+        "value": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "type": "custom",
+        "count": 160
+      },
+      {
+        "value": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "type": "custom",
+        "count": 78
+      },
+      {
+        "value": "cubic-bezier(0.32, 0.72, 0, 1)",
+        "type": "custom",
+        "count": 30
+      },
+      {
+        "value": "ease-out",
+        "type": "ease-out",
+        "count": 14
+      },
+      {
+        "value": "cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "type": "ease-in",
+        "count": 12
+      },
+      {
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "type": "ease-out",
+        "count": 2
+      }
+    ],
+    "animations": [
+      {
+        "name": "fFDhtq_dotIn",
+        "duration": "0.42s",
+        "easing": "cubic-bezier(0.25",
+        "count": 438,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-0-0-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-0-1-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-0-2-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-0-3-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-0-4-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-1-0-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "grid-dot-1-1-upDown",
+        "duration": "2.8s",
+        "easing": "steps(1)",
+        "count": 2,
+        "contexts": [
+          "other"
+        ]
+      }
+    ],
+    "contexts": {
+      "hero": {
+        "count": 1,
+        "durations": [
+          "0.1s"
+        ],
+        "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "easingType": "custom",
+        "props": [
+          "border-color",
+          "background"
+        ]
+      },
+      "button": {
+        "count": 14,
+        "durations": [
+          "0.16s",
+          "0.1s"
+        ],
+        "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "easingType": "custom",
+        "props": [
+          "background",
+          "color",
+          "transform",
+          "filter"
+        ]
+      },
+      "link": {
+        "count": 7,
+        "durations": [
+          "0.1s",
+          "0.16s"
+        ],
+        "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "easingType": "custom",
+        "props": [
+          "color",
+          "background",
+          "filter",
+          "border"
+        ]
+      }
+    },
+    "interactiveDeltas": [
+      {
+        "tag": "button",
+        "text": "Product",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "button",
+        "text": "Resources",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Customers",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Now",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Log in",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(255, 255, 255, 0.08)"
+          },
+          "color": {
+            "from": "rgb(138, 143, 152)",
+            "to": "rgb(247, 248, 248)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Sign up",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgb(229, 229, 230)",
+            "to": "rgb(255, 255, 255)"
+          }
+        }
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(229, 229, 230)",
+            "color": "rgb(8, 9, 10)",
+            "padding": "0px 20px",
+            "borderRadius": "9999px",
+            "border": "1px solid rgb(229, 229, 230)",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 8px 2px 0px, rgba(0, 0, 0, 0.01) 0px 5px 2px 0px, rgba(0, 0, 0, 0.04) 0px 3px 2px 0px, rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px",
+            "fontSize": "16px",
+            "fontWeight": "510"
+          }
+        },
+        "fontWeight": "510",
+        "fontSize": "16px",
+        "text": "Get started",
+        "confidence": "high",
+        "count": 4
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(255, 255, 255, 0.05)",
+            "color": "rgb(247, 248, 248)",
+            "padding": "0px 20px",
+            "borderRadius": "9999px",
+            "border": "0px none rgb(247, 248, 248)",
+            "boxShadow": "rgba(255, 255, 255, 0.03) 0px 0px 0px 1px inset, rgba(255, 255, 255, 0.04) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.6) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) 0px 4px 4px 0px",
+            "fontSize": "16px",
+            "fontWeight": "510"
+          }
+        },
+        "fontWeight": "510",
+        "fontSize": "16px",
+        "text": "Contact sales",
+        "confidence": "high",
+        "count": 4
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(208, 214, 224)",
+            "padding": "0px 11px 0px 7px",
+            "borderRadius": "16px",
+            "border": "1px solid rgb(46, 46, 50)",
+            "fontSize": "12px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "12px",
+        "text": "Performance",
+        "confidence": "high",
+        "count": 1
+      }
+    ],
+    "inputs": {
+      "text": [
+        {
+          "specificType": "textarea",
+          "states": {
+            "default": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgba(0, 0, 0, 0)",
+              "border": "0px none rgba(0, 0, 0, 0)",
+              "borderRadius": "0px",
+              "padding": "0px 32px 0px 63.8px",
+              "boxShadow": "none",
+              "outline": "rgba(0, 0, 0, 0) none 3px"
+            },
+            "focus": null
+          },
+          "count": 1
+        },
+        {
+          "specificType": "button",
+          "states": {
+            "default": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(98, 102, 109)",
+              "border": "0px none rgb(98, 102, 109)",
+              "borderRadius": "9999px",
+              "padding": "0px 12px",
+              "boxShadow": "none",
+              "outline": "rgba(0, 0, 0, 0) none 3px"
+            },
+            "focus": {
+              "boxShadow": "rgba(0, 0, 0, 0.1) 0px 4px 12px, rgba(0, 0, 0, 0.2) 0px 0px 0px 2px"
+            }
+          },
+          "count": 1
+        }
+      ],
+      "checkbox": [
+        {
+          "specificType": "checkbox",
+          "states": {
+            "default": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "border": "0px none rgb(255, 255, 255)",
+              "borderRadius": "0px",
+              "padding": "0px",
+              "boxShadow": "none",
+              "outline": "rgba(0, 0, 0, 0) none 3px"
+            },
+            "focus": null
+          },
+          "count": 1
+        }
+      ],
+      "radio": [],
+      "select": [
+        {
+          "specificType": "select-one",
+          "states": {
+            "default": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(247, 248, 248)",
+              "border": "0px none rgb(247, 248, 248)",
+              "borderRadius": "8px",
+              "padding": "0px 6px",
+              "boxShadow": "none",
+              "outline": "rgba(0, 0, 0, 0) none 3px"
+            },
+            "focus": null
+          },
+          "count": 1
+        }
+      ]
+    },
+    "links": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "510",
+        "states": {
+          "default": {
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none"
+          },
+          "hover": {}
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(247, 248, 248)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(247, 248, 248)",
+            "textDecoration": "none"
+          },
+          "hover": {}
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(138, 143, 152)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(138, 143, 152)",
+            "textDecoration": "none"
+          },
+          "hover": {}
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(8, 9, 10)",
+        "textDecoration": "none",
+        "fontWeight": "510",
+        "states": {
+          "default": {
+            "color": "rgb(8, 9, 10)",
+            "textDecoration": "none"
+          },
+          "hover": {}
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(98, 102, 109)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(98, 102, 109)",
+            "textDecoration": "none"
+          },
+          "hover": {}
+        },
+        "count": 5
+      }
+    ],
+    "badges": {
+      "all": [
+        {
+          "backgroundColor": "rgba(255, 255, 255, 0.02)",
+          "color": "rgb(138, 143, 152)",
+          "padding": "0px 7px",
+          "borderRadius": "9999px",
+          "border": "0px none rgb(138, 143, 152)",
+          "fontSize": "13.3333px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "subtle",
+          "isRounded": true,
+          "classes": "_1uFtza_pillButton",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(208, 214, 224)",
+          "padding": "0px 11px 0px 7px",
+          "borderRadius": "16px",
+          "border": "1px solid rgb(46, 46, 50)",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "14px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "outline",
+          "isRounded": true,
+          "classes": "_1uFtza_labelButton",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(247, 248, 248)",
+          "padding": "0px 8px 0px 6px",
+          "borderRadius": "9999px",
+          "border": "1px solid rgba(255, 255, 255, 0.08)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "outline",
+          "isRounded": true,
+          "classes": "_5k-xcq_label",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgb(235, 87, 87)",
+          "color": "rgb(247, 248, 248)",
+          "padding": "0px",
+          "borderRadius": "50%",
+          "border": "0px none rgb(247, 248, 248)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "filled",
+          "isRounded": true,
+          "classes": "_5k-xcq_labelDot",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgb(78, 167, 252)",
+          "color": "rgb(247, 248, 248)",
+          "padding": "0px",
+          "borderRadius": "50%",
+          "border": "0px none rgb(247, 248, 248)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "filled",
+          "isRounded": true,
+          "classes": "_5k-xcq_labelDot",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgb(220, 255, 255)",
+          "color": "rgb(247, 248, 248)",
+          "padding": "0px",
+          "borderRadius": "50%",
+          "border": "0px none rgb(247, 248, 248)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "filled",
+          "isRounded": true,
+          "classes": "_5k-xcq_labelDot",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgb(39, 166, 68)",
+          "color": "rgb(247, 248, 248)",
+          "padding": "0px",
+          "borderRadius": "50%",
+          "border": "0px none rgb(247, 248, 248)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "filled",
+          "isRounded": true,
+          "classes": "_5k-xcq_labelDot",
+          "confidence": "high",
+          "count": 1
+        },
+        {
+          "backgroundColor": "rgba(255, 255, 255, 0.07)",
+          "color": "rgb(208, 214, 224)",
+          "padding": "2px 5px 2px 4px",
+          "borderRadius": "3px",
+          "border": "1px solid rgba(255, 255, 255, 0.08)",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "20px",
+          "textTransform": "none",
+          "letterSpacing": "normal",
+          "variant": "neutral",
+          "styleType": "subtle",
+          "isRounded": false,
+          "classes": "JeFGYG_chip GQt1AW_tag",
+          "confidence": "high",
+          "count": 1
+        }
+      ],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": [
+          {
+            "backgroundColor": "rgba(255, 255, 255, 0.02)",
+            "color": "rgb(138, 143, 152)",
+            "padding": "0px 7px",
+            "borderRadius": "9999px",
+            "border": "0px none rgb(138, 143, 152)",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "subtle",
+            "isRounded": true,
+            "classes": "_1uFtza_pillButton",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(208, 214, 224)",
+            "padding": "0px 11px 0px 7px",
+            "borderRadius": "16px",
+            "border": "1px solid rgb(46, 46, 50)",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "lineHeight": "14px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "outline",
+            "isRounded": true,
+            "classes": "_1uFtza_labelButton",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(247, 248, 248)",
+            "padding": "0px 8px 0px 6px",
+            "borderRadius": "9999px",
+            "border": "1px solid rgba(255, 255, 255, 0.08)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "outline",
+            "isRounded": true,
+            "classes": "_5k-xcq_label",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgb(235, 87, 87)",
+            "color": "rgb(247, 248, 248)",
+            "padding": "0px",
+            "borderRadius": "50%",
+            "border": "0px none rgb(247, 248, 248)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "filled",
+            "isRounded": true,
+            "classes": "_5k-xcq_labelDot",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgb(78, 167, 252)",
+            "color": "rgb(247, 248, 248)",
+            "padding": "0px",
+            "borderRadius": "50%",
+            "border": "0px none rgb(247, 248, 248)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "filled",
+            "isRounded": true,
+            "classes": "_5k-xcq_labelDot",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgb(220, 255, 255)",
+            "color": "rgb(247, 248, 248)",
+            "padding": "0px",
+            "borderRadius": "50%",
+            "border": "0px none rgb(247, 248, 248)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "filled",
+            "isRounded": true,
+            "classes": "_5k-xcq_labelDot",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgb(39, 166, 68)",
+            "color": "rgb(247, 248, 248)",
+            "padding": "0px",
+            "borderRadius": "50%",
+            "border": "0px none rgb(247, 248, 248)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "filled",
+            "isRounded": true,
+            "classes": "_5k-xcq_labelDot",
+            "confidence": "high",
+            "count": 1
+          },
+          {
+            "backgroundColor": "rgba(255, 255, 255, 0.07)",
+            "color": "rgb(208, 214, 224)",
+            "padding": "2px 5px 2px 4px",
+            "borderRadius": "3px",
+            "border": "1px solid rgba(255, 255, 255, 0.08)",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "variant": "neutral",
+            "styleType": "subtle",
+            "isRounded": false,
+            "classes": "JeFGYG_chip GQt1AW_tag",
+            "confidence": "high",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "1601px"
+    },
+    {
+      "px": "1536px"
+    },
+    {
+      "px": "1440px"
+    },
+    {
+      "px": "1439px"
+    },
+    {
+      "px": "1281px"
+    },
+    {
+      "px": "1280px"
+    },
+    {
+      "px": "1160px"
+    },
+    {
+      "px": "1140px"
+    },
+    {
+      "px": "1120px"
+    },
+    {
+      "px": "1100px"
+    },
+    {
+      "px": "1052px"
+    },
+    {
+      "px": "1024px"
+    },
+    {
+      "px": "928px"
+    },
+    {
+      "px": "900px"
+    },
+    {
+      "px": "880px"
+    },
+    {
+      "px": "768px"
+    },
+    {
+      "px": "700px"
+    },
+    {
+      "px": "640px"
+    },
+    {
+      "px": "600px"
+    },
+    {
+      "px": "560px"
+    }
+  ],
+  "iconSystem": [
+    {
+      "name": "SVG Icons",
+      "type": "svg"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Radix UI",
+      "confidence": "high",
+      "evidence": "8 Radix primitives"
+    }
+  ],
+  "wcag": [
+    {
+      "fg": "#f7f8f8",
+      "bg": "#08090a",
+      "ratio": 18.73,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 682
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#08090a",
+      "ratio": 6.13,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 557
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#0f1011",
+      "ratio": 5.86,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 187
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#0f1011",
+      "ratio": 13.04,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 131
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#08090a",
+      "ratio": 13.64,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 120
+    },
+    {
+      "fg": "#62666d",
+      "bg": "#0f1011",
+      "ratio": 3.3,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 99
+    },
+    {
+      "fg": "#62666d",
+      "bg": "#08090a",
+      "ratio": 3.45,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 93
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#0f1011",
+      "ratio": 17.9,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 80
+    },
+    {
+      "fg": "#e2e4e7",
+      "bg": "#0f1011",
+      "ratio": 14.95,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 72
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#141516",
+      "ratio": 17.18,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 65
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#08090a",
+      "ratio": 19.93,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 59
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#0b0c0d",
+      "ratio": 13.4,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 43
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#222324",
+      "ratio": 14.8,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 28
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#141516",
+      "ratio": 12.52,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 27
+    },
+    {
+      "fg": "#f79ce0",
+      "bg": "#0f1011",
+      "ratio": 9.78,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 26
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#090a0b",
+      "ratio": 13.56,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 21
+    },
+    {
+      "fg": "#e2e4e7",
+      "bg": "#111b15",
+      "ratio": 13.84,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 19
+    },
+    {
+      "fg": "#e2e4e7",
+      "bg": "#261618",
+      "ratio": 13.62,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 18
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#141516",
+      "ratio": 5.63,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 15
+    },
+    {
+      "fg": "#08090a",
+      "bg": "#e5e5e6",
+      "ratio": 15.83,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 11
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#0b0c0d",
+      "ratio": 6.03,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 9
+    },
+    {
+      "fg": "#f7bf8b",
+      "bg": "#0f1011",
+      "ratio": 11.59,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 8
+    },
+    {
+      "fg": "#ffdf9f",
+      "bg": "#0f1011",
+      "ratio": 14.79,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 8
+    },
+    {
+      "fg": "#e2e4e7",
+      "bg": "#0f3113",
+      "ratio": 11.22,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 7
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#101112",
+      "ratio": 5.82,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 6
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#0d0e0f",
+      "ratio": 19.32,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 6
+    },
+    {
+      "fg": "#f79ce0",
+      "bg": "#261618",
+      "ratio": 8.91,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 6
+    },
+    {
+      "fg": "#8fa6ff",
+      "bg": "#0f1011",
+      "ratio": 8.22,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 6
+    },
+    {
+      "fg": "#f79ce0",
+      "bg": "#111b15",
+      "ratio": 9.05,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 6
+    },
+    {
+      "fg": "#f7bf8b",
+      "bg": "#0f3113",
+      "ratio": 8.7,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 6
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#202122",
+      "ratio": 11.04,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 5
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#090a0b",
+      "ratio": 18.62,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#0b0c0d",
+      "ratio": 19.58,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#4ea7fc",
+      "ratio": 2.39,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 4
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#261618",
+      "ratio": 11.88,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#83dcdc",
+      "bg": "#0f1011",
+      "ratio": 12.01,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#111b15",
+      "ratio": 12.07,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#303031",
+      "ratio": 12.39,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#62666d",
+      "bg": "#090a0b",
+      "ratio": 3.44,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#131415",
+      "ratio": 5.68,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#eb5757",
+      "ratio": 3.27,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#f7bf8b",
+      "bg": "#261618",
+      "ratio": 10.56,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#f7bf8b",
+      "bg": "#111b15",
+      "ratio": 10.73,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#08090a",
+      "bg": "#e4f222",
+      "ratio": 16.15,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#1c1d1e",
+      "ratio": 15.87,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#8a8f98",
+      "bg": "#1b1c1d",
+      "ratio": 5.25,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#1b1c1d",
+      "ratio": 11.68,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#828fff",
+      "bg": "#08090a",
+      "ratio": 6.95,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#131415",
+      "ratio": 12.63,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#62666d",
+      "bg": "#0b0c0d",
+      "ratio": 3.39,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#ffffff",
+      "ratio": 1.06,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#ffffff",
+      "ratio": 1.06,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "focus",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#08090a",
+      "bg": "#ffffff",
+      "ratio": 19.93,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#08090a",
+      "bg": "#ffffff",
+      "ratio": 19.93,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#ffffff",
+      "ratio": 1.46,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#d0d6e0",
+      "bg": "#ffffff",
+      "ratio": 1.46,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "focus",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#191a1b",
+      "ratio": 16.38,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#191a1b",
+      "ratio": 16.38,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#08090a",
+      "ratio": 18.73,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#08090a",
+      "ratio": 18.73,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#f7f8f8",
+      "bg": "#08090a",
+      "ratio": 18.73,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "button",
+      "source": "state"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://linear.app/",
+      "extractedAt": "2026-09-11T09:37:50.740Z"
+    },
+    {
+      "url": "https://linear.app/pricing",
+      "extractedAt": "2026-09-11T09:38:17.160Z"
+    },
+    {
+      "url": "https://linear.app/plan",
+      "extractedAt": "2026-09-11T09:38:48.168Z"
+    },
+    {
+      "url": "https://linear.app/about",
+      "extractedAt": "2026-09-11T09:39:13.723Z"
+    },
+    {
+      "url": "https://linear.app/contact",
+      "extractedAt": "2026-09-11T09:39:35.145Z"
+    }
+  ]
+}

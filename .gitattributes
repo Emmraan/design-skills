@@ -1,0 +1,8 @@
+# Line-ending policy.
+#
+# WHY: scripts/validate.py fingerprints baseline.json BYTES (SHA1 hex-12).
+# A CRLF flip changes the bytes and breaks the fingerprint. On Windows with
+# core.autocrlf=true, newly materialized files get CRLF — so force LF for
+# JSON everywhere. Markdown and other text keep Git's default handling
+# (nothing hashes their bytes).
+*.json text eol=lf

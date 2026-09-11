@@ -1,0 +1,16 @@
+{
+  "slug": "linear",
+  "name": "Linear",
+  "source-url": "https://linear.app",
+  "industry": "developer-tools",
+  "style": "minimal-clean",
+  "layout": "split-hero",
+  "theme": "dark",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-11",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "A1D4E3848615"
+}

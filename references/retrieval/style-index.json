@@ -11,6 +11,12 @@
           "theme": "light"
         },
         {
+          "slug": "linear",
+          "name": "Linear",
+          "industry": "developer-tools",
+          "theme": "dark"
+        },
+        {
           "slug": "mobbin",
           "name": "Mobbin",
           "industry": "saas",

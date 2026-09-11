@@ -26,6 +26,10 @@
           "take": "friendly headline + product/visual + dark pill CTA"
         },
         {
+          "slug": "linear",
+          "take": "centered statement type (72px, tight) + dual-pill CTA + product visual"
+        },
+        {
           "slug": "mobbin",
           "take": "strong display statement + product/library visual + CTA"
         },
@@ -71,6 +75,10 @@
           "take": "warm transparent → white blur; dark CTA"
         },
         {
+          "slug": "linear",
+          "take": "dark, hairline-bottom; logo left, quiet links, dual-pill CTA right"
+        },
+        {
           "slug": "mobbin",
           "take": "minimal, logo left, dark pill CTA right"
         },
@@ -106,6 +114,10 @@
         {
           "slug": "ghost",
           "take": "quiet trust band"
+        },
+        {
+          "slug": "linear",
+          "take": "customer logos as a quiet muted band"
         },
         {
           "slug": "primora",
@@ -145,6 +157,10 @@
           "take": "mint/cream rounded cards, warm bands"
         },
         {
+          "slug": "linear",
+          "take": "alternating rows pairing copy with UI proof"
+        },
+        {
           "slug": "mobbin",
           "take": "clean alternating rows"
         },
@@ -168,6 +184,10 @@
         {
           "slug": "clickup",
           "take": "large numbers, mono labels"
+        },
+        {
+          "slug": "linear",
+          "take": "restrained numbers band; proof through product, not hype"
         },
         {
           "slug": "mobbin",
@@ -240,6 +260,10 @@
           "take": "rounded cards, highlighted plan"
         },
         {
+          "slug": "linear",
+          "take": "tiered cards on dark, highlighted plan, pill CTA per tier"
+        },
+        {
           "slug": "mobbin",
           "take": "cards, highlighted plan"
         },
@@ -279,6 +303,10 @@
         {
           "slug": "juno",
           "take": "coral or dark moment"
+        },
+        {
+          "slug": "linear",
+          "take": "closing statement + the dual-pill pattern repeated"
         },
         {
           "slug": "mobbin",
@@ -324,6 +352,10 @@
         {
           "slug": "juno",
           "take": "warm, muted"
+        },
+        {
+          "slug": "linear",
+          "take": "muted multi-column, meta gray, legal quiet"
         },
         {
           "slug": "mobbin",
