@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v0.2.2 (2026-09-11)
+
+### Bug Fixes
+
+- Run CI only when relevant files change (ignore BUILD.md-only pushes)
+  ([`a4df815`](https://github.com/Emmraan/design-skills/commit/a4df8156ea8320a74fa215a4fa1562e65b16d81b))
+
+### Documentation
+
+- Hygiene pass (Dembrandt pin, env matrix, output cache note)
+  ([`5cb5808`](https://github.com/Emmraan/design-skills/commit/5cb58080611cc165d4a33baec5e7dd1118338263))
+
+- Mark Phase B complete in BUILD.md tracker (CI green, v0.2.1 released)
+  ([`e2aacc4`](https://github.com/Emmraan/design-skills/commit/e2aacc48a171e4d6205a131d1fe70ad72c1fda4e))
+
+- Mark Phase C in progress in BUILD.md tracker (add-linear scaffolded)
+  ([`e81e543`](https://github.com/Emmraan/design-skills/commit/e81e543b8f6868c0f25efe0fa462d2ee49fbee91))
+
+- Mark Phase D1+E complete in BUILD.md tracker
+  ([`1d65a2a`](https://github.com/Emmraan/design-skills/commit/1d65a2ab4050d5e5f6e33092f9cfd7555b68e40f))
+
+- Sync BUILD.md (linear merged, GH_TOKEN fix, line-ending rule)
+  ([`c1bda8e`](https://github.com/Emmraan/design-skills/commit/c1bda8e97687fe540323c17557f2a8fd8d01b493))
+
+
 ## v0.2.1 (2026-09-11)
 
 ### Bug Fixes
