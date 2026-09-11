@@ -44,9 +44,14 @@
   and `pytest` (must be green), then commit on the phase branch. Never merge with failing
   checks. Zero-bug rule.
 - **Merge + delete rule** — merge to `main` ONLY when the phase exit criteria are complete;
-  delete the branch immediately after merging.
+  delete the branch immediately after merging. Phase branches stay local-only; only `main`
+  (and CI-created tags) are pushed to origin.
+- **Line endings (hard rule)** — `validate.py` fingerprints `baseline.json` BYTES. `.gitattributes`
+  forces `*.json text eol=lf` (added with the linear site — a CRLF-flipped baseline broke its
+  fingerprint after a merge-restore on Windows with `core.autocrlf=true`). Never commit a
+  baseline with CRLF; verify with `validate.py` PASS before every merge.
 - **After every phase merge**, update the checkboxes + `## Progress Tracker` in this file
-  (commit on `docs-build-plan`).
+  (commit on `main`).
 
 ---
 
@@ -66,11 +71,11 @@ future releases.
         pyproject bump (`allow_zero_version = true` required, else PSR jumps to `v1.0.0`).
       - `.github/workflows/release.yml` — on push to `main`: setup-python →
         `pip install` → `validate.py` gate (broken code must never get tagged) →
-        release step (`GITHUB_TOKEN`, `contents: write`).
-- [ ] **A3. GitHub repo description + topics** (web UI, manual — no token/`gh` available):
-      description: `UI/UX design knowledge base as a portable agent skill — analyzed
-      website references for AI agents to synthesize original designs`;
-      topics: `design`, `ui-ux`, `agent-skills`, `ai-agents`, `design-system`.
+        release step (`GH_TOKEN`, `contents: write`). ⚠️ First version used `GITHUB_TOKEN`
+        and failed at Release creation (tag+push worked, no GitHub Release) — PSR reads
+        `GH_TOKEN`. Fixed on `fix-release-token`, proven by `v0.2.1` tag + Release.
+- [x] **A3. GitHub repo description** — set (visible via API). Topics (`design`, `ui-ux`,
+      `agent-skills`, `ai-agents`, `design-system`) — user verifies in web UI.
 - [ ] **A4. Branch protection on `main`** (optional; do after B1). ⚠️ Must NOT require pull
       requests — merges are local and CI pushes tags/changelog back; a PR requirement
       would block both. PR-less protection (or skip) only.
@@ -111,13 +116,20 @@ on `main`; auto-tags + Release exist; badge present.
 automatically — no hand-editing. One site = one `add-<slug>` branch (CONTRIBUTING.md
 convention); merge each site independently when its own exit criteria complete.
 
-- [ ] **C1. New site additions** — one Dembrandt run at a time (low-spec machine, user runs
-      it; agent scaffolds via `add.py` and completes `analysis.md` after extraction):
-      1. Pick a target industry with <2 references (candidates: healthcare, education,
-         travel, developer-tools, hospitality, crypto/web3).
-      2. `python scripts/add.py <url>` → run printed Dembrandt command → complete
-         `analysis.md` (sections 1–12) → `--finalize` → rebuild + validate.
-      3. Add the site slug to the matching `references/collections/*.md`.
+- [x] **C1. First site: Linear** (`add-linear`, merged 2026-09-11, branch deleted) —
+      developer-tools (was 0 refs, now 1): scaffold → user ran Dembrandt 0.32.2 →
+      `analysis.md` sections 1–12 → `--finalize` (fingerprint `A1D4E3848615`) →
+      slug added to `collections/saas.md` → rebuild + validate PASS → merged as
+      `add linear:` (no release cut). 11 sites total. Lesson: merge-restore flipped
+      `baseline.json` to CRLF and broke the fingerprint → fixed + `.gitattributes`
+      (`*.json text eol=lf`) added in the same merge.
+- [ ] **C1 continued. Next sites** — same flow, one at a time (remaining gaps: agency,
+      ecommerce need a 2nd ref; healthcare, education, travel, hospitality, crypto/web3
+      still 0):
+      1. Pick target industry → `python scripts/add.py <url>` (prints Dembrandt command,
+         user runs it) → complete `analysis.md` (sections 1–12) → `--finalize` →
+         rebuild + validate.
+      2. Add the site slug to the matching `references/collections/*.md`.
       Note: `add <slug>:` commits are not `feat:` → site merges do not cut release tags.
 - [ ] **C2. New editorial content** as new sites reveal patterns:
       - New `references/components/*.md`, `references/patterns/*.md`,
@@ -171,9 +183,9 @@ Merge with `docs:`/`chore:` (no release cut). **Exit criteria E:** validate PASS
 
 | Phase | Branch | Status | Notes |
 |---|---|---|---|
-| A — Release polish + tag automation | `feat-release` (merged, deleted) | 🟡 in progress | A1+A2 done; A3 manual (user web UI), A4 optional |
+| A — Release polish + tag automation | `feat-release` (merged, deleted) | ✅ complete | tag live, release.yml green (GH_TOKEN fix), v0.2.1 tag+Release; A4 optional |
 | B — Quality guardrails | `feat-ci-tests` (merged, deleted) | ✅ complete | 31 tests green, CI green, v0.2.0 tag + v0.2.1 tag+Release |
-| C — Content growth | `add-<slug>` per site | 🟡 in progress | gap: agency/ecommerce=1, healthcare/education/travel/devtools/hospitality/web3=0; `add-linear` scaffolded+pushed, Dembrandt run pending (user) |
+| C — Content growth | `add-<slug>` per site | 🟡 ongoing | Linear merged (11 sites); gaps: agency/ecommerce=1, healthcare/education/travel/hospitality/web3=0 |
 | D — Skill ecosystem | (verify; branch only if needed) | ⬜ pending | spec audit, install test, agent-skills consumer |
 | E — Hygiene | `docs-hygiene` (merged, deleted) | ✅ complete | pin + env matrix + output note |
 
