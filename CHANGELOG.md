@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v0.2.1 (2026-09-11)
+
+### Bug Fixes
+
+- Release workflow used GITHUB_TOKEN, PSR needs GH_TOKEN
+  ([`7f20ceb`](https://github.com/Emmraan/design-skills/commit/7f20cebb35898e02fee350781aff90b8c96a3232))
+
+
 ## v0.2.0 (2026-09-11)
 
 ### Chores
