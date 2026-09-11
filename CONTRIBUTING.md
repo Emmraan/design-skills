@@ -23,6 +23,9 @@ npx dembrandt install-browser           # Chromium, when first needed
 You run all Dembrandt commands yourself, one at a time (this machine is low-spec; never run
 two extractions in parallel). The scripts only *print* the commands for you to run.
 
+`output/` is a local extraction cache (gitignored) — it stays outside version control.
+Never commit it.
+
 ---
 
 ## 1. Add a site (automatic path — Dembrandt)

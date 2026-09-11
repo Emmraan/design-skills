@@ -85,7 +85,9 @@ Full process: see `CONTRIBUTING.md`.
 
 - Python 3.10+ for repo-management scripts (`pip install -r requirements.txt`)
 - Node.js 18+ for [Dembrandt](https://github.com/dembrandt/dembrandt) extraction
-  (run via `npx dembrandt …`; browser installed on demand)
+  (run via `npx dembrandt …`; browser installed on demand).
+  Extractions are tested with Dembrandt **0.28.0** — pin it for reproducible
+  results: `npx dembrandt@0.28.0 <url> --save-output --design-md --wcag --crawl 5`.
 
 ## License
 

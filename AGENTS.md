@@ -67,5 +67,6 @@ Full add/update/delete/import workflows: **`CONTRIBUTING.md`**.
 
 - Python 3.10+ (`pip install -r requirements.txt` — pyyaml for validate.py).
 - Node 18+ for Dembrandt; Chromium via `npx dembrandt install-browser` when first needed.
+- Tested matrix: **Python 3.13 + Node 22 + Dembrandt 0.28.0**.
 - This project is not the opencode config project — do not apply the `customize-opencode`
   skill here.

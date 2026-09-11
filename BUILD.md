@@ -138,10 +138,12 @@ PASS; slug listed in the matching collection.
 **Goal:** the knowledge base starts being *used* by real agents. Mostly verification —
 open a `docs-spec-audit` branch only if a fix is needed.
 
-- [ ] **D1. agentskills.io spec audit** — confirm SKILL.md passes: name matches repo,
-      description ≤1024 (currently 666), body <500 lines (currently ~150).
-- [ ] **D2. End-to-end install test** — `npx skills add https://github.com/Emmraan/design-skills`
-      then trigger the skill in a sandbox agent and confirm `INDEX.md` retrieval flow works.
+- [x] **D1. agentskills.io spec audit** — verified 2026-09-11: name `design-skills` matches
+      repo ✓, description 666 chars ≤1024 ✓, body 149 lines <500 ✓. (validate.py also
+      enforces name + description on every CI run.)
+- [ ] **D2. End-to-end install test** — user runs in a sandbox (external/network step):
+      `npx skills add https://github.com/Emmraan/design-skills`, trigger the skill,
+      confirm `INDEX.md` retrieval flow works.
 - [ ] **D3. agent-skills consumer** (in `github.com/Emmraan/agent-skills`, separate repo —
       no branch here):
       - `skills/design-ux/create-website` — consumes this KB when building a site.
