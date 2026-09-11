@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v0.3.0 (2026-09-11)
+
+### Chores
+
+- Untrack BUILD.md (local plan doc) + drop stale CI ignores
+  ([`0304dc9`](https://github.com/Emmraan/design-skills/commit/0304dc9f00eacb055d42df20bf1ec9ca5154d3ca))
+
+### Documentation
+
+- Sync AGENTS.md with automation-era workflow (CI, tests, local merges)
+  ([`1f3ca59`](https://github.com/Emmraan/design-skills/commit/1f3ca593cfae5abd139eac53a464aa37bc244cce))
+
+### Features
+
+- Scope CI triggers and auto-clean up consumed snapshots
+  ([`7029b19`](https://github.com/Emmraan/design-skills/commit/7029b1925bd9e3ce1aefe9299d736a89f932df1f))
+
+
 ## v0.2.2 (2026-09-11)
 
 ### Bug Fixes
