@@ -18,6 +18,7 @@
 | primora | agency | editorial-premium | dark | editorial-split |
 | ramp | fintech | bold-clean | light | split-hero |
 | sendr | ai | minimal-clean | light | centered-hero |
+| udemy | education | bold-marketplace | light | split-hero |
 | wispr | ai | editorial-playful | dark | split-hero |
 
 ## Collections
@@ -27,6 +28,7 @@
 | Agency | `references/collections/agency.md` |
 | Ai | `references/collections/ai.md` |
 | Ecommerce | `references/collections/ecommerce.md` |
+| Education | `references/collections/education.md` |
 | Fintech | `references/collections/fintech.md` |
 | Healthcare | `references/collections/healthcare.md` |
 | Portfolio | `references/collections/portfolio.md` |

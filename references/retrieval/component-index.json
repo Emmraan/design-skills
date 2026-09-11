@@ -50,6 +50,10 @@
           "take": "bold sans headline + serif statement + handwriting annotation + CTA"
         },
         {
+          "slug": "udemy",
+          "take": "statement headline (56px) + prominent search + supporting visual"
+        },
+        {
           "slug": "wispr",
           "take": "giant serif headline + demo visual + coral CTA + trust line"
         }
@@ -101,6 +105,10 @@
         {
           "slug": "sendr",
           "take": "minimal, logo left, blue accents on interactive"
+        },
+        {
+          "slug": "udemy",
+          "take": "side-nav categories for topic browsing"
         },
         {
           "slug": "wispr",
@@ -187,6 +195,10 @@
         {
           "slug": "sendr",
           "take": "editorial steps with annotations"
+        },
+        {
+          "slug": "udemy",
+          "take": "topic index (`/featured-topics/`) for SEO + discovery depth"
         },
         {
           "slug": "wispr",
@@ -294,6 +306,10 @@
         {
           "slug": "sendr",
           "take": "clean cards, highlighted plan"
+        },
+        {
+          "slug": "udemy",
+          "take": "lavender-tint subscription pitch with feature icons"
         }
       ]
     },
@@ -396,6 +412,10 @@
         {
           "slug": "sendr",
           "take": "muted"
+        },
+        {
+          "slug": "udemy",
+          "take": "dark ink (`#202230`), multi-column links, muted slate meta"
         },
         {
           "slug": "wispr",

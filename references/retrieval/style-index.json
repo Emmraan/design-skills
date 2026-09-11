@@ -107,6 +107,16 @@
       ],
       "signature": "confident typography, one crisp accent, institutional trust"
     },
+    "bold-marketplace": {
+      "sites": [
+        {
+          "slug": "udemy",
+          "name": "Udemy",
+          "industry": "education",
+          "theme": "light"
+        }
+      ]
+    },
     "editorial-playful": {
       "sites": [
         {

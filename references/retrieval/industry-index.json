@@ -131,6 +131,16 @@
         "demo as hero from Wispr",
         "real AI outputs + clarity over hype from Sendr"
       ]
+    },
+    "education": {
+      "sites": [
+        {
+          "slug": "udemy",
+          "name": "Udemy",
+          "style": "bold-marketplace",
+          "theme": "light"
+        }
+      ]
     }
   }
 }
