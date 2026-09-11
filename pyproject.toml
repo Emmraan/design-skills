@@ -1,0 +1,26 @@
+# NOTE: design-skills is a knowledge-base skill, not a Python package.
+# This file exists only to give python-semantic-release a version variable
+# to keep in sync with git tags (tags are the source of truth).
+# Verified against python-semantic-release 10.6.2 (see Phase A rehearsal).
+
+[project]
+name = "design-skills"
+version = "0.1.0"
+description = "UI/UX Design Knowledge Base shipped as a portable Agent Skill."
+requires-python = ">=3.10"
+
+[tool.semantic_release]
+commit_parser = "conventional"
+tag_format = "v{version}"
+allow_zero_version = true
+version_toml = ["pyproject.toml:project.version"]
+
+[tool.semantic_release.changelog]
+mode = "update"
+insertion_flag = "<!-- version list -->"
+
+[tool.semantic_release.changelog.default_templates]
+changelog_file = "CHANGELOG.md"
+
+[tool.semantic_release.publish]
+upload_to_vcs_release = false
