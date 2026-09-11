@@ -1,0 +1,16 @@
+{
+  "slug": "vita-travel",
+  "name": "Vita Travel",
+  "source-url": "https://vita-travel.webflow.io/",
+  "industry": "travel",
+  "style": "immersive-dark",
+  "layout": "centered-hero",
+  "theme": "dark",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-11",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "A351704139EA"
+}

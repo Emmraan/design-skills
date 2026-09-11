@@ -117,6 +117,16 @@
         }
       ]
     },
+    "immersive-dark": {
+      "sites": [
+        {
+          "slug": "vita-travel",
+          "name": "Vita Travel",
+          "industry": "travel",
+          "theme": "dark"
+        }
+      ]
+    },
     "editorial-playful": {
       "sites": [
         {

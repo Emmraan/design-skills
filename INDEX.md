@@ -19,6 +19,7 @@
 | ramp | fintech | bold-clean | light | split-hero |
 | sendr | ai | minimal-clean | light | centered-hero |
 | udemy | education | bold-marketplace | light | split-hero |
+| vita-travel | travel | immersive-dark | dark | centered-hero |
 | wispr | ai | editorial-playful | dark | split-hero |
 
 ## Collections
@@ -33,6 +34,7 @@
 | Healthcare | `references/collections/healthcare.md` |
 | Portfolio | `references/collections/portfolio.md` |
 | Saas | `references/collections/saas.md` |
+| Travel | `references/collections/travel.md` |
 
 ## Components
 

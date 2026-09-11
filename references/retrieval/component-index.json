@@ -54,6 +54,10 @@
           "take": "statement headline (56px) + prominent search + supporting visual"
         },
         {
+          "slug": "vita-travel",
+          "take": "60px tracked display statement + primary pill CTA over dark canvas (0.2s ease-in motion)"
+        },
+        {
           "slug": "wispr",
           "take": "giant serif headline + demo visual + coral CTA + trust line"
         }
@@ -416,6 +420,10 @@
         {
           "slug": "udemy",
           "take": "dark ink (`#202230`), multi-column links, muted slate meta"
+        },
+        {
+          "slug": "vita-travel",
+          "take": "dark, hairline-separated links"
         },
         {
           "slug": "wispr",

@@ -141,6 +141,16 @@
           "theme": "light"
         }
       ]
+    },
+    "travel": {
+      "sites": [
+        {
+          "slug": "vita-travel",
+          "name": "Vita Travel",
+          "style": "immersive-dark",
+          "theme": "dark"
+        }
+      ]
     }
   }
 }
