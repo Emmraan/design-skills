@@ -1,0 +1,16 @@
+{
+  "slug": "coinbase",
+  "name": "Coinbase",
+  "source-url": "https://www.coinbase.com/en-gb",
+  "industry": "crypto",
+  "style": "clean-confident",
+  "layout": "split-hero",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-11",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "74008D2CBB66"
+}

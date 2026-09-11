@@ -1,0 +1,2330 @@
+{
+  "url": "https://www.coinbase.com/en-gb",
+  "extractedAt": "2026-09-11T13:57:48.415Z",
+  "meta": {
+    "snapshotId": "6237dbba-c18f-4308-acb3-d650a2b67436",
+    "httpStatus": 200,
+    "dembrandtVersion": "0.32.2",
+    "schemaVersion": "1.12.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": true,
+    "requestedUrl": "https://www.coinbase.com/en-gb",
+    "contentLength": 129948,
+    "flags": {},
+    "crawl": {
+      "technique": "auto",
+      "pagesRequested": 5,
+      "pagesFound": 5
+    }
+  },
+  "siteName": "Coinbase",
+  "logo": {
+    "source": "img",
+    "context": "header",
+    "url": "https://static-assets.coinbase.com/ui-infra/illustration/v1/pictogram/svg/light/coinbaseLogoNavigation-4.svg",
+    "width": 150,
+    "height": 150,
+    "rect": {
+      "x": 192,
+      "y": 72,
+      "width": 44,
+      "height": 44
+    },
+    "natural": {
+      "width": 150,
+      "height": 150
+    },
+    "alt": "Coinbase Logo",
+    "type": "logomark",
+    "reversed": false,
+    "background": "#ffffff",
+    "safeZone": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "position": {
+      "top": 72,
+      "left": 192
+    }
+  },
+  "favicons": [
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_6z3OfXe9.png",
+      "sizes": "32x32"
+    },
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_C_T4Rln_.png",
+      "sizes": "57x57"
+    },
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_BG1I6TR_.png",
+      "sizes": "76x76"
+    },
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_DVA0h2KN.png",
+      "sizes": "96x96"
+    },
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_CDW_BqV2.png",
+      "sizes": "128x128"
+    },
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_4fFhElUj.png",
+      "sizes": "192x192"
+    },
+    {
+      "type": "icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_CcvONSrV.png",
+      "sizes": "228x228"
+    },
+    {
+      "type": "shortcut icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_B4aDYo-G.png",
+      "sizes": "196x196"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_GRKmPJt5.png",
+      "sizes": "120x120"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_Ct1dkDsA.png",
+      "sizes": "152x152"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://www.coinbase.com/assets/sw-cache/a_BIaaMV9S.png",
+      "sizes": "180x180"
+    },
+    {
+      "type": "og:image",
+      "url": "https://images.ctfassets.net/o10es7wu5gm1/1JjurDClihfsPSbJpU07HG/bbfabdb7f13c8b2589481a0f9ad81ebe/UK.png",
+      "sizes": null
+    },
+    {
+      "type": "twitter:image",
+      "url": "https://images.ctfassets.net/o10es7wu5gm1/1JjurDClihfsPSbJpU07HG/bbfabdb7f13c8b2589481a0f9ad81ebe/UK.png",
+      "sizes": null
+    },
+    {
+      "type": "pwa",
+      "url": "https://www.coinbase.com/img/favicon/favicon-48.png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://www.coinbase.com/img/favicon/favicon-96.png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://www.coinbase.com/img/favicon/favicon-192.png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://www.coinbase.com/img/favicon/favicon-512.png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "secondary": "rgb(238, 240, 243)",
+      "primary": "rgb(0, 82, 255)",
+      "background": "rgb(255, 255, 255)",
+      "text": "rgb(0, 0, 0)"
+    },
+    "palette": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 2592,
+        "confidence": "high",
+        "sources": [
+          "flex-sc-a35e041a-0"
+        ],
+        "lch": "lch(100% 0.028 53.346)",
+        "oklch": "oklch(100% 0 0)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d9d9d9",
+        "contrastAgainst": [
+          {
+            "bg": "#000000",
+            "ratio": 21,
+            "aa": true
+          },
+          {
+            "bg": "#0a0b0d",
+            "ratio": 19.69,
+            "aa": true
+          },
+          {
+            "bg": "#282b31",
+            "ratio": 14.19,
+            "aa": true
+          },
+          {
+            "bg": "#5b616e",
+            "ratio": 6.21,
+            "aa": true
+          },
+          {
+            "bg": "#0052ff",
+            "ratio": 5.75,
+            "aa": true
+          },
+          {
+            "bg": "#0667d0",
+            "ratio": 5.44,
+            "aa": true
+          },
+          {
+            "bg": "#e5e7ea",
+            "ratio": 1.24,
+            "aa": false
+          },
+          {
+            "bg": "#eef0f3",
+            "ratio": 1.14,
+            "aa": false
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 3247,
+        "confidence": "high",
+        "sources": [
+          "tabcontainercss-tscl7hw"
+        ],
+        "lch": "lch(0% 0 0)",
+        "oklch": "oklch(0% 0 0)",
+        "role": "surface",
+        "onColor": "#ffffff",
+        "hover": "#000000",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 21,
+            "aa": true
+          },
+          {
+            "bg": "#464b55",
+            "ratio": 2.4,
+            "aa": false
+          },
+          {
+            "bg": "#282b31",
+            "ratio": 1.48,
+            "aa": false
+          },
+          {
+            "bg": "#111214",
+            "ratio": 1.12,
+            "aa": false
+          },
+          {
+            "bg": "#101113",
+            "ratio": 1.11,
+            "aa": false
+          },
+          {
+            "bg": "#0a0b0d",
+            "ratio": 1.07,
+            "aa": false
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(91, 97, 110)",
+        "normalized": "#5b616e",
+        "count": 782,
+        "confidence": "high",
+        "sources": [],
+        "lch": "lch(40.964% 8.224 268.921)",
+        "oklch": "oklch(49.2054% 0.0221 265.817)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#6d7484",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 6.21,
+            "aa": true
+          },
+          {
+            "bg": "#eef0f3",
+            "ratio": 5.44,
+            "aa": true
+          }
+        ],
+        "pageCount": 3
+      },
+      {
+        "color": "rgb(87, 139, 250)",
+        "normalized": "#578bfa",
+        "count": 358,
+        "confidence": "high",
+        "sources": [],
+        "lch": "lch(58.436% 62.491 278.622)",
+        "oklch": "oklch(65.5235% 0.17443 263.462)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#4a76d5",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#0a0b0d",
+            "ratio": 6.07,
+            "aa": true
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(138, 145, 158)",
+        "normalized": "#8a919e",
+        "count": 673,
+        "confidence": "high",
+        "sources": [],
+        "lch": "lch(59.912% 7.821 265.775)",
+        "oklch": "oklch(65.5186% 0.02096 262.967)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#757b86",
+        "contrastAgainst": [
+          {
+            "bg": "#0a0b0d",
+            "ratio": 6.21,
+            "aa": true
+          },
+          {
+            "bg": "#141519",
+            "ratio": 5.76,
+            "aa": true
+          },
+          {
+            "bg": "#282b31",
+            "ratio": 4.48,
+            "aa": false
+          }
+        ],
+        "pageCount": 3
+      },
+      {
+        "color": "rgb(0, 82, 255)",
+        "normalized": "#0052ff",
+        "count": 94,
+        "confidence": "high",
+        "sources": [
+          "logo"
+        ],
+        "lch": "lch(41.389% 99.125 291.304)",
+        "oklch": "oklch(52.8199% 0.2628 262.87)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#0062ff",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 5.75,
+            "aa": true
+          },
+          {
+            "bg": "#f7f8f9",
+            "ratio": 5.41,
+            "aa": true
+          },
+          {
+            "bg": "#f7f7f7",
+            "ratio": 5.37,
+            "aa": true
+          },
+          {
+            "bg": "#eef0f3",
+            "ratio": 5.04,
+            "aa": true
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(40, 43, 49)",
+        "normalized": "#282b31",
+        "count": 53,
+        "confidence": "high",
+        "sources": [],
+        "lch": "lch(17.414% 4.38 267.432)",
+        "oklch": "oklch(28.8535% 0.01177 264.373)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#30343b",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 14.19,
+            "aa": true
+          },
+          {
+            "bg": "#8a919e",
+            "ratio": 4.48,
+            "aa": false
+          },
+          {
+            "bg": "#578bfa",
+            "ratio": 4.38,
+            "aa": false
+          },
+          {
+            "bg": "#000000",
+            "ratio": 1.48,
+            "aa": false
+          },
+          {
+            "bg": "#0a0b0d",
+            "ratio": 1.39,
+            "aa": false
+          }
+        ],
+        "pageCount": 4
+      }
+    ],
+    "cssVariables": {},
+    "detected": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 1420,
+        "usageFrac": 0.4226190476190476,
+        "areaFrac": 0.6013566148204681,
+        "confidence": "high",
+        "sources": [
+          "flex-sc-a35e041a-0"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 619,
+        "usageFrac": 0.1842261904761905,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "cdx-promo-carousel-container"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(39, 173, 117)",
+        "normalized": "#27ad75",
+        "count": 528,
+        "usageFrac": 0.15714285714285714,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(10, 11, 13)",
+        "normalized": "#0a0b0d",
+        "count": 225,
+        "usageFrac": 0.06696428571428571,
+        "areaFrac": 0.06633556950755776,
+        "confidence": "high",
+        "sources": [
+          "iconcss-i1t3cbh7"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(91, 97, 110)",
+        "normalized": "#5b616e",
+        "count": 224,
+        "usageFrac": 0.06666666666666667,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(240, 97, 109)",
+        "normalized": "#f0616d",
+        "count": 132,
+        "usageFrac": 0.039285714285714285,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(87, 139, 250)",
+        "normalized": "#578bfa",
+        "count": 108,
+        "usageFrac": 0.03214285714285714,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(138, 145, 158)",
+        "normalized": "#8a919e",
+        "count": 28,
+        "usageFrac": 0.008333333333333333,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(238, 240, 243)",
+        "normalized": "#eef0f3",
+        "count": 25,
+        "usageFrac": 0.00744047619047619,
+        "areaFrac": 0.1915089902092248,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(0, 82, 255)",
+        "normalized": "#0052ff",
+        "count": 18,
+        "usageFrac": 0.005357142857142857,
+        "areaFrac": 0.0005102335750914073,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(40, 43, 49)",
+        "normalized": "#282b31",
+        "count": 9,
+        "usageFrac": 0.0026785714285714286,
+        "areaFrac": 0.0005818777284269433,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(6, 103, 208)",
+        "normalized": "#0667d0",
+        "count": 8,
+        "usageFrac": 0.002380952380952381,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(247, 248, 249)",
+        "normalized": "#f7f8f9",
+        "count": 6,
+        "usageFrac": 0.0017857142857142857,
+        "areaFrac": 0.027135457770815212,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(20, 21, 25)",
+        "normalized": "#141519",
+        "count": 5,
+        "usageFrac": 0.001488095238095238,
+        "areaFrac": 0.11076092495140138,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(70, 75, 85)",
+        "normalized": "#464b55",
+        "count": 2,
+        "usageFrac": 0.0005952380952380953,
+        "areaFrac": 0.0000027387767579642668,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(128, 128, 128)",
+        "normalized": "#808080",
+        "count": 2,
+        "usageFrac": 0.0005952380952380953,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(245, 248, 255)",
+        "normalized": "#f5f8ff",
+        "count": 1,
+        "usageFrac": 0.00029761904761904765,
+        "areaFrac": 0.0018075926602564162,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "display",
+        "count": 1,
+        "family": "CoinbaseDisplay",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "80px (5.00rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "display",
+        "count": 3,
+        "family": "CoinbaseIcons",
+        "fallbacks": null,
+        "size": "64px (4.00rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "CoinbaseDisplay",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "64px (4.00rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "CoinbaseDisplay",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "52px (3.25rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "CoinbaseDisplay",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "44px (2.75rem)",
+        "weight": 400,
+        "lineHeight": "1.09",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "36px (2.25rem)",
+        "weight": 400,
+        "lineHeight": "1.11",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 2,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "32px (2.00rem)",
+        "weight": 400,
+        "lineHeight": "1.13",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "28px (1.75rem)",
+        "weight": 400,
+        "lineHeight": "1.14",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "CoinbaseIcons",
+        "fallbacks": null,
+        "size": "24px (1.50rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "CoinbaseIcons",
+        "fallbacks": null,
+        "size": "20px (1.25rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-3",
+        "count": 4,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "20px (1.25rem)",
+        "weight": 600,
+        "lineHeight": "1.40",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 10,
+        "family": "CoinbaseText",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "18px (1.13rem)",
+        "weight": 400,
+        "lineHeight": "1.56",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 4,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "18px (1.13rem)",
+        "weight": 600,
+        "lineHeight": "1.33",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 20,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.15",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 20,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 600,
+        "lineHeight": "1.15",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 2,
+        "family": "CoinbaseIcons",
+        "fallbacks": null,
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 10,
+        "family": "CoinbaseText",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 10,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 700,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 5,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "14.4px (0.90rem)",
+        "weight": 400,
+        "lineHeight": "2.64",
+        "spacing": "0.144px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 5,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "14.4px (0.90rem)",
+        "weight": 700,
+        "lineHeight": "1.00",
+        "spacing": "0.144px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 10,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-4",
+        "count": 5,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 700,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-4",
+        "count": 5,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 600,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 10,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "13.6px (0.85rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 5,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "13px (0.81rem)",
+        "weight": 600,
+        "lineHeight": "1.23",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 5,
+        "family": "CoinbaseText",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+        "size": "13px (0.81rem)",
+        "weight": 400,
+        "lineHeight": "1.54",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 10,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "12.992px (0.81rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 5,
+        "family": "CoinbaseSans",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": false,
+      "urls": [
+        "https://www.coinbase.com/a_1w36Opdd.woff2",
+        "https://www.coinbase.com/a_B-911Gqf.woff2",
+        "https://www.coinbase.com/a_BDyAm2xz.woff2",
+        "https://www.coinbase.com/a_BJ1-X6Dz.woff2",
+        "https://www.coinbase.com/a_BP6LpXDE.woff2",
+        "https://www.coinbase.com/a_B_b0ARhd.woff2",
+        "https://www.coinbase.com/a_BhjxHaJp.woff2",
+        "https://www.coinbase.com/a_BybxolpF.woff2",
+        "https://www.coinbase.com/a_C9IXt1kJ.woff2",
+        "https://www.coinbase.com/a_CH-aRrrD.woff2",
+        "https://www.coinbase.com/a_Dd_cEDRa.woff2",
+        "https://www.coinbase.com/en-in/a_1w36Opdd.woff2",
+        "https://www.coinbase.com/en-in/a_B-911Gqf.woff2",
+        "https://www.coinbase.com/en-in/a_BDyAm2xz.woff2",
+        "https://www.coinbase.com/en-in/a_BJ1-X6Dz.woff2",
+        "https://www.coinbase.com/en-in/a_BP6LpXDE.woff2",
+        "https://www.coinbase.com/en-in/a_B_b0ARhd.woff2",
+        "https://www.coinbase.com/en-in/a_BhjxHaJp.woff2",
+        "https://www.coinbase.com/en-in/a_BybxolpF.woff2",
+        "https://www.coinbase.com/en-in/a_C9IXt1kJ.woff2",
+        "https://www.coinbase.com/en-in/a_CH-aRrrD.woff2",
+        "https://www.coinbase.com/en-in/a_Dd_cEDRa.woff2"
+      ],
+      "filteredFamilies": [
+        "CoinbaseDisplay",
+        "CoinbaseIcons"
+      ],
+      "selfHostedFonts": [
+        "a_B-911Gqf.woff2",
+        "a_BDyAm2xz.woff2",
+        "a_BJ1-X6Dz.woff2",
+        "a_BybxolpF.woff2",
+        "a_C9IXt1kJ.woff2",
+        "a_CH-aRrrD.woff2"
+      ],
+      "customFonts": [
+        "a_B-911Gqf.woff2",
+        "a_BDyAm2xz.woff2",
+        "a_BJ1-X6Dz.woff2",
+        "a_BybxolpF.woff2",
+        "a_C9IXt1kJ.woff2",
+        "a_CH-aRrrD.woff2"
+      ]
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "8px",
+        "display": "8px",
+        "rem": "0.50rem",
+        "count": 611,
+        "numericValue": 8,
+        "frequency": 0
+      },
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 450,
+        "numericValue": 10,
+        "frequency": 0
+      },
+      {
+        "px": "4px",
+        "display": "4px",
+        "rem": "0.25rem",
+        "count": 325,
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "px": "16px",
+        "display": "16px",
+        "rem": "1.00rem",
+        "count": 242,
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "px": "32px",
+        "display": "32px",
+        "rem": "2.00rem",
+        "count": 137,
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "px": "12px",
+        "display": "12px",
+        "rem": "0.75rem",
+        "count": 122,
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "px": "24px",
+        "display": "24px",
+        "rem": "1.50rem",
+        "count": 108,
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "px": "80px",
+        "display": "80px",
+        "rem": "5.00rem",
+        "count": 58,
+        "numericValue": 80,
+        "frequency": 0
+      },
+      {
+        "px": "5px",
+        "display": "5px",
+        "rem": "0.31rem",
+        "count": 35,
+        "numericValue": 5,
+        "frequency": 0
+      },
+      {
+        "px": "64px",
+        "display": "64px",
+        "rem": "4.00rem",
+        "count": 30,
+        "numericValue": 64,
+        "frequency": 0
+      },
+      {
+        "px": "1px",
+        "display": "1px",
+        "rem": "0.06rem",
+        "count": 25,
+        "numericValue": 1,
+        "frequency": 0
+      },
+      {
+        "px": "3px",
+        "display": "3px",
+        "rem": "0.19rem",
+        "count": 17,
+        "numericValue": 3,
+        "frequency": 0
+      },
+      {
+        "px": "20px",
+        "display": "20px",
+        "rem": "1.25rem",
+        "count": 15,
+        "numericValue": 20,
+        "frequency": 0
+      },
+      {
+        "px": "6px",
+        "display": "6px",
+        "rem": "0.38rem",
+        "count": 14,
+        "numericValue": 6,
+        "frequency": 0
+      },
+      {
+        "px": "15px",
+        "display": "15px",
+        "rem": "0.94rem",
+        "count": 10,
+        "numericValue": 15,
+        "frequency": 0
+      },
+      {
+        "px": "25px",
+        "display": "25px",
+        "rem": "1.56rem",
+        "count": 10,
+        "numericValue": 25,
+        "frequency": 0
+      },
+      {
+        "px": "48px",
+        "display": "48px",
+        "rem": "3.00rem",
+        "count": 6,
+        "numericValue": 48,
+        "frequency": 0
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "16px",
+        "count": 350,
+        "elements": [
+          "a",
+          "menuitem",
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "value": "56px",
+        "count": 208,
+        "elements": [
+          "button",
+          "Dismiss",
+          "a",
+          "search",
+          "open language selector"
+        ],
+        "confidence": "high",
+        "numericValue": 56,
+        "frequency": 0
+      },
+      {
+        "value": "12px",
+        "count": 162,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "value": "9999px",
+        "count": 65,
+        "elements": [
+          "img",
+          "a",
+          "div",
+          "button",
+          "span"
+        ],
+        "confidence": "high",
+        "numericValue": 9999,
+        "frequency": 0
+      },
+      {
+        "value": "40px",
+        "count": 52,
+        "elements": [
+          "div",
+          "Explore more crypto",
+          "Learn the basics",
+          "button"
+        ],
+        "confidence": "high",
+        "numericValue": 40,
+        "frequency": 0
+      },
+      {
+        "value": "8px",
+        "count": 31,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 8
+      },
+      {
+        "value": "32px",
+        "count": 25,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "value": "4px",
+        "count": 18,
+        "elements": [
+          "button",
+          "Close",
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "value": "24px",
+        "count": 17,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "value": "2px",
+        "count": 15,
+        "elements": [
+          "Customize Cookies, Opens the preference center dialog",
+          "Back",
+          "button"
+        ],
+        "confidence": "high",
+        "numericValue": 2,
+        "frequency": 0
+      },
+      {
+        "value": "20px",
+        "count": 15,
+        "elements": [
+          "span"
+        ],
+        "confidence": "high",
+        "numericValue": 20,
+        "frequency": 0
+      },
+      {
+        "value": "45px",
+        "count": 15,
+        "elements": [
+          "label"
+        ],
+        "confidence": "high",
+        "numericValue": 45,
+        "frequency": 0
+      },
+      {
+        "value": "3px",
+        "count": 10,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium",
+        "numericValue": 3,
+        "frequency": 0
+      },
+      {
+        "value": "17px",
+        "count": 5,
+        "elements": [
+          "Filter Cookie List"
+        ],
+        "confidence": "medium",
+        "numericValue": 17,
+        "frequency": 0
+      },
+      {
+        "value": "50px",
+        "count": 5,
+        "elements": [
+          "Cookie list search"
+        ],
+        "confidence": "medium",
+        "numericValue": 50,
+        "frequency": 0
+      },
+      {
+        "value": "50%",
+        "count": 5,
+        "elements": [
+          "Close preference center"
+        ],
+        "confidence": "medium",
+        "numericValue": 50,
+        "frequency": 0
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(10, 11, 13, 0)",
+        "count": 38,
+        "elements": [
+          "button",
+          "div"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "none none solid",
+        "color": "rgb(255, 255, 255)",
+        "count": 27,
+        "elements": [
+          "td"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(0, 82, 255)",
+        "count": 20,
+        "elements": [
+          "button"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(255, 255, 255)",
+        "count": 15,
+        "elements": [
+          "span"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 12,
+        "elements": [
+          "div",
+          "button"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(10, 11, 13)",
+        "count": 10,
+        "elements": [
+          "button"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "none none solid",
+        "color": "rgb(0, 0, 0)",
+        "count": 10,
+        "elements": [
+          "div",
+          "li"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(91, 97, 110, 0.2)",
+        "count": 6,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(50, 174, 136)",
+        "count": 5,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(209, 209, 209)",
+        "count": 5,
+        "elements": [
+          "input"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(187, 187, 187)",
+        "count": 5,
+        "elements": [
+          "button"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid none none",
+        "color": "rgb(216, 216, 216)",
+        "count": 5,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(138, 145, 158, 0.2)",
+        "count": 4,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "solid",
+        "color": "rgba(91, 97, 110, 0.2)",
+        "count": 3,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "solid",
+        "color": "rgba(138, 145, 158, 0.2)",
+        "count": 3,
+        "elements": [
+          "div",
+          "nav"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "2px",
+        "style": "solid",
+        "color": "rgb(238, 240, 243)",
+        "count": 1,
+        "elements": [
+          "img"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "rgba(0, 0, 0, 0.12) 0px 8px 12px 0px",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgb(153, 153, 153) 0px 2px 10px -3px",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgb(199, 197, 199) -3px -3px 5px -2px",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgb(199, 197, 199) 0px 0px 12px 2px",
+      "count": 5,
+      "confidence": "medium"
+    }
+  ],
+  "gradients": [],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.2s",
+        "ms": 200,
+        "count": 320
+      },
+      {
+        "value": "0.3s",
+        "ms": 300,
+        "count": 276
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease-in-out",
+        "type": "ease-in-out",
+        "count": 586
+      },
+      {
+        "value": "cubic-bezier(0.33, 0, 0, 1)",
+        "type": "custom",
+        "count": 10
+      }
+    ],
+    "animations": [],
+    "contexts": {
+      "link": {
+        "count": 43,
+        "durations": [
+          "0.2s"
+        ],
+        "easing": "ease-in-out",
+        "easingType": "ease-in-out",
+        "props": [
+          "background-color"
+        ]
+      },
+      "button": {
+        "count": 4,
+        "durations": [
+          "0.2s"
+        ],
+        "easing": "cubic-bezier(0.33, 0, 0, 1)",
+        "easingType": "custom",
+        "props": [
+          "opacity"
+        ]
+      },
+      "card": {
+        "count": 5,
+        "durations": [
+          "0.2s"
+        ],
+        "easing": "ease-in-out",
+        "easingType": "ease-in-out",
+        "props": [
+          "background-color"
+        ]
+      }
+    },
+    "interactiveDeltas": [
+      {
+        "tag": "a",
+        "text": "Change to India",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgb(238, 240, 243)",
+            "to": "rgba(229, 231, 234, 0.88)"
+          }
+        }
+      },
+      {
+        "tag": "button",
+        "text": "󰉆",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgb(238, 240, 243)",
+            "to": "rgba(229, 231, 234, 0.88)"
+          }
+        }
+      },
+      {
+        "tag": "div",
+        "text": "Individuals",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgba(247, 247, 247, 0.88)"
+          }
+        }
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(238, 240, 243)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "borderRadius": "56px",
+            "border": "0px solid rgb(238, 240, 243)",
+            "fontSize": "16px",
+            "fontWeight": "600"
+          }
+        },
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "text": "󰝊",
+        "confidence": "high",
+        "count": 3
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(40, 43, 49)",
+            "color": "rgb(10, 11, 13)",
+            "padding": "0px",
+            "borderRadius": "56px",
+            "border": "0px solid rgb(40, 43, 49)",
+            "fontSize": "16px",
+            "fontWeight": "600"
+          }
+        },
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "text": "󰘻",
+        "confidence": "high",
+        "count": 3
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(0, 82, 255)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "0px 24px",
+            "borderRadius": "56px",
+            "border": "0px solid rgb(0, 82, 255)",
+            "fontSize": "16px",
+            "fontWeight": "600"
+          }
+        },
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "text": "Sign up",
+        "confidence": "high",
+        "count": 3
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(10, 11, 13)",
+            "padding": "16px 32px",
+            "borderRadius": "56px",
+            "border": "0px solid rgb(255, 255, 255)",
+            "fontSize": "16px",
+            "fontWeight": "600"
+          }
+        },
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "text": "Learn more",
+        "confidence": "medium",
+        "count": 3
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(10, 11, 13)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "16px 32px",
+            "borderRadius": "56px",
+            "border": "0px solid rgb(10, 11, 13)",
+            "fontSize": "16px",
+            "fontWeight": "600"
+          }
+        },
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "text": "See more assets",
+        "confidence": "medium",
+        "count": 2
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(87, 139, 250)",
+            "color": "rgb(10, 11, 13)",
+            "padding": "0px 24px",
+            "borderRadius": "56px",
+            "border": "0px solid rgb(87, 139, 250)",
+            "fontSize": "16px",
+            "fontWeight": "600"
+          }
+        },
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "text": "Sign up",
+        "confidence": "high",
+        "count": 2
+      }
+    ],
+    "inputs": {
+      "text": [],
+      "checkbox": [],
+      "radio": [],
+      "select": []
+    },
+    "links": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "600",
+        "states": {
+          "default": {
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(6, 103, 208)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(6, 103, 208)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(10, 11, 13)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(10, 11, 13)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(87, 139, 250)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(87, 139, 250)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 4
+      },
+      {
+        "color": "rgb(0, 82, 255)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(0, 82, 255)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 3
+      },
+      {
+        "color": "rgb(91, 97, 110)",
+        "textDecoration": "underline",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(91, 97, 110)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 3
+      },
+      {
+        "color": "rgb(138, 145, 158)",
+        "textDecoration": "underline",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(138, 145, 158)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "rgb(56, 96, 190)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 3
+      }
+    ],
+    "badges": {
+      "all": [],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": []
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "1600px"
+    },
+    {
+      "px": "1439px"
+    },
+    {
+      "px": "1280px"
+    },
+    {
+      "px": "1279px"
+    },
+    {
+      "px": "896px"
+    },
+    {
+      "px": "768px"
+    },
+    {
+      "px": "767px"
+    },
+    {
+      "px": "640px"
+    },
+    {
+      "px": "600px"
+    },
+    {
+      "px": "576px"
+    },
+    {
+      "px": "559px"
+    },
+    {
+      "px": "550px"
+    },
+    {
+      "px": "530px"
+    },
+    {
+      "px": "500px"
+    },
+    {
+      "px": "426px"
+    },
+    {
+      "px": "425px"
+    },
+    {
+      "px": "400px"
+    }
+  ],
+  "iconSystem": [],
+  "frameworks": [],
+  "wcag": [
+    {
+      "fg": "#0a0b0d",
+      "bg": "#ffffff",
+      "ratio": 19.69,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 357
+    },
+    {
+      "fg": "#5b616e",
+      "bg": "#eef0f3",
+      "ratio": 5.44,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 253
+    },
+    {
+      "fg": "#8a919e",
+      "bg": "#282b31",
+      "ratio": 4.48,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 178
+    },
+    {
+      "fg": "#0a0b0d",
+      "bg": "#eef0f3",
+      "ratio": 17.25,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 91
+    },
+    {
+      "fg": "#5b616e",
+      "bg": "#ffffff",
+      "ratio": 6.21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 75
+    },
+    {
+      "fg": "#0a0b0d",
+      "bg": "#282b31",
+      "ratio": 1.39,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 68
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#141519",
+      "ratio": 18.24,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 65
+    },
+    {
+      "fg": "#8a919e",
+      "bg": "#141519",
+      "ratio": 5.76,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 60
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#282b31",
+      "ratio": 14.19,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 57
+    },
+    {
+      "fg": "#578bfa",
+      "bg": "#0a0b0d",
+      "ratio": 6.07,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 51
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#eef0f3",
+      "ratio": 1.14,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 44
+    },
+    {
+      "fg": "#8a919e",
+      "bg": "#0a0b0d",
+      "ratio": 6.21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 44
+    },
+    {
+      "fg": "#000000",
+      "bg": "#eef0f3",
+      "ratio": 18.39,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 35
+    },
+    {
+      "fg": "#000000",
+      "bg": "#ffffff",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 32
+    },
+    {
+      "fg": "#578bfa",
+      "bg": "#141519",
+      "ratio": 5.63,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 28
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#0052ff",
+      "ratio": 5.75,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 25
+    },
+    {
+      "fg": "#000000",
+      "bg": "#0a0b0d",
+      "ratio": 1.07,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 24
+    },
+    {
+      "fg": "#000000",
+      "bg": "#282b31",
+      "ratio": 1.48,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 24
+    },
+    {
+      "fg": "#27ad75",
+      "bg": "#0a0b0d",
+      "ratio": 6.86,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 16
+    },
+    {
+      "fg": "#0052ff",
+      "bg": "#eef0f3",
+      "ratio": 5.04,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 15
+    },
+    {
+      "fg": "#0667d0",
+      "bg": "#ffffff",
+      "ratio": 5.44,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 12
+    },
+    {
+      "fg": "#0a0b0d",
+      "bg": "#f7f8f9",
+      "ratio": 18.52,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 10
+    },
+    {
+      "fg": "#578bfa",
+      "bg": "#282b31",
+      "ratio": 4.38,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 10
+    },
+    {
+      "fg": "#0667d0",
+      "bg": "#0a0b0d",
+      "ratio": 3.62,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 10
+    },
+    {
+      "fg": "#5b616e",
+      "bg": "#f7f8f9",
+      "ratio": 5.84,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 9
+    },
+    {
+      "fg": "#000000",
+      "bg": "#464b55",
+      "ratio": 2.4,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 7
+    },
+    {
+      "fg": "#f0616d",
+      "bg": "#0a0b0d",
+      "ratio": 6.22,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 4
+    },
+    {
+      "fg": "#0a0b0d",
+      "bg": "#f5f8ff",
+      "ratio": 18.52,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#0052ff",
+      "bg": "#f7f8f9",
+      "ratio": 5.41,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#000000",
+      "bg": "#101113",
+      "ratio": 1.11,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#101113",
+      "ratio": 18.89,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#000000",
+      "bg": "#f8f8f8",
+      "ratio": 19.77,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#0a0b0d",
+      "bg": "#f8f8f8",
+      "ratio": 18.54,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#0052ff",
+      "bg": "#f7f7f7",
+      "ratio": 5.37,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#e5e7ea",
+      "ratio": 1.24,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#e5e7ea",
+      "ratio": 1.24,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "focus",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#f7f7f7",
+      "ratio": 19.6,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "div",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#f7f7f7",
+      "ratio": 19.6,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#0a0b0d",
+      "bg": "#282b31",
+      "ratio": 1.39,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "disabled",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#578bfa",
+      "bg": "#111214",
+      "ratio": 5.78,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#111214",
+      "ratio": 1.12,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "hover",
+      "tag": "div",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#111214",
+      "ratio": 1.12,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#0667d0",
+      "bg": "#111214",
+      "ratio": 3.44,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#0667d0",
+      "bg": "#111214",
+      "ratio": 3.44,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#0667d0",
+      "bg": "#f7f7f7",
+      "ratio": 5.08,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#0667d0",
+      "bg": "#f7f7f7",
+      "ratio": 5.08,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.coinbase.com/en-gb",
+      "extractedAt": "2026-09-11T13:57:48.415Z"
+    },
+    {
+      "url": "https://www.coinbase.com/derivatives",
+      "extractedAt": "2026-09-11T13:58:16.949Z"
+    },
+    {
+      "url": "https://www.coinbase.com/en-in",
+      "extractedAt": "2026-09-11T13:58:44.527Z"
+    },
+    {
+      "url": "https://www.coinbase.com/en-in/uk-fca-info",
+      "extractedAt": "2026-09-11T13:59:09.897Z"
+    },
+    {
+      "url": "https://www.coinbase.com/derivatives-trading",
+      "extractedAt": "2026-09-11T13:59:39.422Z"
+    }
+  ]
+}

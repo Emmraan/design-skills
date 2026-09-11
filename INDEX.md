@@ -9,6 +9,7 @@
 |---|---|---|---|---|
 | assembly | fintech | minimal-clean | light | centered-hero |
 | clickup | saas | bold-vibrant | light | centered-hero |
+| coinbase | crypto | clean-confident | light | split-hero |
 | flyward | hospitality | editorial-luxury | light | centered-hero |
 | fundingpips | fintech | bold-trading | light | split-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |
@@ -30,6 +31,7 @@
 |---|---|
 | Agency | `references/collections/agency.md` |
 | Ai | `references/collections/ai.md` |
+| Crypto | `references/collections/crypto.md` |
 | Ecommerce | `references/collections/ecommerce.md` |
 | Education | `references/collections/education.md` |
 | Fintech | `references/collections/fintech.md` |

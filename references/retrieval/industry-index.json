@@ -66,6 +66,16 @@
         "product-first chrome from Mobbin"
       ]
     },
+    "crypto": {
+      "sites": [
+        {
+          "slug": "coinbase",
+          "name": "Coinbase",
+          "style": "clean-confident",
+          "theme": "light"
+        }
+      ]
+    },
     "hospitality": {
       "sites": [
         {
