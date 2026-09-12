@@ -159,6 +159,22 @@
         "product-first chrome from Mobbin"
       ]
     },
+    "education": {
+      "sites": [
+        {
+          "slug": "coursera",
+          "name": "Coursera",
+          "style": "institutional-blue",
+          "theme": "light"
+        },
+        {
+          "slug": "udemy",
+          "name": "Udemy",
+          "style": "bold-marketplace",
+          "theme": "light"
+        }
+      ]
+    },
     "agency": {
       "sites": [
         {
@@ -238,16 +254,6 @@
       "borrow": [
         "demo as hero from Wispr",
         "real AI outputs + clarity over hype from Sendr"
-      ]
-    },
-    "education": {
-      "sites": [
-        {
-          "slug": "udemy",
-          "name": "Udemy",
-          "style": "bold-marketplace",
-          "theme": "light"
-        }
       ]
     }
   }

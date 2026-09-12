@@ -16,6 +16,7 @@ density is the product — the UI is quiet chrome around it.
 | Site | Slug | What to borrow as logic |
 |---|---|---|
 | Udemy | `udemy` | Search-led marketplace; one action color; fixed-hierarchy course cards; tint-band campaigns |
+| Coursera | `coursera` | Credential-led marketplace; academic blue; radius-coded CTAs; partner walls; dual consumer/business funnel |
 
 Udemy is the seed education reference; pair it with **SaaS proof patterns** (pricing
 transparency, outcome stats) for buyer-facing business bands and with editorial

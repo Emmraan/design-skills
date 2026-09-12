@@ -102,6 +102,16 @@
         }
       ]
     },
+    "institutional-blue": {
+      "sites": [
+        {
+          "slug": "coursera",
+          "name": "Coursera",
+          "industry": "education",
+          "theme": "light"
+        }
+      ]
+    },
     "editorial-luxury": {
       "sites": [
         {

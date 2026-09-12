@@ -15,6 +15,7 @@
 | bybit | crypto | pro-trading-dark | dark | product-grid-funnel |
 | clickup | saas | bold-vibrant | light | centered-hero |
 | coinbase | crypto | clean-confident | light | split-hero |
+| coursera | education | institutional-blue | light | catalog-led |
 | flyward | hospitality | editorial-luxury | light | centered-hero |
 | fundingpips | fintech | bold-trading | light | split-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |

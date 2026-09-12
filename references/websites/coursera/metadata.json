@@ -1,0 +1,16 @@
+{
+  "slug": "coursera",
+  "name": "Coursera",
+  "source-url": "https://www.coursera.org/",
+  "industry": "education",
+  "style": "institutional-blue",
+  "layout": "catalog-led",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "0EFE728742C3"
+}
