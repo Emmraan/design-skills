@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v0.4.0 (2026-09-12)
+
+### Features
+
+- Frontier UI process skeleton plus copywriting de-ai layer
+  ([`1c4e92b`](https://github.com/Emmraan/design-skills/commit/1c4e92b25775f63d53c576558e4f0add949af2f2))
+
+
 ## v0.3.1 (2026-09-11)
 
 ### Bug Fixes
