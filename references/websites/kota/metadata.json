@@ -1,0 +1,16 @@
+{
+  "slug": "kota",
+  "name": "KOTA",
+  "source-url": "https://kota.co.uk/",
+  "industry": "agency",
+  "style": "bold-brutalist",
+  "layout": "type-led-hero",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "00C57E58AD64"
+}

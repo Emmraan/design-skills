@@ -38,6 +38,10 @@
           "take": "friendly headline + product/visual + dark pill CTA"
         },
         {
+          "slug": "kota",
+          "take": "stance first, nav second"
+        },
+        {
           "slug": "linear",
           "take": "centered statement type (72px, tight) + dual-pill CTA + product visual"
         },
@@ -152,6 +156,10 @@
           "take": "quiet trust band"
         },
         {
+          "slug": "kota",
+          "take": "images at 11/18px radii against loud type"
+        },
+        {
           "slug": "linear",
           "take": "customer logos as a quiet muted band"
         },
@@ -197,6 +205,10 @@
           "take": "mint/cream rounded cards, warm bands"
         },
         {
+          "slug": "kota",
+          "take": "editorial depth, \"Strategy first. Always\" voice"
+        },
+        {
           "slug": "linear",
           "take": "alternating rows pairing copy with UI proof"
         },
@@ -232,6 +244,10 @@
         {
           "slug": "clickup",
           "take": "large numbers, mono labels"
+        },
+        {
+          "slug": "kota",
+          "take": "credibility with playfulness"
         },
         {
           "slug": "linear",
@@ -365,6 +381,10 @@
           "take": "coral or dark moment"
         },
         {
+          "slug": "kota",
+          "take": "single conversion goal"
+        },
+        {
           "slug": "linear",
           "take": "closing statement + the dual-pill pattern repeated"
         },
@@ -420,6 +440,10 @@
         {
           "slug": "juno",
           "take": "warm, muted"
+        },
+        {
+          "slug": "kota",
+          "take": "sitemap + personality sign-off"
         },
         {
           "slug": "linear",

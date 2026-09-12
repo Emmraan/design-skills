@@ -105,6 +105,16 @@
       ],
       "signature": "warm palette (mint/cream/gold), rounded friendly surfaces, human tone"
     },
+    "bold-brutalist": {
+      "sites": [
+        {
+          "slug": "kota",
+          "name": "KOTA",
+          "industry": "agency",
+          "theme": "light"
+        }
+      ]
+    },
     "editorial-warm": {
       "sites": [
         {

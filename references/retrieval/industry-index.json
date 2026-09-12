@@ -101,6 +101,27 @@
         "creator commerce with personality + low-friction buy from Gumroad"
       ]
     },
+    "agency": {
+      "sites": [
+        {
+          "slug": "kota",
+          "name": "KOTA",
+          "style": "bold-brutalist",
+          "theme": "light"
+        },
+        {
+          "slug": "primora",
+          "name": "Primora",
+          "style": "editorial-premium",
+          "theme": "dark"
+        }
+      ],
+      "pattern": "references/patterns/portfolio-agency.md",
+      "collection": "references/collections/agency.md",
+      "borrow": [
+        "craft-forward editorial presentation from Primora"
+      ]
+    },
     "developer-tools": {
       "sites": [
         {
@@ -119,21 +140,6 @@
           "style": "editorial-warm",
           "theme": "light"
         }
-      ]
-    },
-    "agency": {
-      "sites": [
-        {
-          "slug": "primora",
-          "name": "Primora",
-          "style": "editorial-premium",
-          "theme": "dark"
-        }
-      ],
-      "pattern": "references/patterns/portfolio-agency.md",
-      "collection": "references/collections/agency.md",
-      "borrow": [
-        "craft-forward editorial presentation from Primora"
       ]
     },
     "ai": {
