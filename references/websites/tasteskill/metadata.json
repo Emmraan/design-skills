@@ -1,0 +1,16 @@
+{
+  "slug": "tasteskill",
+  "name": "Taste Skill",
+  "source-url": "https://www.tasteskill.dev/",
+  "industry": "developer-tools",
+  "style": "warm-paper",
+  "layout": "docs-led",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "78B97BD56CA2"
+}

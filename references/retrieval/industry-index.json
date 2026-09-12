@@ -209,6 +209,12 @@
           "name": "Linear",
           "style": "minimal-clean",
           "theme": "dark"
+        },
+        {
+          "slug": "tasteskill",
+          "name": "Taste Skill",
+          "style": "warm-paper",
+          "theme": "light"
         }
       ]
     },

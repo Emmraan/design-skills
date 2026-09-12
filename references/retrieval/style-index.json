@@ -267,6 +267,16 @@
         }
       ]
     },
+    "warm-paper": {
+      "sites": [
+        {
+          "slug": "tasteskill",
+          "name": "Taste Skill",
+          "industry": "developer-tools",
+          "theme": "light"
+        }
+      ]
+    },
     "bold-marketplace": {
       "sites": [
         {

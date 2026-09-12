@@ -34,6 +34,7 @@
 | ramp | fintech | bold-clean | light | split-hero |
 | sendr | ai | minimal-clean | light | centered-hero |
 | tablethotels | hospitality | curated-boutique | light | curation-grid |
+| tasteskill | developer-tools | warm-paper | light | docs-led |
 | udemy | education | bold-marketplace | light | split-hero |
 | vita-travel | travel | immersive-dark | dark | centered-hero |
 | wispr | ai | editorial-playful | dark | split-hero |
@@ -45,6 +46,7 @@
 | Agency | `references/collections/agency.md` |
 | Ai | `references/collections/ai.md` |
 | Crypto | `references/collections/crypto.md` |
+| Developer Tools | `references/collections/developer-tools.md` |
 | Ecommerce | `references/collections/ecommerce.md` |
 | Education | `references/collections/education.md` |
 | Fintech | `references/collections/fintech.md` |

@@ -110,6 +110,10 @@
           "take": "intent jewelry"
         },
         {
+          "slug": "tasteskill",
+          "take": "primary conversion"
+        },
+        {
           "slug": "udemy",
           "take": "statement headline (56px) + prominent search + supporting visual"
         },
@@ -177,6 +181,10 @@
         {
           "slug": "sendr",
           "take": "minimal, logo left, blue accents on interactive"
+        },
+        {
+          "slug": "tasteskill",
+          "take": "sitemap close"
         },
         {
           "slug": "udemy",
@@ -299,6 +307,10 @@
         {
           "slug": "sendr",
           "take": "editorial steps with annotations"
+        },
+        {
+          "slug": "tasteskill",
+          "take": "capability scan"
         },
         {
           "slug": "udemy",
