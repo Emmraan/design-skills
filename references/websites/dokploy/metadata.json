@@ -1,0 +1,16 @@
+{
+  "slug": "dokploy",
+  "name": "Dokploy",
+  "source-url": "https://dokploy.com/",
+  "industry": "developer-tools",
+  "style": "midnight-zinc",
+  "layout": "product-funnel",
+  "theme": "dark",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "32B23194EB6F"
+}

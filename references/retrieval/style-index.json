@@ -122,6 +122,16 @@
         }
       ]
     },
+    "midnight-zinc": {
+      "sites": [
+        {
+          "slug": "dokploy",
+          "name": "Dokploy",
+          "industry": "developer-tools",
+          "theme": "dark"
+        }
+      ]
+    },
     "editorial-luxury": {
       "sites": [
         {

@@ -17,6 +17,7 @@
 | coinbase | crypto | clean-confident | light | split-hero |
 | coolify | developer-tools | amber-dark | dark | product-funnel |
 | coursera | education | institutional-blue | light | catalog-led |
+| dokploy | developer-tools | midnight-zinc | dark | product-funnel |
 | flyward | hospitality | editorial-luxury | light | centered-hero |
 | fundingpips | fintech | bold-trading | light | split-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |

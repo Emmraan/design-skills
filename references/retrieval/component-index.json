@@ -42,6 +42,10 @@
           "take": "intent capture"
         },
         {
+          "slug": "dokploy",
+          "take": "ownership + proof in one viewport"
+        },
+        {
           "slug": "flyward",
           "take": "giant Apris display statement (133px) + cream \"Discover\" pill on light"
         },
@@ -157,6 +161,10 @@
         {
           "slug": "clickup",
           "take": "logo, links, bold black CTA"
+        },
+        {
+          "slug": "dokploy",
+          "take": "capability depth without scrolling"
         },
         {
           "slug": "ghost",
@@ -283,6 +291,10 @@
         {
           "slug": "clickup",
           "take": "saturated bento cells, organized grid"
+        },
+        {
+          "slug": "dokploy",
+          "take": "show, don't tell"
         },
         {
           "slug": "ghost",
@@ -446,6 +458,10 @@
         {
           "slug": "coolify",
           "take": "transparency moat"
+        },
+        {
+          "slug": "dokploy",
+          "take": "packaging transparency"
         },
         {
           "slug": "fundingpips",
