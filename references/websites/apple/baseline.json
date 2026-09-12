@@ -1,0 +1,2521 @@
+{
+  "url": "https://www.apple.com/in/",
+  "extractedAt": "2026-09-12T08:06:06.854Z",
+  "meta": {
+    "snapshotId": "458c75fe-8637-4219-bd1c-1c10ac203670",
+    "httpStatus": 200,
+    "dembrandtVersion": "0.32.2",
+    "schemaVersion": "1.12.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": true,
+    "requestedUrl": "https://www.apple.com/",
+    "contentLength": 56192,
+    "flags": {},
+    "crawl": {
+      "technique": "auto",
+      "pagesRequested": 5,
+      "pagesFound": 4
+    }
+  },
+  "siteName": "Apple (India)",
+  "logo": {
+    "source": "svg",
+    "context": "header",
+    "inline": true,
+    "url": "https://www.apple.com/in/tv-home/",
+    "color": "#000000",
+    "ariaLabel": null,
+    "markup": "<svg height=\"44\" viewBox=\"0 0 65 44\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\" style=\"color: rgb(0, 0, 0);\"><path d=\"m4.3755 26v-7.5059h-2.7246v-.9492h6.5039v.9492h-2.7246v7.5059zm7.7314 0-3.1172-8.4551h1.1074l2.4844 7.0898h.0938l2.4844-7.0898h1.1074l-3.1172 8.4551zm13.981-.8438c-.7207.6328-1.7109 1.002-2.7363 1.002-1.6816 0-2.8594-.9961-2.8594-2.4141 0-1.002.5449-1.7637 1.6758-2.3613.0762-.0352.2344-.1172.3281-.1641-.7793-.8203-1.0605-1.3652-1.0605-1.9805 0-1.084.9199-1.8926 2.1562-1.8926 1.248 0 2.1562.7969 2.1562 1.9043 0 .8672-.5215 1.5-1.8281 2.1855l2.1152 2.2734c.2637-.5273.3984-1.2188.3984-2.2734v-.1465h.9844v.1523c0 1.3125-.2344 2.2676-.6973 2.9824l1.4708 1.5764h-1.3242zm-4.541-1.4824c0 .9492.7676 1.5938 1.8984 1.5938.7676 0 1.5586-.3047 2.0215-.791l-2.3906-2.6133c-.0645.0234-.2168.0996-.2988.1406-.8145.4219-1.2305 1.0078-1.2305 1.6699zm3.2109-4.3886c0-.6562-.4746-1.1016-1.1602-1.1016-.6738 0-1.1543.457-1.1543 1.1133 0 .4688.2402.8789.9082 1.541 1.0313-.5274 1.4063-.9492 1.4063-1.5527zm13.5176 6.7148v-3.8496h-4.6406v3.8496h-1.0547v-8.4551h1.0547v3.6562h4.6406v-3.6562h1.0547v8.4551zm2.6455-3.1582c0-2.0332 1.1133-3.2695 2.9121-3.2695s2.9121 1.2363 2.9121 3.2695c0 2.0273-1.1133 3.2695-2.9121 3.2695s-2.9121-1.2422-2.9121-3.2695zm4.7812 0c0-1.5-.6738-2.3613-1.8691-2.3613s-1.8691.8613-1.8691 2.3613c0 1.4941.6738 2.3613 1.8691 2.3613s1.8691-.8672 1.8691-2.3613zm2.5054-3.1582h.9609v.9961h.0938c.2871-.7031.9199-1.1074 1.7637-1.1074.8555 0 1.4531.4512 1.7461 1.1074h.0938c.3398-.668 1.0605-1.1074 1.9336-1.1074 1.2891 0 2.0098.7383 2.0098 2.0625v4.3652h-1.0078v-4.1309c0-.9316-.4395-1.3887-1.3301-1.3887-.8789 0-1.4648.6562-1.4648 1.459v4.0606h-1.0078v-4.2891c0-.75-.5215-1.2305-1.3184-1.2305-.8262 0-1.4648.7148-1.4648 1.6055v3.9141h-1.0078v-6.3164zm15.5127 4.6816c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574z\"></path></svg>",
+    "dataUri": "data:image/svg+xml;utf8,%3Csvg%20height%3D%2244%22%20viewBox%3D%220%200%2065%2044%22%20width%3D%2265%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20style%3D%22color%3A%20rgb(0%2C%200%2C%200)%3B%22%3E%3Cpath%20d%3D%22m4.3755%2026v-7.5059h-2.7246v-.9492h6.5039v.9492h-2.7246v7.5059zm7.7314%200-3.1172-8.4551h1.1074l2.4844%207.0898h.0938l2.4844-7.0898h1.1074l-3.1172%208.4551zm13.981-.8438c-.7207.6328-1.7109%201.002-2.7363%201.002-1.6816%200-2.8594-.9961-2.8594-2.4141%200-1.002.5449-1.7637%201.6758-2.3613.0762-.0352.2344-.1172.3281-.1641-.7793-.8203-1.0605-1.3652-1.0605-1.9805%200-1.084.9199-1.8926%202.1562-1.8926%201.248%200%202.1562.7969%202.1562%201.9043%200%20.8672-.5215%201.5-1.8281%202.1855l2.1152%202.2734c.2637-.5273.3984-1.2188.3984-2.2734v-.1465h.9844v.1523c0%201.3125-.2344%202.2676-.6973%202.9824l1.4708%201.5764h-1.3242zm-4.541-1.4824c0%20.9492.7676%201.5938%201.8984%201.5938.7676%200%201.5586-.3047%202.0215-.791l-2.3906-2.6133c-.0645.0234-.2168.0996-.2988.1406-.8145.4219-1.2305%201.0078-1.2305%201.6699zm3.2109-4.3886c0-.6562-.4746-1.1016-1.1602-1.1016-.6738%200-1.1543.457-1.1543%201.1133%200%20.4688.2402.8789.9082%201.541%201.0313-.5274%201.4063-.9492%201.4063-1.5527zm13.5176%206.7148v-3.8496h-4.6406v3.8496h-1.0547v-8.4551h1.0547v3.6562h4.6406v-3.6562h1.0547v8.4551zm2.6455-3.1582c0-2.0332%201.1133-3.2695%202.9121-3.2695s2.9121%201.2363%202.9121%203.2695c0%202.0273-1.1133%203.2695-2.9121%203.2695s-2.9121-1.2422-2.9121-3.2695zm4.7812%200c0-1.5-.6738-2.3613-1.8691-2.3613s-1.8691.8613-1.8691%202.3613c0%201.4941.6738%202.3613%201.8691%202.3613s1.8691-.8672%201.8691-2.3613zm2.5054-3.1582h.9609v.9961h.0938c.2871-.7031.9199-1.1074%201.7637-1.1074.8555%200%201.4531.4512%201.7461%201.1074h.0938c.3398-.668%201.0605-1.1074%201.9336-1.1074%201.2891%200%202.0098.7383%202.0098%202.0625v4.3652h-1.0078v-4.1309c0-.9316-.4395-1.3887-1.3301-1.3887-.8789%200-1.4648.6562-1.4648%201.459v4.0606h-1.0078v-4.2891c0-.75-.5215-1.2305-1.3184-1.2305-.8262%200-1.4648.7148-1.4648%201.6055v3.9141h-1.0078v-6.3164zm15.5127%204.6816c-.293%201.0781-1.2773%201.7461-2.6602%201.7461-1.752%200-2.8477-1.2656-2.8477-3.2637%200-1.9863%201.1133-3.2754%202.8477-3.2754%201.7051%200%202.7422%201.2129%202.7422%203.1758v.3867h-4.541v.0469c.0527%201.248.75%202.0391%201.8223%202.0391.8145%200%201.3652-.2988%201.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078%200-1.7109.7383-1.7871%201.8574z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E",
+    "svgColors": [],
+    "width": 65,
+    "height": 44,
+    "rect": {
+      "x": 963,
+      "y": 0,
+      "width": 65,
+      "height": 44
+    },
+    "natural": {
+      "width": 65,
+      "height": 44
+    },
+    "type": "logomark",
+    "reversed": true,
+    "background": "#42679e",
+    "safeZone": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "position": {
+      "top": 0,
+      "left": 963.421875
+    }
+  },
+  "favicons": [
+    {
+      "type": "og:image",
+      "url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202609052049",
+      "sizes": null
+    },
+    {
+      "type": "favicon.ico",
+      "url": "https://www.apple.com/favicon.ico",
+      "sizes": null
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "background": "rgb(255, 255, 255)",
+      "text": "rgb(29, 29, 31)",
+      "primary": "rgb(245, 245, 247)",
+      "accent": "rgb(41, 151, 255)"
+    },
+    "palette": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 393,
+        "confidence": "high",
+        "sources": [
+          "ac-nav-overlap",
+          "button",
+          "ac-globalfooter-dark"
+        ],
+        "lch": "lch(100% 0.028 53.346)",
+        "oklch": "oklch(100% 0 0)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d9d9d9",
+        "contrastAgainst": [
+          {
+            "bg": "#1d1d1f",
+            "ratio": 16.83,
+            "aa": true
+          }
+        ],
+        "pageCount": 4
+      },
+      {
+        "color": "rgb(29, 29, 31)",
+        "normalized": "#1d1d1f",
+        "count": 3704,
+        "confidence": "high",
+        "sources": [
+          "globalnav",
+          "globalnav-content",
+          "globalnav-list"
+        ],
+        "lch": "lch(10.829% 1.427 285.84)",
+        "oklch": "oklch(23.1576% 0.00381 286.099)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#232325",
+        "source": "menu",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 16.83,
+            "aa": true
+          },
+          {
+            "bg": "#fafafc",
+            "ratio": 16.14,
+            "aa": true
+          },
+          {
+            "bg": "#f5f5f7",
+            "ratio": 15.46,
+            "aa": true
+          }
+        ],
+        "pageCount": 4
+      },
+      {
+        "color": "rgb(110, 110, 115)",
+        "normalized": "#6e6e73",
+        "count": 206,
+        "confidence": "high",
+        "sources": [
+          "globalnav-submenu-header",
+          "tile-subhead",
+          "tile-callout"
+        ],
+        "lch": "lch(46.561% 2.886 285.821)",
+        "oklch": "oklch(53.9901% 0.00769 286.139)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#84848a",
+        "source": "menu",
+        "contrastAgainst": [
+          {
+            "bg": "#fafafc",
+            "ratio": 4.86,
+            "aa": true
+          },
+          {
+            "bg": "#f5f5f7",
+            "ratio": 4.66,
+            "aa": true
+          }
+        ],
+        "pageCount": 4
+      },
+      {
+        "color": "rgb(41, 151, 255)",
+        "normalized": "#2997ff",
+        "count": 6,
+        "confidence": "medium",
+        "sources": [],
+        "lch": "lch(60.55% 61.287 268.057)",
+        "oklch": "oklch(66.9028% 0.18078 251.84)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#2380d9",
+        "contrastAgainst": [
+          {
+            "bg": "#1d1d1f",
+            "ratio": 5.58,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(0, 102, 204)",
+        "normalized": "#0066cc",
+        "count": 688,
+        "confidence": "high",
+        "sources": [
+          "block",
+          "countrylist-caption"
+        ],
+        "lch": "lch(43.04% 61.249 276.347)",
+        "oklch": "oklch(52.1966% 0.17709 255.83)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#007af5",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 5.57,
+            "aa": true
+          },
+          {
+            "bg": "#f5f5f7",
+            "ratio": 5.11,
+            "aa": true
+          }
+        ],
+        "pageCount": 3
+      },
+      {
+        "color": "rgb(51, 51, 54)",
+        "normalized": "#333336",
+        "count": 362,
+        "confidence": "medium",
+        "sources": [
+          "globalnav-submenu-link"
+        ],
+        "lch": "lch(21.333% 1.971 285.839)",
+        "oklch": "oklch(32.2233% 0.00526 286.101)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#3d3d41",
+        "source": "menu",
+        "contrastAgainst": [
+          {
+            "bg": "#fafafc",
+            "ratio": 12.08,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      },
+      {
+        "color": "rgb(210, 210, 215)",
+        "normalized": "#d2d2d7",
+        "count": 6,
+        "confidence": "high",
+        "sources": [],
+        "lch": "lch(84.309% 2.558 285.864)",
+        "oklch": "oklch(86.5242% 0.00683 286.256)",
+        "role": "neutral",
+        "onColor": "#000000",
+        "hover": "#b3b3b7",
+        "contrastAgainst": [
+          {
+            "bg": "#000000",
+            "ratio": 13.94,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      }
+    ],
+    "cssVariables": {
+      "--sk-focus-color": {
+        "value": "#0071e3",
+        "hex": "#0071e3",
+        "lch": "lch(47.615% 67.022 276.911)",
+        "oklch": "oklch(56.2923% 0.19333 256.156)"
+      },
+      "--sk-body-link-color": {
+        "value": "rgb(0, 102, 204)",
+        "hex": "#0066cc",
+        "lch": "lch(43.04% 61.249 276.347)",
+        "oklch": "oklch(52.1966% 0.17709 255.83)"
+      },
+      "--color-themeDark-fillOrangeSecondary": {
+        "value": "rgb(41,13,0)",
+        "hex": "#290d00",
+        "lch": "lch(7.063% 17.634 38.005)",
+        "oklch": "oklch(20.155% 0.05404 49.038)"
+      },
+      "--color-themeDark-glyphBlue": {
+        "value": "rgb(41,151,255)",
+        "hex": "#2997ff",
+        "lch": "lch(60.55% 61.287 268.057)",
+        "oklch": "oklch(66.9028% 0.18078 251.84)"
+      },
+      "--color-themeDark-fillGrayTertiary": {
+        "value": "rgb(66,66,69)",
+        "hex": "#424245",
+        "lch": "lch(28.057% 1.89 285.815)",
+        "oklch": "oklch(38.0182% 0.00504 286.158)"
+      },
+      "--color-themeDark-fillRedSecondary": {
+        "value": "rgb(51,0,0)",
+        "hex": "#330000",
+        "lch": "lch(6.654% 27.7 22.506)",
+        "oklch": "oklch(20.1632% 0.08274 29.234)"
+      },
+      "--color-themeLight-fillYellow": {
+        "value": "rgb(255,224,69)",
+        "hex": "#ffe045",
+        "lch": "lch(89.882% 74.88 90.246)",
+        "oklch": "oklch(90.6931% 0.16695 97.422)"
+      },
+      "--color-themeDark-glyphRed": {
+        "value": "rgb(255,48,55)",
+        "hex": "#ff3037",
+        "lch": "lch(56.687% 90.464 33.557)",
+        "oklch": "oklch(64.7363% 0.23837 25.795)"
+      },
+      "--color-themeDark-fillGrayQuaternaryAlpha": {
+        "value": "rgba(255,255,255,0.02)",
+        "hex": "#ffffff",
+        "lch": "lch(100% 0.028 53.346 / 0.02)",
+        "oklch": "oklch(100% 0 0 / 0.02)"
+      },
+      "--color-themeLight-glyphOrange": {
+        "value": "rgb(182,68,0)",
+        "hex": "#b64400",
+        "lch": "lch(45.016% 72.262 51.07)",
+        "oklch": "oklch(53.679% 0.16064 42.443)"
+      },
+      "--color-themeDark-fillGrayQuaternary": {
+        "value": "rgb(51,51,54)",
+        "hex": "#333336",
+        "lch": "lch(21.333% 1.971 285.839)",
+        "oklch": "oklch(32.2233% 0.00526 286.101)"
+      },
+      "--color-themeDark-glyphOrange": {
+        "value": "rgb(255,121,27)",
+        "hex": "#ff791b",
+        "lch": "lch(66.54% 84.755 54.731)",
+        "oklch": "oklch(72.2226% 0.18728 48.398)"
+      },
+      "--color-themeDark-fillGraySecondaryAlpha": {
+        "value": "rgba(255,255,255,0.04)",
+        "hex": "#ffffff",
+        "lch": "lch(100% 0.028 53.346 / 0.04)",
+        "oklch": "oklch(100% 0 0 / 0.04)"
+      },
+      "--color-themeLight-fillOrange": {
+        "value": "rgb(245,99,0)",
+        "hex": "#f56300",
+        "lch": "lch(61.014% 89.362 52.166)",
+        "oklch": "oklch(67.6704% 0.19714 43.918)"
+      },
+      "--color-themeLight-productred": {
+        "value": "rgb(175,30,45)",
+        "hex": "#af1e2d",
+        "lch": "lch(38.949% 65.173 29.004)",
+        "oklch": "oklch(48.9752% 0.17849 22.389)"
+      },
+      "--color-themeDark-fillYellow": {
+        "value": "rgb(173,130,0)",
+        "hex": "#ad8200",
+        "lch": "lch(57.368% 62.968 80.719)",
+        "oklch": "oklch(63.1265% 0.12935 85.146)"
+      },
+      "--color-themeLight-fillGreen": {
+        "value": "rgb(3,161,14)",
+        "hex": "#03a10e",
+        "lch": "lch(57.652% 78.631 135.146)",
+        "oklch": "oklch(61.4866% 0.20577 142.87)"
+      },
+      "--color-themeDark-fillYellowSecondary": {
+        "value": "rgb(43,32,0)",
+        "hex": "#2b2000",
+        "lch": "lch(13.065% 19.408 82.557)",
+        "oklch": "oklch(24.9613% 0.05101 89.962)"
+      },
+      "--color-themeDark-fillGreenSecondary": {
+        "value": "rgb(0,43,3)",
+        "hex": "#002b03",
+        "lch": "lch(14.043% 29.21 140.551)",
+        "oklch": "oklch(25.0908% 0.08162 143.891)"
+      },
+      "--color-themeLight-glyphRed": {
+        "value": "rgb(227,0,0)",
+        "hex": "#e30000",
+        "lch": "lch(48.378% 97.858 40.855)",
+        "oklch": "oklch(57.5101% 0.23599 29.234)"
+      },
+      "--color-themeLight-enviroGreen": {
+        "value": "rgb(0,217,89)",
+        "hex": "#00d959",
+        "lch": "lch(76.282% 82.094 143.581)",
+        "oklch": "oklch(77.2172% 0.22293 148.097)"
+      },
+      "--color-themeLight-glyphGreen": {
+        "value": "rgb(0,128,9)",
+        "hex": "#008009",
+        "lch": "lch(46.299% 66.577 135.267)",
+        "oklch": "oklch(52.0057% 0.17428 142.959)"
+      }
+    },
+    "detected": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 368,
+        "usageFrac": 0.45153374233128835,
+        "areaFrac": 0.4973653329178156,
+        "confidence": "high",
+        "sources": [
+          "ac-nav-overlap",
+          "button",
+          "ac-globalfooter-dark",
+          "ac-gf-content",
+          "ac-gf-label"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 217,
+        "usageFrac": 0.26625766871165646,
+        "areaFrac": 0.30982159885046684,
+        "confidence": "high",
+        "sources": [
+          "globalnav-link",
+          "globalnav-image-regular",
+          "[object",
+          "globalnav-link-text",
+          "globalnav-link-text-container"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(29, 29, 31)",
+        "normalized": "#1d1d1f",
+        "count": 174,
+        "usageFrac": 0.2134969325153374,
+        "areaFrac": 0.06361472878010933,
+        "confidence": "high",
+        "sources": [
+          "ac-nav-overlap",
+          "visuallyhidden",
+          "globalnav",
+          "globalnav-content",
+          "globalnav-list"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(245, 245, 247)",
+        "normalized": "#f5f5f7",
+        "count": 28,
+        "usageFrac": 0.0343558282208589,
+        "areaFrac": 0.07972750228739299,
+        "confidence": "high",
+        "sources": [
+          "tile-subhead",
+          "button",
+          "tile-wrapper"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(134, 134, 139)",
+        "normalized": "#86868b",
+        "count": 16,
+        "usageFrac": 0.0196319018404908,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(41, 151, 255)",
+        "normalized": "#2997ff",
+        "count": 6,
+        "usageFrac": 0.007361963190184049,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(110, 110, 115)",
+        "normalized": "#6e6e73",
+        "count": 4,
+        "usageFrac": 0.0049079754601227,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [
+          "tile-subhead",
+          "tile-callout"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgba(250, 250, 252, 0.8)",
+        "normalized": "#fafafc",
+        "count": 1,
+        "usageFrac": 0.001226993865030675,
+        "areaFrac": 0.0036893505681787663,
+        "confidence": "low",
+        "sources": [
+          "globalnav"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(66, 103, 158)",
+        "normalized": "#42679e",
+        "count": 1,
+        "usageFrac": 0.001226993865030675,
+        "areaFrac": 0.04578148659603651,
+        "confidence": "low",
+        "sources": [
+          "tile-wrapper"
+        ],
+        "isToken": false
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "heading-2",
+        "count": 2,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "64px (4.00rem)",
+        "weight": 600,
+        "lineHeight": "1.00",
+        "spacing": "-0.576px",
+        "transform": null
+      },
+      {
+        "context": "heading-1",
+        "count": 1,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "48px (3.00rem)",
+        "weight": 600,
+        "lineHeight": "1.08",
+        "spacing": "-0.144px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 3,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "40px (2.50rem)",
+        "weight": 600,
+        "lineHeight": "1.10",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "heading-1",
+        "count": 3,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "34px (2.13rem)",
+        "weight": 600,
+        "lineHeight": "1.47",
+        "spacing": "-0.374px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "32px (2.00rem)",
+        "weight": 400,
+        "lineHeight": "1.25",
+        "spacing": "0.128px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "28px (1.75rem)",
+        "weight": 600,
+        "lineHeight": "1.29",
+        "spacing": "0.196px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 1,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "24px (1.50rem)",
+        "weight": 600,
+        "lineHeight": "1.17",
+        "spacing": "0.216px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 6,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "21px (1.31rem)",
+        "weight": 600,
+        "lineHeight": "1.19",
+        "spacing": "0.231px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "21px (1.31rem)",
+        "weight": 400,
+        "lineHeight": "1.38",
+        "spacing": "0.231px",
+        "transform": null
+      },
+      {
+        "context": "heading-3",
+        "count": 1,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "19.89px (1.24rem)",
+        "weight": 600,
+        "lineHeight": "1.47",
+        "spacing": "-0.374px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "SF Pro Display",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "19px (1.19rem)",
+        "weight": 600,
+        "lineHeight": "1.21",
+        "spacing": "0.228px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 18,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": "1.47",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 8,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "17px (1.06rem)",
+        "weight": 600,
+        "lineHeight": "1.24",
+        "spacing": "-0.374px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 4,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.43",
+        "spacing": "-0.224px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 20,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "-0.12px",
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 4,
+        "family": "SF Pro Text",
+        "fallbacks": "Myriad Set Pro, SF Pro Icons, Apple Legacy Chevron, Helvetica Neue, Helvetica, Arial",
+        "size": "12px (0.75rem)",
+        "weight": 600,
+        "lineHeight": "1.33",
+        "spacing": "-0.12px",
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 4,
+        "family": "SF Pro Text",
+        "fallbacks": "SF Pro Icons, Helvetica Neue, Helvetica, Arial",
+        "size": "10px (0.63rem)",
+        "weight": 400,
+        "lineHeight": "1.30",
+        "spacing": "-0.08px",
+        "transform": null
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": false,
+      "openTypeFeatures": [
+        "case",
+        "numr"
+      ],
+      "urls": [
+        "https://www.apple.com/ac/icons/1.0/fonts/appleicons_text.ttf",
+        "https://www.apple.com/ac/icons/1.0/fonts/appleicons_text.woff",
+        "https://www.apple.com/ac/icons/1.0/fonts/appleicons_thin.ttf",
+        "https://www.apple.com/ac/icons/1.0/fonts/appleicons_thin.woff",
+        "https://www.apple.com/ac/icons/1.0/fonts/appleicons_ultralight.ttf",
+        "https://www.apple.com/ac/icons/1.0/fonts/appleicons_ultralight.woff",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_text.eot",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_text.ttf",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_text.woff",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_thin.eot",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_thin.ttf",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_thin.woff",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_ultralight.eot",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_ultralight.ttf",
+        "https://www.apple.com/assets/ac-footer/legacy/appleicons_ultralight.woff",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_text.eot",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_text.ttf",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_text.woff",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_thin.eot",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_thin.ttf",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_thin.woff",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_ultralight.eot",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_ultralight.ttf",
+        "https://www.apple.com/in/assets/ac-footer/legacy/appleicons_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-AR/v1/SFProAR_ultralight.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_ultralight.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_black-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_black-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_black-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_heavy-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_heavy-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_heavy-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_light-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_light-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_light-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_thin-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_thin-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_thin-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_ultralight-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_ultralight-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_ultralight-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_ultralight.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v1/SFProIcons_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_ultralight.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-TH/v2/SFProTHDisplay_ultralight.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_black-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_black-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_black-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_bold-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_bold-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_bold-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_heavy-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_heavy-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_heavy-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_light-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_light-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_light-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_medium-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_medium-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_medium-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_regular-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_regular-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_regular-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_semibold-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_semibold-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_semibold-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_thin-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_thin-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_thin-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_ultralight-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_ultralight-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_ultralight-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v1/sf-pro-text_ultralight.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_black-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_black-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_black-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_black.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_black.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_black.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_bold-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_bold-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_bold-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_bold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_bold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_bold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_heavy-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_heavy-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_heavy-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_heavy.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_heavy.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_heavy.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_thin-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_thin-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_thin-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_thin.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_thin.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_thin.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_ultralight-italic.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_ultralight-italic.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_ultralight-italic.woff2",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_ultralight.ttf",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_ultralight.woff",
+        "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_ultralight.woff2"
+      ],
+      "selfHostedFonts": [
+        "sf-pro-display_semibold.woff2",
+        "sf-pro-icons_light.woff2",
+        "sf-pro-text_light.woff2",
+        "sf-pro-text_regular.woff2",
+        "sf-pro-text_semibold.woff2",
+        "SFProIcons_light.woff",
+        "SFProIcons_semibold.woff",
+        "sf-pro-display_regular.woff2",
+        "sf-pro-text_thin-italic.woff2",
+        "SFProAR_regular.woff2",
+        "SFProTHDisplay_regular.woff2",
+        "sf-pro-icons_regular.woff2"
+      ],
+      "customFonts": [
+        "sf-pro-display_semibold.woff2",
+        "sf-pro-icons_light.woff2",
+        "sf-pro-text_light.woff2",
+        "sf-pro-text_regular.woff2",
+        "sf-pro-text_semibold.woff2",
+        "SFProIcons_light.woff",
+        "SFProIcons_semibold.woff",
+        "sf-pro-display_regular.woff2",
+        "sf-pro-text_thin-italic.woff2",
+        "SFProAR_regular.woff2",
+        "SFProTHDisplay_regular.woff2",
+        "sf-pro-icons_regular.woff2"
+      ],
+      "filteredFamilies": [
+        "SF Pro AR",
+        "SF Pro Display",
+        "SF Pro HK",
+        "SF Pro JP",
+        "SF Pro KR",
+        "SF Pro SC",
+        "SF Pro TC",
+        "SF Pro TH"
+      ]
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "7px",
+        "display": "7px",
+        "rem": "0.44rem",
+        "count": 1432,
+        "numericValue": 7,
+        "frequency": 0
+      },
+      {
+        "px": "4px",
+        "display": "4px",
+        "rem": "0.25rem",
+        "count": 458,
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "px": "9.6px",
+        "display": "9.6px",
+        "rem": "0.60rem",
+        "count": 276,
+        "numericValue": 9.6,
+        "frequency": 0
+      },
+      {
+        "px": "9px",
+        "display": "9px",
+        "rem": "0.56rem",
+        "count": 274,
+        "numericValue": 9,
+        "frequency": 0
+      },
+      {
+        "px": "2px",
+        "display": "2px",
+        "rem": "0.13rem",
+        "count": 101,
+        "numericValue": 2,
+        "frequency": 0
+      },
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 83,
+        "numericValue": 10,
+        "frequency": 0
+      },
+      {
+        "px": "40px",
+        "display": "40px",
+        "rem": "2.50rem",
+        "count": 56,
+        "numericValue": 40,
+        "frequency": 0
+      },
+      {
+        "px": "44px",
+        "display": "44px",
+        "rem": "2.75rem",
+        "count": 55,
+        "numericValue": 44,
+        "frequency": 0
+      },
+      {
+        "px": "84px",
+        "display": "84px",
+        "rem": "5.25rem",
+        "count": 46,
+        "numericValue": 84,
+        "frequency": 0
+      },
+      {
+        "px": "6px",
+        "display": "6px",
+        "rem": "0.38rem",
+        "count": 42,
+        "numericValue": 6,
+        "frequency": 0
+      },
+      {
+        "px": "5px",
+        "display": "5px",
+        "rem": "0.31rem",
+        "count": 41,
+        "numericValue": 5,
+        "frequency": 0
+      },
+      {
+        "px": "14px",
+        "display": "14px",
+        "rem": "0.88rem",
+        "count": 29,
+        "numericValue": 14,
+        "frequency": 0
+      },
+      {
+        "px": "24px",
+        "display": "24px",
+        "rem": "1.50rem",
+        "count": 25,
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "px": "11px",
+        "display": "11px",
+        "rem": "0.69rem",
+        "count": 24,
+        "numericValue": 11
+      },
+      {
+        "px": "30px",
+        "display": "30px",
+        "rem": "1.88rem",
+        "count": 16,
+        "numericValue": 30,
+        "frequency": 0
+      },
+      {
+        "px": "22px",
+        "display": "22px",
+        "rem": "1.38rem",
+        "count": 15,
+        "numericValue": 22,
+        "frequency": 0
+      },
+      {
+        "px": "20px",
+        "display": "20px",
+        "rem": "1.25rem",
+        "count": 14,
+        "numericValue": 20,
+        "frequency": 0
+      },
+      {
+        "px": "16px",
+        "display": "16px",
+        "rem": "1.00rem",
+        "count": 10,
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "px": "50px",
+        "display": "50px",
+        "rem": "3.13rem",
+        "count": 10,
+        "numericValue": 50
+      },
+      {
+        "px": "13.6px",
+        "display": "13.6px",
+        "rem": "0.85rem",
+        "count": 9,
+        "numericValue": 13.6,
+        "frequency": 0
+      },
+      {
+        "px": "8px",
+        "display": "8px",
+        "rem": "0.50rem",
+        "count": 9,
+        "numericValue": 8
+      },
+      {
+        "px": "18px",
+        "display": "18px",
+        "rem": "1.13rem",
+        "count": 8,
+        "numericValue": 18
+      },
+      {
+        "px": "60px",
+        "display": "60px",
+        "rem": "3.75rem",
+        "count": 8,
+        "numericValue": 60
+      },
+      {
+        "px": "13px",
+        "display": "13px",
+        "rem": "0.81rem",
+        "count": 7,
+        "numericValue": 13
+      },
+      {
+        "px": "15px",
+        "display": "15px",
+        "rem": "0.94rem",
+        "count": 5,
+        "numericValue": 15
+      },
+      {
+        "px": "21px",
+        "display": "21px",
+        "rem": "1.31rem",
+        "count": 5,
+        "numericValue": 21
+      },
+      {
+        "px": "25px",
+        "display": "25px",
+        "rem": "1.56rem",
+        "count": 5,
+        "numericValue": 25
+      },
+      {
+        "px": "26px",
+        "display": "26px",
+        "rem": "1.63rem",
+        "count": 5,
+        "numericValue": 26
+      },
+      {
+        "px": "32px",
+        "display": "32px",
+        "rem": "2.00rem",
+        "count": 4,
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "px": "36px",
+        "display": "36px",
+        "rem": "2.25rem",
+        "count": 4,
+        "numericValue": 36
+      },
+      {
+        "px": "38px",
+        "display": "38px",
+        "rem": "2.38rem",
+        "count": 4,
+        "numericValue": 38
+      },
+      {
+        "px": "394px",
+        "display": "394px",
+        "rem": "24.63rem",
+        "count": 4,
+        "numericValue": 394
+      },
+      {
+        "px": "80px",
+        "display": "80px",
+        "rem": "5.00rem",
+        "count": 3,
+        "numericValue": 80,
+        "frequency": 0
+      },
+      {
+        "px": "70px",
+        "display": "70px",
+        "rem": "4.38rem",
+        "count": 2,
+        "numericValue": 70
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "5px",
+        "count": 20,
+        "elements": [
+          "a"
+        ],
+        "confidence": "high",
+        "numericValue": 5,
+        "frequency": 0
+      },
+      {
+        "value": "18px",
+        "count": 19,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 18,
+        "frequency": 0
+      },
+      {
+        "value": "980px",
+        "count": 11,
+        "elements": [
+          "Watch the event, September 2026",
+          "Learn more, iPhone Duo",
+          "View pricing, iPhone Duo",
+          "Learn more, iPhone 18 Pro",
+          "View pricing, iPhone 18 Pro"
+        ],
+        "confidence": "high",
+        "numericValue": 980
+      },
+      {
+        "value": "0px 18px 18px 0px",
+        "count": 4,
+        "elements": [
+          "Learn more about Apple's Business Conduct Policy",
+          "Learn more about Apple’s Business Conduct and Global Compliance program",
+          "image",
+          "Learn more about how Apple being accountable"
+        ],
+        "confidence": "medium",
+        "numericValue": 0
+      },
+      {
+        "value": "56px",
+        "count": 2,
+        "elements": [
+          "Previous",
+          "Next"
+        ],
+        "confidence": "low",
+        "numericValue": 56
+      },
+      {
+        "value": "50%",
+        "count": 2,
+        "elements": [
+          "modal"
+        ],
+        "confidence": "low",
+        "numericValue": 50
+      },
+      {
+        "value": "0px 0px 12px 12px",
+        "count": 1,
+        "elements": [
+          "aside"
+        ],
+        "confidence": "low",
+        "numericValue": 0
+      },
+      {
+        "value": "12px",
+        "count": 1,
+        "elements": [
+          "combobox"
+        ],
+        "confidence": "low",
+        "numericValue": 12
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(245, 245, 247)",
+        "count": 4,
+        "elements": [
+          "button"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "none none solid",
+        "color": "rgba(0, 0, 0, 0.56)",
+        "count": 4,
+        "elements": [
+          "div",
+          "section"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid none none",
+        "color": "rgb(210, 210, 215)",
+        "count": 4,
+        "elements": [
+          "h2"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "none none solid",
+        "color": "rgba(255, 255, 255, 0.56)",
+        "count": 2,
+        "elements": [
+          "section",
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(29, 29, 31)",
+        "count": 1,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(134, 134, 139)",
+        "count": 1,
+        "elements": [
+          "combobox"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(210, 210, 215)",
+        "count": 1,
+        "elements": [
+          "aside"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "rgba(0, 0, 0, 0.04) 0px 6px 16px -8px",
+      "count": 5,
+      "confidence": "medium"
+    }
+  ],
+  "gradients": [],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.02s",
+        "ms": 20,
+        "count": 120
+      },
+      {
+        "value": "0.06s",
+        "ms": 60,
+        "count": 4
+      },
+      {
+        "value": "0.08s",
+        "ms": 80,
+        "count": 4
+      },
+      {
+        "value": "0.1s",
+        "ms": 100,
+        "count": 46
+      },
+      {
+        "value": "0.12s",
+        "ms": 120,
+        "count": 8
+      },
+      {
+        "value": "0.125s",
+        "ms": 125,
+        "count": 1
+      },
+      {
+        "value": "0.14s",
+        "ms": 140,
+        "count": 26
+      },
+      {
+        "value": "0.16s",
+        "ms": 160,
+        "count": 72
+      },
+      {
+        "value": "0.18s",
+        "ms": 180,
+        "count": 88
+      },
+      {
+        "value": "0.2s",
+        "ms": 200,
+        "count": 90
+      },
+      {
+        "value": "0.22s",
+        "ms": 220,
+        "count": 92
+      },
+      {
+        "value": "0.24s",
+        "ms": 240,
+        "count": 450
+      },
+      {
+        "value": "0.25s",
+        "ms": 250,
+        "count": 2
+      },
+      {
+        "value": "0.3s",
+        "ms": 300,
+        "count": 8
+      },
+      {
+        "value": "0.32s",
+        "ms": 320,
+        "count": 980
+      },
+      {
+        "value": "0.5s",
+        "ms": 500,
+        "count": 26
+      },
+      {
+        "value": "0.7s",
+        "ms": 700,
+        "count": 12
+      }
+    ],
+    "easings": [
+      {
+        "value": "cubic-bezier(0.4, 0, 0.6, 1)",
+        "type": "custom",
+        "count": 1018
+      },
+      {
+        "value": "ease",
+        "type": "ease",
+        "count": 951
+      },
+      {
+        "value": "cubic-bezier(0.42, 0.46, 0.45, 0.99)",
+        "type": "custom",
+        "count": 38
+      },
+      {
+        "value": "ease-in-out",
+        "type": "ease-in-out",
+        "count": 20
+      },
+      {
+        "value": "cubic-bezier(0.25, 0.1, 0.3, 1)",
+        "type": "custom",
+        "count": 12
+      },
+      {
+        "value": "steps(1)",
+        "type": "custom",
+        "count": 8
+      },
+      {
+        "value": "linear",
+        "type": "linear",
+        "count": 8
+      },
+      {
+        "value": "cubic-bezier(0.28, 0.11, 0.32, 1)",
+        "type": "custom",
+        "count": 6
+      }
+    ],
+    "animations": [
+      {
+        "name": "globalnav-search-fade-and-slide",
+        "duration": "0.32s",
+        "easing": "cubic-bezier(0.4",
+        "count": 24,
+        "contexts": [
+          "nav"
+        ]
+      },
+      {
+        "name": "ribbon-drop",
+        "duration": "0.8s",
+        "easing": "ease-in-out",
+        "count": 1,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "ribbon-animate-background",
+        "duration": "0.8s",
+        "easing": "ease-in-out",
+        "count": 1,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "ribbon-animate-text-color",
+        "duration": "0.8s",
+        "easing": "ease-in-out",
+        "count": 1,
+        "contexts": [
+          "other"
+        ]
+      },
+      {
+        "name": "ribbon-animate-link-color",
+        "duration": "0.8s",
+        "easing": "ease-in-out",
+        "count": 1,
+        "contexts": [
+          "link"
+        ]
+      },
+      {
+        "name": "slide-up",
+        "duration": "0.7s",
+        "easing": "cubic-bezier(0.42",
+        "count": 1,
+        "contexts": [
+          "other"
+        ]
+      }
+    ],
+    "contexts": {
+      "link": {
+        "count": 189,
+        "durations": [
+          "0.32s",
+          "0.02s"
+        ],
+        "easing": "cubic-bezier(0.4, 0, 0.6, 1)",
+        "easingType": "custom",
+        "props": [
+          "color",
+          "background-color",
+          "fill"
+        ]
+      },
+      "nav": {
+        "count": 221,
+        "durations": [
+          "0.24s",
+          "0.32s",
+          "0.22s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": [
+          "opacity",
+          "transform",
+          "color",
+          "background-color"
+        ]
+      },
+      "button": {
+        "count": 4,
+        "durations": [
+          "0.32s"
+        ],
+        "easing": "cubic-bezier(0.4, 0, 0.6, 1)",
+        "easingType": "custom",
+        "props": [
+          "color",
+          "fill",
+          "opacity",
+          "visibility"
+        ]
+      }
+    },
+    "interactiveDeltas": [
+      {
+        "tag": "a",
+        "text": "Apple",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgba(0, 0, 0, 0.8)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Store",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgba(0, 0, 0, 0.8)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Shop the Latest",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Mac",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "iPad",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "iPhone",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Apple Watch",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "AirPods",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Accessories",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Find a Store",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(51, 51, 54)",
+            "to": "rgb(0, 0, 0)"
+          }
+        }
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(245, 245, 247)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "11px 21px",
+            "borderRadius": "980px",
+            "border": "1px solid rgba(0, 0, 0, 0)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "Watch the event",
+        "confidence": "medium",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(29, 29, 31)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "11px 21px",
+            "borderRadius": "980px",
+            "border": "1px solid rgba(0, 0, 0, 0)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "Learn more",
+        "confidence": "medium",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(29, 29, 31)",
+            "padding": "11px 21px",
+            "borderRadius": "980px",
+            "border": "1px solid rgb(29, 29, 31)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "View pricing",
+        "confidence": "medium",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(245, 245, 247)",
+            "padding": "11px 21px",
+            "borderRadius": "980px",
+            "border": "1px solid rgb(245, 245, 247)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "View pricing",
+        "confidence": "medium",
+        "count": 1
+      }
+    ],
+    "inputs": {
+      "text": [
+        {
+          "specificType": "text",
+          "states": {
+            "default": {
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(29, 29, 31)",
+              "border": "1px solid rgb(134, 134, 139)",
+              "borderRadius": "12px",
+              "padding": "18px 49px 0px 44px",
+              "boxShadow": "none",
+              "outline": "rgb(29, 29, 31) none 3px"
+            },
+            "focus": {
+              "borderColor": "rgb(227, 0, 0)",
+              "outline": "2px solid var(--sk-focus-color,#0071e3)",
+              "backgroundColor": "rgba(227, 0, 0, 0.04)",
+              "boxShadow": "rgb(255, 255, 255) 0px 0px 0px 3px, rgb(0, 113, 227) 0px 0px 0px 5px, rgb(255, 254, 242) 0px 0px 0px 100px inset"
+            }
+          },
+          "count": 1
+        }
+      ],
+      "checkbox": [],
+      "radio": [],
+      "select": []
+    },
+    "links": [
+      {
+        "color": "rgba(0, 0, 0, 0.8)",
+        "textDecoration": "none",
+        "fontWeight": "600",
+        "states": {
+          "default": {
+            "color": "rgba(0, 0, 0, 0.8)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "var(--footer-mini-shop-link-color)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 4
+      },
+      {
+        "color": "rgb(0, 102, 204)",
+        "textDecoration": "none",
+        "fontWeight": "600",
+        "states": {
+          "default": {
+            "color": "rgb(0, 102, 204)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "rgb(0, 102, 204)",
+            "textDecoration": "none"
+          }
+        },
+        "count": 3
+      },
+      {
+        "color": "rgb(29, 29, 31)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(29, 29, 31)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "var(--sk-button-color-hover, var(--sk-button-color))",
+            "textDecoration": "none"
+          }
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "var(--sk-button-color-hover, var(--sk-button-color))",
+            "textDecoration": "none"
+          }
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(134, 134, 139)",
+        "textDecoration": "underline",
+        "fontWeight": "600",
+        "states": {
+          "default": {
+            "color": "rgb(134, 134, 139)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "var(--footer-mini-shop-link-color)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(245, 245, 247)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(245, 245, 247)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "var(--sk-button-color-hover, var(--sk-button-color))",
+            "textDecoration": "none"
+          }
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(41, 151, 255)",
+        "textDecoration": "underline",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(41, 151, 255)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "var(--footer-mini-shop-link-color)",
+            "textDecoration": "underline"
+          }
+        },
+        "count": 1
+      }
+    ],
+    "badges": {
+      "all": [],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": []
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "1746px"
+    },
+    {
+      "px": "1441px"
+    },
+    {
+      "px": "1440px"
+    },
+    {
+      "px": "1170px"
+    },
+    {
+      "px": "1069px"
+    },
+    {
+      "px": "1068px"
+    },
+    {
+      "px": "1044px"
+    },
+    {
+      "px": "1023px"
+    },
+    {
+      "px": "834px"
+    },
+    {
+      "px": "833px"
+    },
+    {
+      "px": "800px"
+    },
+    {
+      "px": "776px"
+    },
+    {
+      "px": "767px"
+    },
+    {
+      "px": "735px"
+    },
+    {
+      "px": "734px"
+    },
+    {
+      "px": "641px"
+    },
+    {
+      "px": "640px"
+    },
+    {
+      "px": "480px"
+    },
+    {
+      "px": "419px"
+    }
+  ],
+  "iconSystem": [
+    {
+      "name": "SVG Icons",
+      "type": "svg"
+    }
+  ],
+  "frameworks": [],
+  "wcag": [
+    {
+      "fg": "#333336",
+      "bg": "#fafafc",
+      "ratio": 12.08,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 587
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#fafafc",
+      "ratio": 16.14,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 550
+    },
+    {
+      "fg": "#0066cc",
+      "bg": "#ffffff",
+      "ratio": 5.57,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 321
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#ffffff",
+      "ratio": 16.83,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 228
+    },
+    {
+      "fg": "#454545",
+      "bg": "#f5f5f7",
+      "ratio": 8.81,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 204
+    },
+    {
+      "fg": "#6c6c6d",
+      "bg": "#f5f5f7",
+      "ratio": 4.82,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 196
+    },
+    {
+      "fg": "#323233",
+      "bg": "#fbfbfd",
+      "ratio": 12.39,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 111
+    },
+    {
+      "fg": "#6e6e73",
+      "bg": "#fafafc",
+      "ratio": 4.86,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 83
+    },
+    {
+      "fg": "#1d1d1e",
+      "bg": "#f5f5f7",
+      "ratio": 15.47,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 69
+    },
+    {
+      "fg": "#9c9c9c",
+      "bg": "#1d1d1f",
+      "ratio": 6.13,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 62
+    },
+    {
+      "fg": "#333333",
+      "bg": "#ffffff",
+      "ratio": 12.63,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 62
+    },
+    {
+      "fg": "#d2d2d2",
+      "bg": "#1d1d1f",
+      "ratio": 11.13,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 57
+    },
+    {
+      "fg": "#313131",
+      "bg": "#f5f5f7",
+      "ratio": 11.95,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 53
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#f5f5f7",
+      "ratio": 15.46,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 33
+    },
+    {
+      "fg": "#333336",
+      "bg": "#ffffff",
+      "ratio": 12.59,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 29
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#fbfbfd",
+      "ratio": 16.28,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 27
+    },
+    {
+      "fg": "#000000",
+      "bg": "#e8e8ed",
+      "ratio": 17.2,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 25
+    },
+    {
+      "fg": "#ededed",
+      "bg": "#1d1d1f",
+      "ratio": 14.38,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 23
+    },
+    {
+      "fg": "#000000",
+      "bg": "#f5f5f7",
+      "ratio": 19.29,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 15
+    },
+    {
+      "fg": "#0066cc",
+      "bg": "#f5f5f7",
+      "ratio": 5.11,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 9
+    },
+    {
+      "fg": "#000000",
+      "bg": "#fbfbfd",
+      "ratio": 20.32,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 8
+    },
+    {
+      "fg": "#6e6e73",
+      "bg": "#ffffff",
+      "ratio": 5.07,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 7
+    },
+    {
+      "fg": "#000000",
+      "bg": "#ffffff",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 6
+    },
+    {
+      "fg": "#86868b",
+      "bg": "#000000",
+      "ratio": 5.8,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 4
+    },
+    {
+      "fg": "#2997ff",
+      "bg": "#1d1d1f",
+      "ratio": 5.58,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#6e6e73",
+      "bg": "#f5f5f7",
+      "ratio": 4.66,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#f5f5f7",
+      "bg": "#42679e",
+      "ratio": 5.26,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 1
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#f2f2f2",
+      "ratio": 15.03,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#0066cc",
+      "bg": "#f2f2f2",
+      "ratio": 4.97,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 1
+    },
+    {
+      "fg": "#0066cc",
+      "bg": "#e8e8ed",
+      "ratio": 4.56,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 1
+    },
+    {
+      "fg": "#000000",
+      "bg": "#fafafc",
+      "ratio": 20.14,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#fafafc",
+      "ratio": 20.14,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#fafafc",
+      "ratio": 16.14,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "disabled",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#ffffff",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#ffffff",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#1d1d1f",
+      "bg": "#ffffff",
+      "ratio": 16.83,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "disabled",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#f5f5f7",
+      "ratio": 19.29,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#f5f5f7",
+      "ratio": 19.29,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#000000",
+      "bg": "#d2d2d7",
+      "ratio": 13.94,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "disabled",
+      "tag": "button",
+      "source": "state"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.apple.com/in/",
+      "extractedAt": "2026-09-12T08:06:06.854Z"
+    },
+    {
+      "url": "https://www.apple.com/compliance/",
+      "extractedAt": "2026-09-12T08:06:32.428Z"
+    },
+    {
+      "url": "https://www.apple.com/choose-country-region/",
+      "extractedAt": "2026-09-12T08:07:02.489Z"
+    },
+    {
+      "url": "https://www.apple.com/in/retail/",
+      "extractedAt": "2026-09-12T08:07:31.594Z"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
 
 | Slug | Industry | Style | Theme | Layout |
 |---|---|---|---|---|
+| apple | ecommerce | premium-minimal | light | banded-showcase |
 | assembly | fintech | minimal-clean | light | centered-hero |
 | clickup | saas | bold-vibrant | light | centered-hero |
 | coinbase | crypto | clean-confident | light | split-hero |

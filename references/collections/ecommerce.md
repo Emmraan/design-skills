@@ -14,6 +14,7 @@ move interest → cart → checkout. See `patterns/ecommerce.md` for assembly.
 | Site | Slug | What to borrow as logic |
 |---|---|---|
 | Gumroad | `gumroad` | Creator commerce: selling digital goods with personality and minimal friction |
+| Apple | `apple` | Premium-minimal commerce: banded showcase, pill CTAs, tabular pricing, AA-everywhere restraint |
 
 Gumroad is the seed commerce reference; pair it with **retail/consumer references from the
 external galleries** below, since most of the repo's seed sites are SaaS/fintech. When

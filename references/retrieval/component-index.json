@@ -6,6 +6,10 @@
       "file": "references/components/hero.md",
       "notable": [
         {
+          "slug": "apple",
+          "take": "desire in one viewport"
+        },
+        {
           "slug": "assembly",
           "take": "centered statement type + product/visual + black pill CTA"
         },
@@ -86,6 +90,10 @@
     "navbar": {
       "file": "references/components/navbar.md",
       "notable": [
+        {
+          "slug": "apple",
+          "take": "wayfinding that disappears"
+        },
         {
           "slug": "assembly",
           "take": "minimal, logo left, CTA right"
@@ -421,6 +429,10 @@
     "footer": {
       "file": "references/components/footer.md",
       "notable": [
+        {
+          "slug": "apple",
+          "take": "legal density made scannable"
+        },
         {
           "slug": "assembly",
           "take": "muted, legal links"

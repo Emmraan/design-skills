@@ -1,0 +1,16 @@
+{
+  "slug": "apple",
+  "name": "Apple",
+  "source-url": "https://www.apple.com/",
+  "industry": "ecommerce",
+  "style": "premium-minimal",
+  "layout": "banded-showcase",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "11105B38C66B"
+}

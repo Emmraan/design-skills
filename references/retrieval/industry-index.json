@@ -2,6 +2,27 @@
   "version": "1.0.0",
   "description": "Industry -> references index. Open the listed analyses + pattern + collection, then synthesize. Source of truth: references/websites/*/metadata.json.",
   "industries": {
+    "ecommerce": {
+      "sites": [
+        {
+          "slug": "apple",
+          "name": "Apple",
+          "style": "premium-minimal",
+          "theme": "light"
+        },
+        {
+          "slug": "gumroad",
+          "name": "Gumroad",
+          "style": "bold-playful",
+          "theme": "light"
+        }
+      ],
+      "pattern": "references/patterns/ecommerce.md",
+      "collection": "references/collections/ecommerce.md",
+      "borrow": [
+        "creator commerce with personality + low-friction buy from Gumroad"
+      ]
+    },
     "fintech": {
       "sites": [
         {
@@ -84,21 +105,6 @@
           "style": "editorial-luxury",
           "theme": "light"
         }
-      ]
-    },
-    "ecommerce": {
-      "sites": [
-        {
-          "slug": "gumroad",
-          "name": "Gumroad",
-          "style": "bold-playful",
-          "theme": "light"
-        }
-      ],
-      "pattern": "references/patterns/ecommerce.md",
-      "collection": "references/collections/ecommerce.md",
-      "borrow": [
-        "creator commerce with personality + low-friction buy from Gumroad"
       ]
     },
     "agency": {
