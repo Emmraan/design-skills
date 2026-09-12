@@ -1,0 +1,16 @@
+{
+  "slug": "phantom",
+  "name": "Phantom",
+  "source-url": "https://phantom.com/",
+  "industry": "crypto",
+  "style": "friendly-crypto",
+  "layout": "download-led",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "074D2FDBDC62"
+}

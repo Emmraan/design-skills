@@ -195,6 +195,16 @@
         }
       ]
     },
+    "friendly-crypto": {
+      "sites": [
+        {
+          "slug": "phantom",
+          "name": "Phantom",
+          "industry": "crypto",
+          "theme": "light"
+        }
+      ]
+    },
     "clinical-utility": {
       "sites": [
         {

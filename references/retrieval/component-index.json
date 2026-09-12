@@ -78,6 +78,10 @@
           "take": "zoom)"
         },
         {
+          "slug": "phantom",
+          "take": "fear-removal first"
+        },
+        {
           "slug": "pharmeasy",
           "take": "intent capture in one viewport"
         },
@@ -273,6 +277,10 @@
           "take": "clean alternating rows"
         },
         {
+          "slug": "phantom",
+          "take": "capability without jargon"
+        },
+        {
           "slug": "ramp",
           "take": "split rows, black type, lime highlights"
         },
@@ -312,6 +320,10 @@
         {
           "slug": "onemedical",
           "take": "second funnel, same language"
+        },
+        {
+          "slug": "phantom",
+          "take": "audits and self-custody explained kindly"
         },
         {
           "slug": "ramp",

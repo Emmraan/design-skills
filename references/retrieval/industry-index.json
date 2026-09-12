@@ -144,6 +144,12 @@
           "name": "Coinbase",
           "style": "clean-confident",
           "theme": "light"
+        },
+        {
+          "slug": "phantom",
+          "name": "Phantom",
+          "style": "friendly-crypto",
+          "theme": "light"
         }
       ]
     },
