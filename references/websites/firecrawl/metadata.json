@@ -1,0 +1,16 @@
+{
+  "slug": "firecrawl",
+  "name": "Firecrawl",
+  "source-url": "https://www.firecrawl.dev/",
+  "industry": "ai",
+  "style": "ember-light",
+  "layout": "product-funnel",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "E9860467AB7D"
+}

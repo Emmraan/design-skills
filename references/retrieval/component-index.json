@@ -54,6 +54,10 @@
           "take": "ownership + proof in one viewport"
         },
         {
+          "slug": "firecrawl",
+          "take": "dual-audience statement"
+        },
+        {
           "slug": "flyward",
           "take": "giant Apris display statement (133px) + cream \"Discover\" pill on light"
         },
@@ -262,6 +266,10 @@
         {
           "slug": "coursera",
           "take": "borrowed prestige"
+        },
+        {
+          "slug": "firecrawl",
+          "take": "live capability demo"
         },
         {
           "slug": "ghost",
@@ -501,6 +509,10 @@
         },
         {
           "slug": "dokploy",
+          "take": "packaging transparency"
+        },
+        {
+          "slug": "firecrawl",
           "take": "packaging transparency"
         },
         {

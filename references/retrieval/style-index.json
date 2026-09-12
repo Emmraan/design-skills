@@ -152,6 +152,16 @@
         }
       ]
     },
+    "ember-light": {
+      "sites": [
+        {
+          "slug": "firecrawl",
+          "name": "Firecrawl",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ]
+    },
     "auth-blue": {
       "sites": [
         {
