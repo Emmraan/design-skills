@@ -1,0 +1,16 @@
+{
+  "slug": "openship",
+  "name": "Openship",
+  "source-url": "https://openship.io/",
+  "industry": "developer-tools",
+  "style": "aurora-dark",
+  "layout": "product-funnel",
+  "theme": "dark",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "BB69C85D530D"
+}

@@ -211,6 +211,12 @@
           "theme": "dark"
         },
         {
+          "slug": "openship",
+          "name": "Openship",
+          "style": "aurora-dark",
+          "theme": "dark"
+        },
+        {
           "slug": "tasteskill",
           "name": "Taste Skill",
           "style": "warm-paper",

@@ -215,6 +215,16 @@
         }
       ]
     },
+    "aurora-dark": {
+      "sites": [
+        {
+          "slug": "openship",
+          "name": "Openship",
+          "industry": "developer-tools",
+          "theme": "dark"
+        }
+      ]
+    },
     "friendly-crypto": {
       "sites": [
         {
