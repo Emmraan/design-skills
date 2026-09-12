@@ -3,6 +3,23 @@
 > Append-only. Every playbook change cites its evidence. Latest entry matches
 > the playbook `version`.
 
+## v1.3.0 — 2026-09-13 (settings annex)
+
+- Distilled from settings briefs G (Helpdeskly team + access, light) + H
+  (Ledgerline billing + API security, dark) × Claude + Astra (4 outputs,
+  output-conformance checked — STRONG both families, zero contested).
+- Models worked from distilled recap blocks (original chats deleted) —
+  second validation of recap-transfer as a method.
+- ~20 settings rules: mental-model grouping, inline consequence disclosure,
+  close-vs-delete separation, save-state language (persistent draft bar,
+  leave-guard, transactional exclusion), destructive gating (typed gates,
+  blocked-not-faked), permission views (My-access summary, no silent
+  redirects), reveal-once secrets, exact-count billing meters, settings
+  mobile recomposition.
+- Promotes Astra `astra-v1.md` signal 12 settings rows from `single` to
+  `both-confirm`; sidebar/profile rows await their briefs.
+- Evidence: output/settings/* (extraction cache, consumed).
+
 ## v1.2.1 — 2026-09-12 (composition protocol)
 
 - New playbook section "Composing a surface with no annex": nearest-annex

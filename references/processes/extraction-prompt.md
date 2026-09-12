@@ -89,3 +89,29 @@ playbook v1.2.0; settings rows stay `single` until app-settings briefs run.
 If the original process chat was deleted, precede each brief with the
 family-specific recap block (see chat history) instead of the "described
 earlier" line.
+
+## Standard v3 briefs (settings — one surface at a time, same protocol)
+
+Run each brief on BOTH models in fresh chats. Instruction line to prepend:
+"Apply the UI process you described earlier in this chat. Full settings
+direction with copy, states, and responsive behavior — no code."
+
+- **Brief G (team access, light):** Team + access settings for Helpdeskly
+  (same product world as v2 Brief E). Light theme, calm-admin tone. Must
+  cover: mental-model grouping (account/team/notifications/security),
+  role-change + member-removal consequence disclosure, save-state clarity
+  (saved/saving/unsaved/discard), non-admin permission view, destructive
+  gating, empty/loading/error states, keyboard + reduced-motion notes.
+- **Brief H (billing + secrets, dark):** Billing + API-security settings for
+  fictional Ledgerline (same product world as v1 Brief C / v2 Brief F).
+  Dark theme, precise tone. Must cover: plan + usage meters, payment
+  methods, API-key lifecycle (create/reveal/revoke), danger zone
+  (close workspace / delete data) with consequence disclosure, unsaved-change
+  handling, empty/loading/error/permission states, reduced-motion notes.
+
+Save outputs as `output/settings/claude-settings-G.txt`,
+`output/settings/claude-settings-H.txt`,
+`output/settings/astra-settings-G.txt`,
+`output/settings/astra-settings-H.txt` (2 briefs × 2 models = 4 runs).
+Distillation promoted settings rows to `both-confirm` in playbook v1.3.0;
+sidebar/profile rows await their briefs.

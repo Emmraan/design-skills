@@ -1,8 +1,9 @@
 # UI Build Playbook — Frontier Process for Original, Human UI
 
-> version: 1.2.1 · updated: 2026-09-12
+> version: 1.3.0 · updated: 2026-09-13
 > evidence-from: claude-v1.md, astra-v1.md (3 landing briefs × 2 families) +
-> GLM-5.3 A/B gate (brief D) + dashboard briefs E/F × both families
+> GLM-5.3 A/B gate (brief D) + dashboard briefs E/F × both families +
+> settings briefs G/H × both families
 > (output-conformance checked; models worked from distilled recaps after
 > original chats were deleted — recap-transfer validated by strong conformance)
 >
@@ -240,10 +241,98 @@ exception-driven work surface). Core phases hold; these rules specialize them.
   mobile; charts move below operational content with written summaries first
   [`single-Astra`].
 
-## Surface annexes — Sidebar/nav-shell, profile, settings (later)
+## Settings annex
 
-Astra's settings rows (mental-model grouping, consequence disclosure,
-save-state clarity) remain recorded in `astra-v1.md` signal 12, unconfirmed.
+Distilled from settings briefs G (Helpdeskly team + access, light) + H
+(Ledgerline billing + API security, dark) × Claude + Astra (4 outputs,
+output-conformance checked — STRONG both families, zero contested, De-AI
+clean). Promotes Astra `astra-v1.md` signal 12 settings rows from `single`
+to `both-confirm`.
+
+### Ordering and grouping
+
+- Group by mental model, not by control type: account identity → team &
+  access (primary surface, densest) → notifications → security; billing:
+  plan health first → payment → API keys → danger zone last, isolated and
+  separated [`both-confirm`].
+- Ordinary sections stay deliberately quiet; remove promotional panels,
+  health widgets, and decorative cards — density follows consequence, not
+  decoration [`both-confirm`].
+- Danger zone never shares a section with routine controls: red boundary,
+  own heading, closing position [`both-confirm`].
+
+### Consequence disclosure
+
+- Every consequential control states its consequence inline, before
+  confirmation: role change names before/after authority ("will no longer be
+  able to manage…"); member removal states access timing + ticket
+  disposition ("lose access immediately… past notes remain… not reassigned
+  automatically") [`both-confirm`].
+- Never merge distinct destructions: close workspace (stops operations,
+  keeps data) vs delete data (scope + legal exclusions stated) are separate
+  actions with separate gates [`both-confirm`].
+- Billing timing is explicit: upgrade takes effect immediately and prorated;
+  downgrade holds until the renewal date with new limits stated
+  [`both-confirm`].
+
+### Save-state clarity
+
+- Quiet `Saved` at rest; persistent bottom bar for drafts —
+  `Unsaved changes — [what changed]` + `Discard / Save changes`
+  [`both-confirm`].
+- `Saving…` disables only the affected section and keeps the bar; failure
+  keeps edits in place with retry (`Changes weren't saved. Edits still
+  here…`) [`both-confirm`].
+- Leave-guard offers `Keep editing / Discard` — never a bare "Leave"
+  [`both-confirm`].
+- Transactional actions (create/revoke key, plan change, close/delete) are
+  excluded from page-save; each confirms on its own [`both-confirm`].
+- Never show green unless the server confirmed [`single-Claude`].
+
+### Destructive gating
+
+- Ordinary removal = confirmation dialog; blue for consequential change,
+  red only for true loss [`both-confirm`].
+- Impossible destructions are blocked with explanation, never faked:
+  last-admin ("at least one admin required"), SSO-managed ("remove in
+  identity provider — no local action") [`both-confirm`].
+- Irreversible actions need typed gates (`Type DELETE [name]`) and
+  multi-step flows; never a lone disabled red button
+  [`both-confirm`].
+
+### Permission views
+
+- Never show enabled decision buttons without authority, and never
+  disabled ones without explaining why: non-admins see a `My access`
+  summary (role, scope, allows/does-not-allow, who to contact) instead of
+  admin controls [`both-confirm`].
+- Restriction notices on deep links (`Team management is restricted… View
+  my access`) — no silent redirects [`both-confirm`].
+- Viewers never see secret fragments; key management hides entirely
+  without permission [`both-confirm`].
+
+### Secrets and billing meters
+
+- API keys reveal once: masked by default, `Create and reveal`, `Copy key /
+  Copied`, "stored securely" acknowledgement, leave-without-copying guard;
+  `Rotate` is never `Edit`; revoked keys stay listed; a failed revocation
+  never claims revoked [`both-confirm`].
+- Usage meters are label + exact used/included counts + reset date with a
+  secondary bar — horizontal rows, never radial gauges; threshold copy
+  states what remains; unavailable meters show a timestamped notice, never
+  zeros; forecasts appear only if calculable [`both-confirm`].
+
+### Settings mobile
+
+- Navigation collapses to a `Settings sections` index list; member/key
+  edits and all confirmations become full-screen task views; tables become
+  labeled rows [`both-confirm`].
+- The save bar pins above the safe area only while a draft exists;
+  destructive actions stay separated with identical gates
+  [`both-confirm`].
+
+## Surface annexes — Sidebar/nav-shell, profile (later)
+
 Sidebar/nav-shell and profile await their briefs.
 
 ## Composing a surface with no annex (mandatory protocol)
