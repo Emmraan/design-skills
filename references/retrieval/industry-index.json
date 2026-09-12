@@ -163,6 +163,12 @@
           "name": "One Medical",
           "style": "warm-clinical",
           "theme": "light"
+        },
+        {
+          "slug": "pharmeasy",
+          "name": "PharmEasy",
+          "style": "clinical-utility",
+          "theme": "light"
         }
       ]
     },

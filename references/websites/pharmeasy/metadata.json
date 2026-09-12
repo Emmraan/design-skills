@@ -1,0 +1,16 @@
+{
+  "slug": "pharmeasy",
+  "name": "PharmEasy",
+  "source-url": "https://pharmeasy.in/",
+  "industry": "healthcare",
+  "style": "clinical-utility",
+  "layout": "marketplace-grid",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "0CA65C95F723"
+}

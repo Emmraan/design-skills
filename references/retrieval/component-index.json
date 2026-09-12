@@ -70,6 +70,10 @@
           "take": "zoom)"
         },
         {
+          "slug": "pharmeasy",
+          "take": "intent capture in one viewport"
+        },
+        {
           "slug": "primora",
           "take": "serif statement + mono label + single CTA (editorial-split)"
         },
@@ -512,6 +516,10 @@
         {
           "slug": "mobbin",
           "take": "muted, organized"
+        },
+        {
+          "slug": "pharmeasy",
+          "take": "institutional backing"
         },
         {
           "slug": "primora",

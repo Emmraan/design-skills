@@ -23,6 +23,7 @@
 | mavenclinic | healthcare | editorial-warm | light | split-hero |
 | mobbin | saas | minimal-clean | light | centered-hero |
 | onemedical | healthcare | warm-clinical | light | care-funnel |
+| pharmeasy | healthcare | clinical-utility | light | marketplace-grid |
 | primora | agency | editorial-premium | dark | editorial-split |
 | ramp | fintech | bold-clean | light | split-hero |
 | sendr | ai | minimal-clean | light | centered-hero |
