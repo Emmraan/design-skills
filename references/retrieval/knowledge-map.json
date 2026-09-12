@@ -77,6 +77,14 @@
         { "slug": "sendr", "why": "handwriting accents; human warmth on a tool" }
       ],
       "files": [ "references/collections/saas.md", "references/patterns/saas-landing.md" ]
+    },
+    "ui build process": {
+      "sites": [],
+      "files": [ "references/processes/ui-build-playbook.md", "references/processes/extraction-prompt.md", "references/processes/process-changelog.md" ]
+    },
+    "human copy / de-ai writing": {
+      "sites": [],
+      "files": [ "references/copywriting/human-copy.md", "references/prompts/review-checklist.md" ]
     }
   },
   "fallback": "If a need is not listed, read INDEX.md + the relevant collection, then open 3+ analyses from the closest industry/style before designing."

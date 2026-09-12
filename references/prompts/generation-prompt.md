@@ -17,13 +17,17 @@ landing page, or page section. It forces retrieval-first synthesis, not template
 >
 > 1. Read `INDEX.md`. Then use `references/retrieval/` to pick **3+ relevant references**
 >    (websites from the closest industry/style, plus the matching pattern and component files).
-> 2. Extract **design logic** from each (layout, spacing rhythm, type pairing, color *roles*,
+> 2. Read `references/processes/ui-build-playbook.md` and follow its phases
+>    (Brief lock → Design-language lock → Compose → De-AI pass → Critique → Polish).
+> 3. Extract **design logic** from each (layout, spacing rhythm, type pairing, color *roles*,
 >    motion, accessibility), not pixel values.
-> 3. **Combine** ideas so at least 2 of layout / color / typography differ from any single source.
-> 4. Assemble the page with the closest `references/patterns/*` pattern, token systems from
+> 4. **Combine** ideas so at least 2 of layout / color / typography differ from any single source.
+> 5. Assemble the page with the closest `references/patterns/*` pattern, token systems from
 >    `references/design-tokens/`, components from `references/components/`, and a11y rules
 >    from `references/accessibility/`.
-> 5. Output **real, responsive code** (or a detailed design spec), then self-check against
+> 6. Run the **De-AI pass**: audit all copy with `references/copywriting/human-copy.md`
+>    and all visuals with the review-checklist De-AI section — hard gates, not advisory.
+> 7. Output **real, responsive code** (or a detailed design spec), then self-check against
 >    `references/prompts/review-checklist.md`.
 >
 > **Rules:** never reproduce a reference verbatim; keep WCAG AA contrast + visible focus +

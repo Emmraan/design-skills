@@ -13,6 +13,16 @@ fix them before showing the result.
 - [ ] There is **one coherent design language** (single spacing scale, one type system,
       consistent color-role grammar) — not a patchwork.
 
+## De-AI gates (non-negotiable — see playbook Phase 4)
+
+- [ ] **Copy pass:** `references/copywriting/human-copy.md` audit gate passes —
+      zero negation pivots, zero placeholder copy, every section anchored in specifics.
+- [ ] **Design pass:** no synthesis-rules design AI-tell ships (centered-default,
+      generic gradient, template grid, system-font flatness, stateless components,
+      placeholder visuals, symmetric monotony, missing states).
+- [ ] **Uniqueness statement written:** varied layout levers recorded with why they
+      fit THIS surface — result is not describable as "like X but reskinned".
+
 ## Accessibility (WCAG AA minimum)
 
 - [ ] Text contrast >= 4.5:1 (large text >= 3:1) on all surfaces, including on-color buttons.

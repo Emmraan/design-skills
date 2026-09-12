@@ -141,6 +141,10 @@ def build_index_md(sites: list[dict]) -> str:
     lines += _file_table("retrieval", "Index")
     lines += ["", "## Prompts", ""]
     lines += _file_table("prompts", "Prompt")
+    lines += ["", "## Processes (frontier UI-build method)", ""]
+    lines += _file_table("processes", "Process")
+    lines += ["", "## Copywriting (human copy, no AI patterns)", ""]
+    lines += _file_table("copywriting", "Guide")
     lines += ["", "## Template", "",
               "| Item | File |", "|---|---|",
               "| New website template | `references/websites/_template/` |", ""]

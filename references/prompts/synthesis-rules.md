@@ -41,6 +41,29 @@ pick a different hue.
 - **Inconsistent scale:** mixing an 8px system with a 5px system, or two display fonts
   fighting for attention.
 
+## Design AI-tells (hard gates — none may ship)
+
+Distilled from frontier craft practice. Audit every generated UI against each item:
+
+- **Centered-default layout:** hero centered + every section centered + centered
+  footer. Vary alignment deliberately per section.
+- **Generic gradient hero:** purple-to-blue full-bleed gradient as the default look.
+  Earn color with a committed color voice, not a wash.
+- **Template card grid:** identical 3-column cards as the only layout device. Vary
+  the pattern — editorial rows, bento, staggered, overlapping.
+- **System-font flatness:** Inter-or-system-only type with no pairing and no scale
+  drama. Commit to a deliberate pairing with real hierarchy.
+- **Stateless components:** buttons with no hover/depth/focus treatment, cards with
+  flat 1px borders and default radii everywhere. Every interactive element needs
+  states; surfaces need elevation logic, not default chrome.
+- **Placeholder visuals and copy:** browser-chrome mockups, stock-photo look,
+  lorem-ipsum, or product claims any competitor could paste on their page. Craft
+  or synthesize real content.
+- **Symmetric monotony:** full-width symmetric bands repeated top to bottom.
+  Introduce asymmetry, overlap, and varied rhythm.
+- **Missing states:** no focus rings, no loading/empty/error treatment. A design
+  without states is unfinished, however pretty the happy path.
+
 ## Before you ship
 
 Write one line for each reference: "X gave me the hero layout; Y gave me the accent role;

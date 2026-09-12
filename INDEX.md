@@ -141,6 +141,22 @@
 | Review Checklist | `references/prompts/review-checklist.md` |
 | Synthesis Rules | `references/prompts/synthesis-rules.md` |
 
+## Processes (frontier UI-build method)
+
+| Process | File |
+|---|---|
+| Astra V1 | `references/processes/astra-v1.md` |
+| Claude V1 | `references/processes/claude-v1.md` |
+| Extraction Prompt | `references/processes/extraction-prompt.md` |
+| Process Changelog | `references/processes/process-changelog.md` |
+| Ui Build Playbook | `references/processes/ui-build-playbook.md` |
+
+## Copywriting (human copy, no AI patterns)
+
+| Guide | File |
+|---|---|
+| Human Copy | `references/copywriting/human-copy.md` |
+
 ## Template
 
 | Item | File |

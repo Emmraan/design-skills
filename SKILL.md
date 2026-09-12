@@ -72,6 +72,9 @@ Use the indexes under `references/retrieval/` to find the most relevant referenc
 Open **3+ website analyses** in `references/websites/` and any matching component/pattern
 files. Read the `analysis.md` files (not the whole repo).
 
+Then read `references/processes/ui-build-playbook.md` and follow its phases —
+Brief lock, Design-language lock, Compose, De-AI pass, Critique, Polish.
+
 ### 4. Analyze the pieces
 Extract from each reference what you'll reuse *as logic*:
 - **Layout & hierarchy** — how sections are ordered, what draws the eye first
@@ -142,7 +145,9 @@ references/
 ├── interaction-patterns/  UX behaviors (nav, feedback, modals, forms, …)
 ├── accessibility/         contrast, semantics, ARIA, responsive rules
 ├── retrieval/             JSON indexes for fast lookup
-└── prompts/               generation prompts, synthesis rules, review checklists
+├── prompts/               generation prompts, synthesis rules, review checklists
+├── processes/             frontier UI-build process: playbook + observations + changelog
+├── copywriting/           human-copy rules (no AI patterns in generated copy)
 ```
 
 Read `INDEX.md` first. Load only the files you need — the indexes exist so you never read

@@ -182,6 +182,60 @@ def validate_collections(site_slugs: set[str]) -> None:
     ok("collections reference known website slugs")
 
 
+# ------------------------------------------------- processes + copywriting
+
+PROCESSES_REQUIRED = ["ui-build-playbook.md", "process-changelog.md",
+                      "extraction-prompt.md"]
+
+
+def validate_processes() -> None:
+    procs = REPO_ROOT / "references" / "processes"
+    if not procs.is_dir():
+        fail("processes: references/processes/ missing")
+        return
+    for fname in PROCESSES_REQUIRED:
+        path = procs / fname
+        if not path.exists():
+            fail(f"processes: missing {fname}")
+            continue
+        if not path.read_text(encoding="utf-8").strip():
+            fail(f"processes: {fname} is empty")
+    playbook = procs / "ui-build-playbook.md"
+    changelog = procs / "process-changelog.md"
+    if playbook.exists() and changelog.exists():
+        text = playbook.read_text(encoding="utf-8")
+        m = re.search(r"version:\s*(\d+\.\d+\.\d+)", text)
+        if not m:
+            fail("processes: playbook has no version: X.Y.Z header")
+        elif "evidence" not in text.lower():
+            fail("processes: playbook mentions no evidence")
+        elif m.group(1) not in changelog.read_text(encoding="utf-8"):
+            fail(f"processes: changelog has no entry for playbook v{m.group(1)}")
+    for obs in sorted(procs.glob("*.md")):
+        if obs.name in PROCESSES_REQUIRED:
+            continue
+        text = obs.read_text(encoding="utf-8").lower()
+        if "status" not in text or "grade" not in text:
+            fail(f"processes: observation {obs.name} lacks status/grading block")
+    copy_file = REPO_ROOT / "references" / "copywriting" / "human-copy.md"
+    if not copy_file.exists():
+        fail("copywriting: references/copywriting/human-copy.md missing")
+    else:
+        text = copy_file.read_text(encoding="utf-8")
+        if "## " not in text:
+            fail("copywriting: human-copy.md has no sections")
+        if "http" not in text:
+            fail("copywriting: human-copy.md cites no sources")
+    try:
+        km = json.loads((RETRIEVAL_DIR / "knowledge-map.json").read_text(encoding="utf-8"))
+    except Exception as exc:  # noqa: BLE001
+        fail(f"processes: knowledge-map.json unreadable ({exc})")
+        return
+    if "ui build process" not in km.get("map", {}):
+        fail("processes: knowledge-map.json has no 'ui build process' entry")
+    ok("processes + copywriting: files present, version + changelog + map wired")
+
+
 # ---------------------------------------------------------------- INDEX
 
 def validate_index(site_slugs: set[str]) -> None:
@@ -215,6 +269,7 @@ def main() -> None:
     validate_skill_md()
     validate_md_links()
     validate_websites()
+    validate_processes()
 
     site_slugs = {d.name for d in WEBSITES_DIR.iterdir()
                   if d.is_dir() and not d.name.startswith("_")}
