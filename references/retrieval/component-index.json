@@ -94,6 +94,10 @@
           "take": "bold sans headline + serif statement + handwriting annotation + CTA"
         },
         {
+          "slug": "tablethotels",
+          "take": "intent jewelry"
+        },
+        {
           "slug": "udemy",
           "take": "statement headline (56px) + prominent search + supporting visual"
         },
@@ -560,6 +564,10 @@
         {
           "slug": "sendr",
           "take": "muted"
+        },
+        {
+          "slug": "tablethotels",
+          "take": "quiet sitemap"
         },
         {
           "slug": "udemy",

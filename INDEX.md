@@ -30,6 +30,7 @@
 | primora | agency | editorial-premium | dark | editorial-split |
 | ramp | fintech | bold-clean | light | split-hero |
 | sendr | ai | minimal-clean | light | centered-hero |
+| tablethotels | hospitality | curated-boutique | light | curation-grid |
 | udemy | education | bold-marketplace | light | split-hero |
 | vita-travel | travel | immersive-dark | dark | centered-hero |
 | wispr | ai | editorial-playful | dark | split-hero |

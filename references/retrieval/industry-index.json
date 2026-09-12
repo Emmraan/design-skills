@@ -64,6 +64,12 @@
           "name": "Flyward",
           "style": "editorial-luxury",
           "theme": "light"
+        },
+        {
+          "slug": "tablethotels",
+          "name": "Tablet Hotels",
+          "style": "curated-boutique",
+          "theme": "light"
         }
       ]
     },

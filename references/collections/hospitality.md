@@ -17,6 +17,7 @@ One contact CTA repeated beats feature grids.
 |---|---|---|
 | Flyward | `flyward` | Cream/espresso quiet luxury; serif-display role split; tri-context pill CTAs; dark proof bands |
 | Aman | `aman` | Serene luxury sanctuaries; single-button discipline; underline-first links; stillness-led editorial flow |
+| Tablet Hotels | `tablethotels` | Curated-boutique commerce; Playfair/Figtree pairing; loyalty-as-color; magazine-inside-commerce retention |
 
 Flyward is the seed hospitality reference; pair it with **travel references**
 (Vita Travel) for destination/retreat content and **editorial references** (Ghost)

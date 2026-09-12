@@ -1,0 +1,16 @@
+{
+  "slug": "tablethotels",
+  "name": "Tablet Hotels",
+  "source-url": "https://www.tablethotels.com/",
+  "industry": "hospitality",
+  "style": "curated-boutique",
+  "layout": "curation-grid",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "2B34773B499C"
+}

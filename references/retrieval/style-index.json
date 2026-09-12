@@ -227,6 +227,16 @@
       ],
       "signature": "confident typography, one crisp accent, institutional trust"
     },
+    "curated-boutique": {
+      "sites": [
+        {
+          "slug": "tablethotels",
+          "name": "Tablet Hotels",
+          "industry": "hospitality",
+          "theme": "light"
+        }
+      ]
+    },
     "bold-marketplace": {
       "sites": [
         {
