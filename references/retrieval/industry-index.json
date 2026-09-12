@@ -118,6 +118,12 @@
           "theme": "light"
         },
         {
+          "slug": "tavily",
+          "name": "Tavily",
+          "style": "cream-search",
+          "theme": "light"
+        },
+        {
           "slug": "wispr",
           "name": "Wispr",
           "style": "editorial-playful",

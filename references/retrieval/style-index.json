@@ -387,6 +387,16 @@
         }
       ]
     },
+    "cream-search": {
+      "sites": [
+        {
+          "slug": "tavily",
+          "name": "Tavily",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ]
+    },
     "bold-marketplace": {
       "sites": [
         {

@@ -46,6 +46,7 @@
 | sendr | ai | minimal-clean | light | centered-hero |
 | tablethotels | hospitality | curated-boutique | light | curation-grid |
 | tasteskill | developer-tools | warm-paper | light | docs-led |
+| tavily | ai | cream-search | light | single-landing |
 | udemy | education | bold-marketplace | light | split-hero |
 | vita-travel | travel | immersive-dark | dark | centered-hero |
 | wispr | ai | editorial-playful | dark | split-hero |

@@ -154,6 +154,10 @@
           "take": "primary conversion"
         },
         {
+          "slug": "tavily",
+          "take": "warm-statement entry"
+        },
+        {
           "slug": "udemy",
           "take": "statement headline (56px) + prominent search + supporting visual"
         },
@@ -306,6 +310,10 @@
         {
           "slug": "ramp",
           "take": "customer logos, quiet band"
+        },
+        {
+          "slug": "tavily",
+          "take": "capability scan"
         },
         {
           "slug": "wispr",
@@ -633,6 +641,10 @@
           "take": "blue moment"
         },
         {
+          "slug": "tavily",
+          "take": "commitment contrast"
+        },
+        {
           "slug": "wispr",
           "take": "cream or accent band, single action"
         }
@@ -736,6 +748,10 @@
         {
           "slug": "tablethotels",
           "take": "quiet sitemap"
+        },
+        {
+          "slug": "tavily",
+          "take": "ecosystem membership"
         },
         {
           "slug": "udemy",

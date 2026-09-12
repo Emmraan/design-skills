@@ -1,0 +1,16 @@
+{
+  "slug": "tavily",
+  "name": "Tavily",
+  "source-url": "https://www.tavily.com/",
+  "industry": "ai",
+  "style": "cream-search",
+  "layout": "single-landing",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "F1B9E4A4DC7F"
+}
