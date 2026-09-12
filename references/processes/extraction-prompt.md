@@ -63,3 +63,26 @@ time (outputs are checked for conformance with its stated process):
 
 Record for each output: which stated-process steps are visible in the output
 (`confirmed`), which are missing (`gap`). Gaps demote claims to provisional.
+
+## Standard v2 briefs (dashboard — one surface at a time, same protocol)
+
+Run each brief on BOTH models in fresh chats. Instruction line to prepend:
+"Apply the UI process you described earlier in this chat. Full dashboard
+direction with copy, states, and responsive behavior — no code."
+
+- **Brief E (ops, light):** Operations dashboard for Helpdeskly, a fictional
+  SaaS support tool. Light theme, calm-dense tone. Must cover: status overview,
+  exception queue (SLA breaches, unassigned), trends, ticket detail moment,
+  empty/loading/error states, filter context, keyboard + reduced-motion notes.
+- **Brief F (fintech, dark):** Cash-flow operations dashboard for fictional
+  Ledgerline (same product world as v1 Brief C). Dark theme, precise tone.
+  Must cover: current position, anomaly/exception list, approval actions,
+  supporting detail, empty/loading/error/permission states, density + scan
+  order rationale, reduced-motion notes.
+
+Save outputs as `output/dashboard/claude-dashboard-E.txt`,
+`output/dashboard/claude-dashboard-F.txt`,
+`output/dashboard/astra-dashboard-E.txt`,
+`output/dashboard/astra-dashboard-F.txt` (2 briefs × 2 models = 4 runs).
+Distillation promotes Astra signal 12 (dashboard rows) from `single` to
+`both-confirm` only if Claude outputs show the same behavior.
