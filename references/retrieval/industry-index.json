@@ -180,6 +180,12 @@
           "theme": "light"
         },
         {
+          "slug": "flowstep",
+          "name": "Flowstep",
+          "style": "auth-blue",
+          "theme": "light"
+        },
+        {
           "slug": "sendr",
           "name": "Sendr",
           "style": "minimal-clean",

@@ -17,6 +17,7 @@ show the AI working, set expectations, and answer data/privacy objections — se
 | Wispr | `wispr` | Product-in-action hero; confident voice for an AI assistant |
 | Sendr | `sendr` | AI utility shown through real UI/outputs; clarity over hype |
 | Context7 | `context7` | Machine-facing AI infra; stone ledger; search-as-hero; single hover color |
+| Flowstep | `flowstep` | Auth-gate reference; OAuth-first; filled inputs; stylesheet-declared token depth |
 | Primora | `primora` | Craft-forward presentation that makes AI feel premium |
 
 Synthesize: **demo treatment** from one, **color/type identity** from another, **trust

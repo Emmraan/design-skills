@@ -142,6 +142,16 @@
         }
       ]
     },
+    "auth-blue": {
+      "sites": [
+        {
+          "slug": "flowstep",
+          "name": "Flowstep",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ]
+    },
     "editorial-luxury": {
       "sites": [
         {

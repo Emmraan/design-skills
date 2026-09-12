@@ -19,6 +19,7 @@
 | coolify | developer-tools | amber-dark | dark | product-funnel |
 | coursera | education | institutional-blue | light | catalog-led |
 | dokploy | developer-tools | midnight-zinc | dark | product-funnel |
+| flowstep | ai | auth-blue | light | auth-gate |
 | flyward | hospitality | editorial-luxury | light | centered-hero |
 | framer | saas | blue-canvas | dark | product-funnel |
 | fundingpips | fintech | bold-trading | light | split-hero |
