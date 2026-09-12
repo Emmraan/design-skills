@@ -1,0 +1,16 @@
+{
+  "slug": "framer",
+  "name": "Framer",
+  "source-url": "https://www.framer.com/",
+  "industry": "saas",
+  "style": "blue-canvas",
+  "layout": "product-funnel",
+  "theme": "dark",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "B2085FC3121B"
+}

@@ -19,6 +19,7 @@ it with product, and remove signup friction — see `patterns/saas-landing.md` f
 | Mobbin | `mobbin` | Product-first design: reference UI as the hero; crisp tool aesthetics |
 | Assembly | `assembly` | Clean, platform-credible layout; conversion-oriented structure |
 | Linear | `linear` | Dark developer-minimal system; dual-pill CTAs; weight-grade type + mono labels |
+| Framer | `framer` | Gallery-led craft; film grain; organic radii; segment pages over tiers |
 
 Use these three together: **layout** from one, **color logic** from another, **type pairing**
 from the third — synthesize, never copy one.

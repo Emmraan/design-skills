@@ -142,6 +142,16 @@
         }
       ]
     },
+    "blue-canvas": {
+      "sites": [
+        {
+          "slug": "framer",
+          "name": "Framer",
+          "industry": "saas",
+          "theme": "dark"
+        }
+      ]
+    },
     "bold-trading": {
       "sites": [
         {

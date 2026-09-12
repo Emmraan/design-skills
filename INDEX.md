@@ -19,6 +19,7 @@
 | coursera | education | institutional-blue | light | catalog-led |
 | dokploy | developer-tools | midnight-zinc | dark | product-funnel |
 | flyward | hospitality | editorial-luxury | light | centered-hero |
+| framer | saas | blue-canvas | dark | product-funnel |
 | fundingpips | fintech | bold-trading | light | split-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |
 | globalscrapconnect | ecommerce | eco-industrial | light | marketplace-grid |

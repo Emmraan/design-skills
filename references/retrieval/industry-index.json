@@ -138,6 +138,12 @@
           "theme": "light"
         },
         {
+          "slug": "framer",
+          "name": "Framer",
+          "style": "blue-canvas",
+          "theme": "dark"
+        },
+        {
           "slug": "ghost",
           "name": "Ghost",
           "style": "minimal-editorial",
