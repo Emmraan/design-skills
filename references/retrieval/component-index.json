@@ -38,6 +38,10 @@
           "take": "intent capture"
         },
         {
+          "slug": "contextdev",
+          "take": "dual-audience statement"
+        },
+        {
           "slug": "coolify",
           "take": "ownership statement"
         },
@@ -486,6 +490,10 @@
         {
           "slug": "context7",
           "take": "packaging depth"
+        },
+        {
+          "slug": "contextdev",
+          "take": "packaging transparency"
         },
         {
           "slug": "coolify",

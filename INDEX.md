@@ -16,6 +16,7 @@
 | clickup | saas | bold-vibrant | light | centered-hero |
 | coinbase | crypto | clean-confident | light | split-hero |
 | context7 | ai | emerald-stone | light | docs-led |
+| contextdev | ai | gradient-plex | light | product-funnel |
 | coolify | developer-tools | amber-dark | dark | product-funnel |
 | coursera | education | institutional-blue | light | catalog-led |
 | dokploy | developer-tools | midnight-zinc | dark | product-funnel |

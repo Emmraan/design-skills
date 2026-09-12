@@ -18,6 +18,7 @@ show the AI working, set expectations, and answer data/privacy objections — se
 | Sendr | `sendr` | AI utility shown through real UI/outputs; clarity over hype |
 | Context7 | `context7` | Machine-facing AI infra; stone ledger; search-as-hero; single hover color |
 | Flowstep | `flowstep` | Auth-gate reference; OAuth-first; filled inputs; stylesheet-declared token depth |
+| Context.dev | `contextdev` | Agent-native maximalism; rainbow gradients; dashed hairlines; copy-prompt CTA |
 | Primora | `primora` | Craft-forward presentation that makes AI feel premium |
 
 Synthesize: **demo treatment** from one, **color/type identity** from another, **trust

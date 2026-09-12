@@ -1,0 +1,16 @@
+{
+  "slug": "contextdev",
+  "name": "Context.dev",
+  "source-url": "https://www.context.dev/",
+  "industry": "ai",
+  "style": "gradient-plex",
+  "layout": "product-funnel",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "BC68C5D31291"
+}

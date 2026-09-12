@@ -180,6 +180,12 @@
           "theme": "light"
         },
         {
+          "slug": "contextdev",
+          "name": "Context.dev",
+          "style": "gradient-plex",
+          "theme": "light"
+        },
+        {
           "slug": "flowstep",
           "name": "Flowstep",
           "style": "auth-blue",

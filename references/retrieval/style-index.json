@@ -112,6 +112,16 @@
         }
       ]
     },
+    "gradient-plex": {
+      "sites": [
+        {
+          "slug": "contextdev",
+          "name": "Context.dev",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ]
+    },
     "amber-dark": {
       "sites": [
         {
