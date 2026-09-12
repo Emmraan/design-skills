@@ -145,6 +145,16 @@
         }
       ]
     },
+    "booking-dense": {
+      "sites": [
+        {
+          "slug": "makemytrip",
+          "name": "MakeMyTrip",
+          "industry": "travel",
+          "theme": "light"
+        }
+      ]
+    },
     "dark-expressive": {
       "sites": [
         {

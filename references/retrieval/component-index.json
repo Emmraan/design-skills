@@ -54,6 +54,10 @@
           "take": "centered statement type (72px, tight) + dual-pill CTA + product visual"
         },
         {
+          "slug": "makemytrip",
+          "take": "excitement layer"
+        },
+        {
           "slug": "matters",
           "take": "taste first"
         },
@@ -194,6 +198,10 @@
         {
           "slug": "linear",
           "take": "customer logos as a quiet muted band"
+        },
+        {
+          "slug": "makemytrip",
+          "take": "institutional backing"
         },
         {
           "slug": "mavenclinic",
@@ -508,6 +516,10 @@
         {
           "slug": "linear",
           "take": "muted multi-column, meta gray, legal quiet"
+        },
+        {
+          "slug": "makemytrip",
+          "take": "dense link farm, scannable by weight"
         },
         {
           "slug": "matters",

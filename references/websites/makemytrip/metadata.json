@@ -1,0 +1,16 @@
+{
+  "slug": "makemytrip",
+  "name": "MakeMyTrip",
+  "source-url": "https://www.makemytrip.com/",
+  "industry": "travel",
+  "style": "booking-dense",
+  "layout": "widget-led",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "50095C9E2D02"
+}

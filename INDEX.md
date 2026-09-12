@@ -20,6 +20,7 @@
 | juno | saas | playful-warm | light | split-hero |
 | kota | agency | bold-brutalist | light | type-led-hero |
 | linear | developer-tools | minimal-clean | dark | split-hero |
+| makemytrip | travel | booking-dense | light | widget-led |
 | matters | agency | dark-expressive | dark | work-led |
 | mavenclinic | healthcare | editorial-warm | light | split-hero |
 | mobbin | saas | minimal-clean | light | centered-hero |

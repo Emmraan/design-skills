@@ -11,6 +11,12 @@
           "theme": "light"
         },
         {
+          "slug": "makemytrip",
+          "name": "MakeMyTrip",
+          "style": "booking-dense",
+          "theme": "light"
+        },
+        {
           "slug": "vita-travel",
           "name": "Vita Travel",
           "style": "immersive-dark",
