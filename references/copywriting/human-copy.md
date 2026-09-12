@@ -2,13 +2,14 @@
 
 > Distilled (original prose, not copied) from three copy sources + one design
 > source. Rules below govern **generated website copy only** — never repo prose.
-> Version: 1.0.0 · Updated: 2026-09-12
+> Version: 1.1.0 · Updated: 2026-09-12
 >
 > Sources:
 > - https://github.com/blader/humanizer/blob/main/SKILL.md (MIT)
 > - https://github.com/harshaneel/humanize (MIT)
 > - https://github.com/softaworks/agent-toolkit/blob/main/skills/writing-clearly-and-concisely/signs-of-ai-writing.md (Wikipedia-derived; distill only, never verbatim)
 > - https://github.com/Emmraan/agent-skills/tree/main/skills/frontend-ui (MIT; `frontend-craft` copy rules)
+> - GLM-5.3 A/B gate (brief D): comparative-slogan example added v1.1.0
 
 ## 1. Core principle
 
@@ -48,7 +49,8 @@ it in specifics, and stop.
     `moreover`, `crucial`/`pivotal` inflation. One occurrence is a smell; a
     cluster is a verdict. Prefer the plain verb: use, build, cut, speed up.
 11. **Placeholder product copy.** "Build something amazing", "unlock your
-    potential", "welcome to X". Write concrete, product-specific claims a
+    potential", "welcome to X", "Less admin. More [category]." comparative
+    slogans any competitor could claim. Write concrete, product-specific claims a
     competitor could not paste onto their own page.
 
 ## 3. Specificity rule

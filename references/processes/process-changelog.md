@@ -3,6 +3,23 @@
 > Append-only. Every playbook change cites its evidence. Latest entry matches
 > the playbook `version`.
 
+## v1.1.0 — 2026-09-12 (GLM-5.3 A/B gate)
+
+- Gate: brief D (Rosterly scheduling) baseline vs playbook-run on GLM-5.3.
+- Baseline failures fixed by v1.0 rules (confirmed working): invented
+  testimonials/logos/stats/pricing as fact, template card grids, vague CTAs,
+  stacked-mobile, missing states, undesigned color roles.
+- New `gate-evidence` rules: placeholder-fencing protocol (realistic fakes =
+  fabrication), second-accent-needs-a-job, numbered-grids-are-cards,
+  self-consistency scan (artifact vs copy agreement — gate caught a Saturday
+  alert beside a Mon–Fri grid).
+- human-copy.md v1.1.0: comparative-slogan example added to pattern 11.
+- Residual (accepted, not a rule): playbook-run still centers a proposed price
+  — fenced as assumption per honesty rule; omission preferred when price is
+  fully unknown.
+- Evidence: output/gate/brief-D-baseline.txt, output/gate/brief-D-playbook.txt
+  (extraction cache, consumed).
+
 ## v1.0.0 — 2026-09-12 (first distillation)
 
 - Distilled from `claude-v1.md` + `astra-v1.md` (3 landing briefs × 2 families,

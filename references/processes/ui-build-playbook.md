@@ -1,9 +1,9 @@
 # UI Build Playbook — Frontier Process for Original, Human UI
 
-> version: 1.0.0 · updated: 2026-09-12
+> version: 1.1.0 · updated: 2026-09-12
 > evidence-from: claude-v1.md, astra-v1.md (3 landing briefs × 2 families,
-> output-conformance checked; repo links unfetchable by models, repo-fit
-> mapping done here)
+> output-conformance checked) + GLM-5.3 A/B gate (brief D baseline vs
+> playbook-run; gate rules tagged `gate-evidence`)
 >
 > Every rule carries an evidence grade: `both-confirm` (both families converge —
 > strong), `single` (one family — provisional, marked), `contested` (families
@@ -27,6 +27,10 @@ encode the judgment frontier models apply implicitly.
 - Separate supplied facts from assumptions. Never present an assumption
   (pricing, integrations, metrics, workflows) as product truth; label it or
   fence it as placeholder [`both-confirm`].
+- When proof is missing (customers, metrics, price), ship an evidence-ready
+  template + pre-launch replacement panel — never realistic-looking fiction.
+  Named fake people, quotes, and logos read as real; that is fabrication, not
+  placeholder [`gate-evidence`].
 - Name the user's decision anxiety ("will this work with my stack?", "can I
   trust this with my data?") — it decides what proof the page needs
   [`both-confirm`].
@@ -44,7 +48,8 @@ encode the judgment frontier models apply implicitly.
   with a one-line why [`both-confirm`].
 - Define semantic color roles before choosing attractive colors: canvas,
   surface, primary/muted text, border, action, focus, success, warning, danger.
-  Strong accent reserved for action and real status [`both-confirm`].
+  Strong accent reserved for action and real status [`both-confirm`]. A second
+  accent needs a second job — decorative second hues get cut [`gate-evidence`].
 - Limit visual voices: one display treatment, one body treatment, one accent
   behavior, one surface model [`single-Claude`].
 - Choose one or two signature compositional devices that fit the product —
@@ -57,7 +62,9 @@ encode the judgment frontier models apply implicitly.
 
 - Give every region one job (orient, explain, prove, compare, act, recover).
   Remove regions with no distinct job; never add a section because pages
-  "usually have one" [`both-confirm`].
+  "usually have one" [`both-confirm`]. Numbered grids (01–04) with identical
+  internal structure are cards in disguise — vary module shape AND internal
+  structure [`gate-evidence`].
 - Compose the highest-value moment first (hero + conversion path), with real or
   realistically constrained content — never lorem-block layouts [`both-confirm`].
 - Hero visual must do a product job: show a meaningful state, workflow, or
@@ -90,7 +97,10 @@ encode the judgment frontier models apply implicitly.
   [`single-Astra`].
 - Squint test (message, action, groupings survive at a glance) + scan test
   (labels/headings/CTAs/data alone tell the story) + grayscale check
-  (hierarchy survives without hue) [`single-Astra`].
+  (hierarchy survives without hue) [`single-Astra`]. Extend the scan test to
+  self-consistency: artifact details must agree with surrounding copy — names,
+  dates, days, numbers, states (a Saturday alert next to a Mon–Fri grid fails)
+  [`gate-evidence`].
 - Subtract before adding: delete at least one nonessential treatment; first
   drafts typically lose 20–35% [`single-Claude`].
 - Check the result at full page, first viewport, narrow mobile, and zoomed-in
