@@ -102,6 +102,10 @@
           "take": "strong display statement + product/library visual + CTA"
         },
         {
+          "slug": "neon",
+          "take": "capture-first statement"
+        },
+        {
           "slug": "onemedical",
           "take": "zoom)"
         },
@@ -276,6 +280,10 @@
           "take": "logos + outcome stats (\"predictable costs\") for buyer confidence"
         },
         {
+          "slug": "neon",
+          "take": "warm credibility zones"
+        },
+        {
           "slug": "primora",
           "take": "quiet band"
         },
@@ -339,6 +347,10 @@
         {
           "slug": "mobbin",
           "take": "clean alternating rows"
+        },
+        {
+          "slug": "neon",
+          "take": "show, don't tell"
         },
         {
           "slug": "openship",
@@ -672,6 +684,10 @@
         {
           "slug": "mobbin",
           "take": "muted, organized"
+        },
+        {
+          "slug": "neon",
+          "take": "depth close"
         },
         {
           "slug": "pharmeasy",

@@ -265,6 +265,16 @@
         }
       ]
     },
+    "mint-dark": {
+      "sites": [
+        {
+          "slug": "neon",
+          "name": "Neon",
+          "industry": "developer-tools",
+          "theme": "dark"
+        }
+      ]
+    },
     "warm-clinical": {
       "sites": [
         {

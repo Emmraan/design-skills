@@ -1,0 +1,16 @@
+{
+  "slug": "neon",
+  "name": "Neon",
+  "source-url": "https://neon.com/",
+  "industry": "developer-tools",
+  "style": "mint-dark",
+  "layout": "product-funnel",
+  "theme": "dark",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "FAC817B45490"
+}

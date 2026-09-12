@@ -226,6 +226,12 @@
           "theme": "dark"
         },
         {
+          "slug": "neon",
+          "name": "Neon",
+          "style": "mint-dark",
+          "theme": "dark"
+        },
+        {
           "slug": "openship",
           "name": "Openship",
           "style": "aurora-dark",

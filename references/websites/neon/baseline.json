@@ -1,0 +1,2350 @@
+{
+  "url": "https://neon.com/",
+  "extractedAt": "2026-09-12T11:01:10.704Z",
+  "meta": {
+    "snapshotId": "38ec520b-2c15-4f05-ad64-da6102679dad",
+    "httpStatus": 200,
+    "dembrandtVersion": "0.32.2",
+    "schemaVersion": "1.12.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": true,
+    "requestedUrl": "https://neon.com/",
+    "contentLength": 181423,
+    "flags": {},
+    "crawl": {
+      "technique": "auto",
+      "pagesRequested": 5,
+      "pagesFound": 2
+    }
+  },
+  "siteName": "Neon",
+  "logo": null,
+  "favicons": [
+    {
+      "type": "icon",
+      "url": "https://neon.com/favicon/favicon.svg",
+      "sizes": null
+    },
+    {
+      "type": "icon",
+      "url": "https://neon.com/favicon/favicon.ico",
+      "sizes": "32x32"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://neon.com/apple-touch-icon.png",
+      "sizes": "180x180"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://neon.com/apple-touch-icon-152x152.png",
+      "sizes": "152x152"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://neon.com/apple-touch-icon-120x120.png",
+      "sizes": "120x120"
+    },
+    {
+      "type": "og:image",
+      "url": "https://neon.com/images/social-previews/index.jpg?updated=2026-05-27",
+      "sizes": null
+    },
+    {
+      "type": "twitter:image",
+      "url": "https://neon.com/images/social-previews/index.jpg?updated=2026-05-27",
+      "sizes": null
+    },
+    {
+      "type": "pwa",
+      "url": "https://neon.com/favicon/favicon.svg",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "background": "rgb(0, 0, 0)",
+      "text": "rgb(255, 255, 255)",
+      "primary": "rgb(228, 241, 235)",
+      "accent": "rgb(100, 141, 255)"
+    },
+    "palette": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 945,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "header",
+          "relative",
+          "manifest:theme_color"
+        ],
+        "lch": "lch(100% 0.028 53.346)",
+        "oklch": "oklch(100% 0 0)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d9d9d9",
+        "contrastAgainst": [
+          {
+            "bg": "#000000",
+            "ratio": 21,
+            "aa": true
+          },
+          {
+            "bg": "#0a0a0b",
+            "ratio": 19.79,
+            "aa": true
+          },
+          {
+            "bg": "#111315",
+            "ratio": 18.62,
+            "aa": true
+          },
+          {
+            "bg": "#151617",
+            "ratio": 18.12,
+            "aa": true
+          },
+          {
+            "bg": "#18191b",
+            "ratio": 17.59,
+            "aa": true
+          },
+          {
+            "bg": "#1a1a1a",
+            "ratio": 17.4,
+            "aa": true
+          },
+          {
+            "bg": "#1a1b1c",
+            "ratio": 17.25,
+            "aa": true
+          },
+          {
+            "bg": "#303236",
+            "ratio": 12.84,
+            "aa": true
+          },
+          {
+            "bg": "#00e599",
+            "ratio": 1.66,
+            "aa": false
+          },
+          {
+            "bg": "#e4f1eb",
+            "ratio": 1.16,
+            "aa": false
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 351,
+        "confidence": "high",
+        "sources": [
+          "header",
+          "main-navigation-submenu",
+          "group"
+        ],
+        "lch": "lch(0% 0 0)",
+        "oklch": "oklch(0% 0 0)",
+        "role": "surface",
+        "onColor": "#ffffff",
+        "hover": "#000000",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 21,
+            "aa": true
+          },
+          {
+            "bg": "#e4f1eb",
+            "ratio": 18.08,
+            "aa": true
+          },
+          {
+            "bg": "#c9cbcf",
+            "ratio": 12.93,
+            "aa": true
+          },
+          {
+            "bg": "#34d59a",
+            "ratio": 11.13,
+            "aa": true
+          },
+          {
+            "bg": "#94979e",
+            "ratio": 7.18,
+            "aa": true
+          },
+          {
+            "bg": "#797d86",
+            "ratio": 5.09,
+            "aa": true
+          },
+          {
+            "bg": "#61646b",
+            "ratio": 3.54,
+            "aa": false
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(148, 151, 158)",
+        "normalized": "#94979e",
+        "count": 304,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "text-[15px]",
+          "text-[13px]"
+        ],
+        "lch": "lch(62.378% 4.073 269.05)",
+        "oklch": "oklch(67.6139% 0.01083 267.321)",
+        "role": "neutral",
+        "onColor": "#000000",
+        "hover": "#7e8086",
+        "contrastAgainst": [
+          {
+            "bg": "#000000",
+            "ratio": 7.18,
+            "aa": true
+          },
+          {
+            "bg": "#afb1b6",
+            "ratio": 1.36,
+            "aa": false
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(48, 50, 54)",
+        "normalized": "#303236",
+        "count": 181,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "main-navigation-submenu",
+          "[object"
+        ],
+        "lch": "lch(20.704% 2.862 266.791)",
+        "oklch": "oklch(31.6707% 0.00764 264.459)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#3a3c41",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 12.84,
+            "aa": true
+          },
+          {
+            "bg": "#e4f1eb",
+            "ratio": 11.06,
+            "aa": true
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(52, 213, 154)",
+        "normalized": "#34d59a",
+        "count": 96,
+        "confidence": "high",
+        "sources": [
+          "[object"
+        ],
+        "lch": "lch(76.328% 55.415 162.007)",
+        "oklch": "oklch(77.8216% 0.15515 163.067)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#2cb583",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#131415",
+            "ratio": 9.78,
+            "aa": true
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(97, 100, 107)",
+        "normalized": "#61646b",
+        "count": 44,
+        "confidence": "high",
+        "sources": [
+          "inline-flex",
+          "ml-1.5"
+        ],
+        "lch": "lch(42.287% 4.385 269.281)",
+        "oklch": "oklch(50.2991% 0.01168 267.271)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#747880",
+        "contrastAgainst": [
+          {
+            "bg": "#e4f1eb",
+            "ratio": 5.1,
+            "aa": true
+          },
+          {
+            "bg": "#000000",
+            "ratio": 3.54,
+            "aa": false
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(100, 141, 255)",
+        "normalized": "#648dff",
+        "count": 6,
+        "confidence": "medium",
+        "sources": [
+          "py-2",
+          "font-medium"
+        ],
+        "lch": "lch(59.88% 63.356 281.094)",
+        "oklch": "oklch(66.8762% 0.17456 266.802)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#5578d9",
+        "contrastAgainst": [
+          {
+            "bg": "#000000",
+            "ratio": 6.8,
+            "aa": true
+          }
+        ],
+        "pageCount": 1
+      }
+    ],
+    "cssVariables": {},
+    "detected": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 933,
+        "usageFrac": 0.5221040850587577,
+        "areaFrac": 0.00890971744670199,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "header",
+          "relative",
+          "flex",
+          "block"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 337,
+        "usageFrac": 0.18858421936205932,
+        "areaFrac": 0.7489681612239185,
+        "confidence": "high",
+        "sources": [
+          "header",
+          "main-navigation-submenu",
+          "group",
+          "inline-flex",
+          "backed-by"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(148, 151, 158)",
+        "normalized": "#94979e",
+        "count": 146,
+        "usageFrac": 0.0817011751538892,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "text-[15px]",
+          "text-[13px]",
+          "underline",
+          "hover:text-gray-new-20"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(48, 50, 54)",
+        "normalized": "#303236",
+        "count": 96,
+        "usageFrac": 0.053721320649132626,
+        "areaFrac": 0.00003705002671335385,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "main-navigation-submenu",
+          "[object",
+          "flex",
+          "min-w-0"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(36, 38, 40)",
+        "normalized": "#242628",
+        "count": 76,
+        "usageFrac": 0.042529378847229994,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(121, 125, 134)",
+        "normalized": "#797d86",
+        "count": 50,
+        "usageFrac": 0.027979854504756575,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "mb-6",
+          "relative",
+          "indent-24"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(52, 213, 154)",
+        "normalized": "#34d59a",
+        "count": 33,
+        "usageFrac": 0.01846670397313934,
+        "areaFrac": 0.00036424807512566005,
+        "confidence": "high",
+        "sources": [
+          "[object",
+          "cursor-pointer"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(97, 100, 107)",
+        "normalized": "#61646b",
+        "count": 31,
+        "usageFrac": 0.017347509792949075,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "inline-flex",
+          "ml-1.5"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(175, 177, 182)",
+        "normalized": "#afb1b6",
+        "count": 17,
+        "usageFrac": 0.009513150531617236,
+        "areaFrac": 0.00004790306484150801,
+        "confidence": "high",
+        "sources": [
+          "discord-icon",
+          "github-icon",
+          "x-icon",
+          "linkedin-icon",
+          "youtube-icon"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(228, 229, 231)",
+        "normalized": "#e4e5e7",
+        "count": 14,
+        "usageFrac": 0.00783435926133184,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [
+          "block"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(40, 93, 73)",
+        "normalized": "#285d49",
+        "count": 10,
+        "usageFrac": 0.005595970900951315,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(24, 25, 27)",
+        "normalized": "#18191b",
+        "count": 8,
+        "usageFrac": 0.004476776720761052,
+        "areaFrac": 0.005432207553027008,
+        "confidence": "high",
+        "sources": [
+          "group",
+          "relative"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(255, 54, 33)",
+        "normalized": "#ff3621",
+        "count": 8,
+        "usageFrac": 0.004476776720761052,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(17, 19, 21)",
+        "normalized": "#111315",
+        "count": 5,
+        "usageFrac": 0.0027979854504756574,
+        "areaFrac": 0.010212933424209508,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(201, 203, 207)",
+        "normalized": "#c9cbcf",
+        "count": 4,
+        "usageFrac": 0.002238388360380526,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(26, 26, 26)",
+        "normalized": "#1a1a1a",
+        "count": 4,
+        "usageFrac": 0.002238388360380526,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [
+          "inline-flex"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(228, 241, 235)",
+        "normalized": "#e4f1eb",
+        "count": 4,
+        "usageFrac": 0.002238388360380526,
+        "areaFrac": 0.15517692393867835,
+        "confidence": "high",
+        "sources": [
+          "cursor-pointer",
+          "autoscaling",
+          "relative",
+          "backed-by"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(19, 20, 21)",
+        "normalized": "#131415",
+        "count": 4,
+        "usageFrac": 0.002238388360380526,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "cursor-pointer"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(73, 75, 80)",
+        "normalized": "#494b50",
+        "count": 3,
+        "usageFrac": 0.0016787912702853946,
+        "areaFrac": 0,
+        "confidence": "low",
+        "sources": [
+          "flex"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(202, 230, 217)",
+        "normalized": "#cae6d9",
+        "count": 1,
+        "usageFrac": 0.0005595970900951316,
+        "areaFrac": 0.0023206789459546185,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(21, 22, 23)",
+        "normalized": "#151617",
+        "count": 1,
+        "usageFrac": 0.0005595970900951316,
+        "areaFrac": 0.06783073981557534,
+        "confidence": "high",
+        "sources": [
+          "cta"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(0, 229, 153)",
+        "normalized": "#00e599",
+        "count": 1,
+        "usageFrac": 0.0005595970900951316,
+        "areaFrac": 0.0000013472736986674127,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(10, 10, 11)",
+        "normalized": "#0a0a0b",
+        "count": 1,
+        "usageFrac": 0.0005595970900951316,
+        "areaFrac": 0.0006980892115554843,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "80px (5.00rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "-3.2px",
+        "transform": null
+      },
+      {
+        "context": "display",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "68px (4.25rem)",
+        "weight": 400,
+        "lineHeight": "1.13",
+        "spacing": "-2.72px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "48px (3.00rem)",
+        "weight": 400,
+        "lineHeight": "1.13",
+        "spacing": "-1.92px",
+        "transform": null
+      },
+      {
+        "context": "heading-1",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "48px (3.00rem)",
+        "weight": 500,
+        "lineHeight": "1.13",
+        "spacing": "-1.92px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "44px (2.75rem)",
+        "weight": 400,
+        "lineHeight": "1.13",
+        "spacing": "-1.76px",
+        "transform": null
+      },
+      {
+        "context": "heading-3",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "40px (2.50rem)",
+        "weight": 400,
+        "lineHeight": "1.13",
+        "spacing": "-1.6px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "32px (2.00rem)",
+        "weight": 400,
+        "lineHeight": "1.25",
+        "spacing": "-1.28px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "28px (1.75rem)",
+        "weight": 500,
+        "lineHeight": "1.25",
+        "spacing": "-1.12px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "28px (1.75rem)",
+        "weight": 400,
+        "lineHeight": "1.25",
+        "spacing": "-1.12px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "24px (1.50rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.96px",
+        "transform": null
+      },
+      {
+        "context": "heading-1",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "24px (1.50rem)",
+        "weight": 400,
+        "lineHeight": "1.25",
+        "spacing": "-0.96px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "20px (1.25rem)",
+        "weight": 400,
+        "lineHeight": "1.38",
+        "spacing": "-0.5px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "20px (1.25rem)",
+        "weight": 400,
+        "lineHeight": "1.38",
+        "spacing": "-0.32px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "20px (1.25rem)",
+        "weight": 500,
+        "lineHeight": "1.38",
+        "spacing": "-0.8px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 4,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "18px (1.13rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.26px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 5,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "18px (1.13rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": "-0.36px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 11,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 5,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.32px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 600,
+        "lineHeight": "1.50",
+        "spacing": "-0.32px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 3,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "16px (1.00rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.32px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 4,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": "uppercase"
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "16px (1.00rem)",
+        "weight": 600,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": "uppercase"
+      },
+      {
+        "context": "ui",
+        "count": 12,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "15px (0.94rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": "-0.15px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "15px (0.94rem)",
+        "weight": 500,
+        "lineHeight": "1.13",
+        "spacing": "-0.3px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 6,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "14px (0.88rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.28px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 4,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "-0.28px",
+        "transform": null
+      },
+      {
+        "context": "mono",
+        "count": 2,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 4,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "13px (0.81rem)",
+        "weight": 400,
+        "lineHeight": "1.25",
+        "spacing": "-0.26px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 4,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "13px (0.81rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "0.26px",
+        "transform": "uppercase"
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "13px (0.81rem)",
+        "weight": 500,
+        "lineHeight": "1.50",
+        "spacing": "-0.26px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 2,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "13px (0.81rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "-0.26px",
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "12px (0.75rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": "uppercase"
+      },
+      {
+        "context": "heading-2",
+        "count": 2,
+        "family": "GeistMono",
+        "fallbacks": "ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New",
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "0.24px",
+        "transform": "uppercase"
+      },
+      {
+        "context": "caption",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "11px (0.69rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.275px",
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "10px (0.63rem)",
+        "weight": 500,
+        "lineHeight": "1.00",
+        "spacing": "-0.1px",
+        "transform": "uppercase"
+      },
+      {
+        "context": "caption",
+        "count": 2,
+        "family": "Inter",
+        "fallbacks": "Inter Fallback, ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji",
+        "size": "10px (0.63rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": null,
+        "transform": "uppercase"
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": false,
+      "urls": [
+        "https://neon.com/_next/static/immutable/media/83afe278b6a6bb3c-s.p.45535valc9rzk.woff2",
+        "https://neon.com/_next/static/immutable/media/ESBuild_Medium-s.p.02v7gii6v3bj8.woff2",
+        "https://neon.com/_next/static/immutable/media/GeistMono_Variable.p.1sg4ifey12l8-.woff2",
+        "https://neon.com/media/1bffadaabf893a1e-s.0szrwpqb9mkwe.woff2",
+        "https://neon.com/media/2bbe8d2671613f1f-s.1way2z9fj6cig.woff2",
+        "https://neon.com/media/2c55a0e60120577a-s.03ez25a9g3i0n.woff2",
+        "https://neon.com/media/5476f68d60460930-s.1ee5w62fj497l.woff2",
+        "https://neon.com/media/83afe278b6a6bb3c-s.p.45535valc9rzk.woff2",
+        "https://neon.com/media/9c72aa0f40e4eef8-s.3i9rha7jpxn0q.woff2",
+        "https://neon.com/media/ESBuild_Medium-s.p.02v7gii6v3bj8.woff2",
+        "https://neon.com/media/GeistMono_Variable.p.1sg4ifey12l8-.woff2",
+        "https://neon.com/media/ad66f9afd8947f86-s.2o7ko1d-5m1xu.woff2"
+      ],
+      "selfHostedFonts": [
+        "83afe278b6a6bb3c-s.p.45535valc9rzk.woff2",
+        "ESBuild_Medium-s.p.02v7gii6v3bj8.woff2",
+        "GeistMono-Regular.ttf",
+        "GeistMono_Variable.p.1sg4ifey12l8-.woff2",
+        "inter.ttf"
+      ],
+      "customFonts": [
+        "83afe278b6a6bb3c-s.p.45535valc9rzk.woff2",
+        "ESBuild_Medium-s.p.02v7gii6v3bj8.woff2",
+        "GeistMono-Regular.ttf",
+        "GeistMono_Variable.p.1sg4ifey12l8-.woff2",
+        "inter.ttf"
+      ]
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "1px",
+        "display": "1px",
+        "rem": "0.06rem",
+        "count": 217,
+        "numericValue": 1,
+        "frequency": 0
+      },
+      {
+        "px": "12px",
+        "display": "12px",
+        "rem": "0.75rem",
+        "count": 110,
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "px": "24px",
+        "display": "24px",
+        "rem": "1.50rem",
+        "count": 48,
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 40,
+        "numericValue": 10,
+        "frequency": 0
+      },
+      {
+        "px": "18px",
+        "display": "18px",
+        "rem": "1.13rem",
+        "count": 22,
+        "numericValue": 18
+      },
+      {
+        "px": "16px",
+        "display": "16px",
+        "rem": "1.00rem",
+        "count": 21,
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "px": "32px",
+        "display": "32px",
+        "rem": "2.00rem",
+        "count": 20,
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "px": "6px",
+        "display": "6px",
+        "rem": "0.38rem",
+        "count": 18,
+        "numericValue": 6,
+        "frequency": 0
+      },
+      {
+        "px": "2px",
+        "display": "2px",
+        "rem": "0.13rem",
+        "count": 12,
+        "numericValue": 2
+      },
+      {
+        "px": "8px",
+        "display": "8px",
+        "rem": "0.50rem",
+        "count": 10,
+        "numericValue": 8,
+        "frequency": 0
+      },
+      {
+        "px": "25px",
+        "display": "25px",
+        "rem": "1.56rem",
+        "count": 8,
+        "numericValue": 25,
+        "frequency": 0
+      },
+      {
+        "px": "80px",
+        "display": "80px",
+        "rem": "5.00rem",
+        "count": 8,
+        "numericValue": 80,
+        "frequency": 0
+      },
+      {
+        "px": "20px",
+        "display": "20px",
+        "rem": "1.25rem",
+        "count": 7,
+        "numericValue": 20,
+        "frequency": 0
+      },
+      {
+        "px": "28px",
+        "display": "28px",
+        "rem": "1.75rem",
+        "count": 6,
+        "numericValue": 28,
+        "frequency": 0
+      },
+      {
+        "px": "160px",
+        "display": "160px",
+        "rem": "10.00rem",
+        "count": 6,
+        "numericValue": 160,
+        "frequency": 0
+      },
+      {
+        "px": "36px",
+        "display": "36px",
+        "rem": "2.25rem",
+        "count": 5,
+        "numericValue": 36,
+        "frequency": 0
+      },
+      {
+        "px": "48px",
+        "display": "48px",
+        "rem": "3.00rem",
+        "count": 5,
+        "numericValue": 48,
+        "frequency": 0
+      },
+      {
+        "px": "64px",
+        "display": "64px",
+        "rem": "4.00rem",
+        "count": 5,
+        "numericValue": 64
+      },
+      {
+        "px": "40px",
+        "display": "40px",
+        "rem": "2.50rem",
+        "count": 5,
+        "numericValue": 40
+      },
+      {
+        "px": "240px",
+        "display": "240px",
+        "rem": "15.00rem",
+        "count": 4,
+        "numericValue": 240
+      },
+      {
+        "px": "9px",
+        "display": "9px",
+        "rem": "0.56rem",
+        "count": 4,
+        "numericValue": 9
+      },
+      {
+        "px": "14px",
+        "display": "14px",
+        "rem": "0.88rem",
+        "count": 3,
+        "numericValue": 14
+      },
+      {
+        "px": "56px",
+        "display": "56px",
+        "rem": "3.50rem",
+        "count": 2,
+        "numericValue": 56
+      },
+      {
+        "px": "384px",
+        "display": "384px",
+        "rem": "24.00rem",
+        "count": 1,
+        "numericValue": 384
+      },
+      {
+        "px": "4px",
+        "display": "4px",
+        "rem": "0.25rem",
+        "count": 1,
+        "numericValue": 4
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "4px",
+        "count": 146,
+        "elements": [
+          "button",
+          "a",
+          "menuitem"
+        ],
+        "confidence": "high",
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "value": "9999px",
+        "count": 17,
+        "elements": [
+          "a",
+          "button",
+          "span"
+        ],
+        "confidence": "high",
+        "numericValue": 9999,
+        "frequency": 0
+      },
+      {
+        "value": "5px",
+        "count": 2,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 5,
+        "frequency": 0
+      },
+      {
+        "value": "50%",
+        "count": 2,
+        "elements": [
+          "Expand image: Claimable Neon",
+          "Minimize image"
+        ],
+        "confidence": "low",
+        "numericValue": 50
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(48, 50, 54)",
+        "count": 11,
+        "elements": [
+          "ul",
+          "div",
+          "input",
+          "img",
+          "pre"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid",
+        "color": "rgb(48, 50, 54)",
+        "count": 9,
+        "elements": [
+          "div",
+          "footer",
+          "hr",
+          "card"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(73, 75, 80)",
+        "count": 8,
+        "elements": [
+          "span",
+          "code"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(97, 100, 107)",
+        "count": 4,
+        "elements": [
+          "a"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "solid",
+        "color": "rgb(48, 50, 54)",
+        "count": 4,
+        "elements": [
+          "a",
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(24, 25, 27)",
+        "count": 3,
+        "elements": [
+          "menuitem",
+          "button"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "0px 0px 0px 1px",
+        "style": "solid",
+        "color": "rgb(121, 125, 134)",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "2px",
+        "style": "solid",
+        "color": "rgb(0, 0, 0)",
+        "count": 2,
+        "elements": [
+          "img"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px 1px 1px 0px",
+        "style": "solid",
+        "color": "rgb(24, 25, 27)",
+        "count": 1,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid",
+        "color": "rgb(24, 25, 27)",
+        "count": 1,
+        "elements": [
+          "img"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "solid",
+        "color": "rgb(24, 25, 27)",
+        "count": 1,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "0px 0px 0px 2px",
+        "style": "solid",
+        "color": "rgb(52, 213, 154)",
+        "count": 1,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid",
+        "color": "lab(15.0112 -0.558794 -1.66059 / 0.7)",
+        "count": 1,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(100 -0.0000298023 0.0000119209 / 0.05) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "count": 5,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(48, 50, 54) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "count": 4,
+      "confidence": "medium"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.4) 0px 8px 20px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(255, 255, 255, 0.5) 0px 0px 1px 0px",
+      "count": 2,
+      "confidence": "low"
+    }
+  ],
+  "gradients": [
+    {
+      "gradient": "linear-gradient(rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(0, 0, 0, 0)",
+        "rgb(0, 0, 0)"
+      ],
+      "count": 1
+    },
+    {
+      "gradient": "linear-gradient(90deg, rgba(57, 165, 125, 0.6) 50%, rgba(0, 0, 0, 0) 50%)",
+      "type": "linear",
+      "stopColors": [
+        "rgba(57, 165, 125, 0.6)",
+        "rgba(0, 0, 0, 0)"
+      ],
+      "count": 1
+    }
+  ],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.15s",
+        "ms": 150,
+        "count": 8
+      },
+      {
+        "value": "0.2s",
+        "ms": 200,
+        "count": 216
+      },
+      {
+        "value": "0.3s",
+        "ms": 300,
+        "count": 12
+      }
+    ],
+    "easings": [
+      {
+        "value": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "type": "custom",
+        "count": 236
+      },
+      {
+        "value": "ease",
+        "type": "ease",
+        "count": 4
+      }
+    ],
+    "animations": [
+      {
+        "name": "infinityScroll",
+        "duration": "60s",
+        "easing": "linear",
+        "count": 4,
+        "contexts": [
+          "other"
+        ]
+      }
+    ],
+    "contexts": {
+      "button": {
+        "count": 7,
+        "durations": [
+          "0.2s"
+        ],
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "easingType": "custom",
+        "props": [
+          "color",
+          "background-color",
+          "border-color",
+          "outline-color"
+        ]
+      },
+      "link": {
+        "count": 43,
+        "durations": [
+          "0.2s"
+        ],
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "easingType": "custom",
+        "props": [
+          "color",
+          "background-color",
+          "border-color",
+          "outline-color"
+        ]
+      },
+      "nav": {
+        "count": 7,
+        "durations": [
+          "0.3s",
+          "0.2s"
+        ],
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "easingType": "custom",
+        "props": [
+          "height",
+          "opacity"
+        ]
+      }
+    },
+    "interactiveDeltas": [
+      {
+        "tag": "button",
+        "text": "Solutions",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(175, 177, 182)",
+            "to": "rgb(255, 255, 255)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Docs",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(175, 177, 182)",
+            "to": "rgb(255, 255, 255)"
+          }
+        }
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(175, 177, 182)",
+            "to": "rgb(255, 255, 255)"
+          }
+        }
+      },
+      {
+        "tag": "button",
+        "text": "Resources",
+        "pattern": "color-shift",
+        "delta": {
+          "color": {
+            "from": "rgb(175, 177, 182)",
+            "to": "rgb(255, 255, 255)"
+          }
+        }
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 18px",
+            "borderRadius": "3.35544e+07px",
+            "border": "0px solid rgb(0, 0, 0)",
+            "fontSize": "14px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "14px",
+        "text": "Sign up",
+        "confidence": "high",
+        "count": 2
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "0px 18px",
+            "borderRadius": "3.35544e+07px",
+            "border": "1px solid rgb(97, 100, 107)",
+            "fontSize": "14px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "14px",
+        "text": "Log in",
+        "confidence": "medium",
+        "count": 2
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(228, 241, 235)",
+            "color": "rgb(19, 20, 21)",
+            "padding": "0px 16px",
+            "borderRadius": "0px",
+            "border": "0px solid rgb(19, 20, 21)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "$ npx neon init",
+        "confidence": "high",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(24, 25, 27)",
+            "padding": "12px 16px",
+            "borderRadius": "0px",
+            "border": "1px solid rgb(24, 25, 27)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "Avoid incidents",
+        "confidence": "high",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(228, 241, 235)",
+            "color": "lab(8.70976 -0.0961721 -1.58281 / 0.8)",
+            "padding": "12px 16px",
+            "borderRadius": "0px",
+            "border": "1px 1px 1px 0px solid rgb(24, 25, 27)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "Save costs",
+        "confidence": "high",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(52, 213, 154)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 28px",
+            "borderRadius": "3.35544e+07px",
+            "border": "0px solid rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "$ npx neon init",
+        "confidence": "high",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(26, 26, 26)",
+            "padding": "0px 28px",
+            "borderRadius": "3.35544e+07px",
+            "border": "0px solid rgb(26, 26, 26)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "Get started",
+        "confidence": "medium",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(255, 255, 255, 0.02)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "0px 28px",
+            "borderRadius": "3.35544e+07px",
+            "border": "1px solid rgb(97, 100, 107)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "text": "Read the docs",
+        "confidence": "medium",
+        "count": 1
+      }
+    ],
+    "inputs": {
+      "text": [
+        {
+          "specificType": "email",
+          "states": {
+            "default": {
+              "backgroundColor": "lab(6.2494 -0.260212 -0.786054 / 0.6)",
+              "color": "rgb(255, 255, 255)",
+              "border": "1px solid rgb(48, 50, 54)",
+              "borderRadius": "3.35544e+07px",
+              "padding": "0px 48px 0px 16px",
+              "boxShadow": "none",
+              "outline": "rgb(255, 255, 255) none 3px"
+            },
+            "focus": null
+          },
+          "count": 1
+        }
+      ],
+      "checkbox": [],
+      "radio": [],
+      "select": []
+    },
+    "links": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(148, 151, 158)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(148, 151, 158)",
+            "textDecoration": "underline"
+          },
+          "hover": null
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "textDecoration": "none",
+        "fontWeight": "500",
+        "states": {
+          "default": {
+            "color": "rgb(0, 0, 0)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(121, 125, 134)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(121, 125, 134)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(228, 229, 231)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(228, 229, 231)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(26, 26, 26)",
+        "textDecoration": "none",
+        "fontWeight": "500",
+        "states": {
+          "default": {
+            "color": "rgb(26, 26, 26)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(100, 141, 255)",
+        "textDecoration": "none",
+        "fontWeight": "500",
+        "states": {
+          "default": {
+            "color": "rgb(100, 141, 255)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(175, 177, 182)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(175, 177, 182)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(0, 229, 153)",
+        "textDecoration": "none",
+        "fontWeight": "500",
+        "states": {
+          "default": {
+            "color": "rgb(0, 229, 153)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        },
+        "count": 1
+      }
+    ],
+    "badges": {
+      "all": [],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": []
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "1919px"
+    },
+    {
+      "px": "1599px"
+    },
+    {
+      "px": "1279px"
+    },
+    {
+      "px": "1023px"
+    },
+    {
+      "px": "767px"
+    },
+    {
+      "px": "413px"
+    }
+  ],
+  "iconSystem": [],
+  "frameworks": [
+    {
+      "name": "Tailwind CSS",
+      "confidence": "high",
+      "evidence": "arbitrary values (e.g., top-[117px]), responsive/state modifiers"
+    },
+    {
+      "name": "Headless UI",
+      "confidence": "high",
+      "evidence": "3 headless components with Tailwind"
+    }
+  ],
+  "wcag": [
+    {
+      "fg": "#ffffff",
+      "bg": "#000000",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 351
+    },
+    {
+      "fg": "#000000",
+      "bg": "#e4f1eb",
+      "ratio": 18.08,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 152
+    },
+    {
+      "fg": "#94979e",
+      "bg": "#000000",
+      "ratio": 7.18,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 125
+    },
+    {
+      "fg": "#242628",
+      "bg": "#e4f1eb",
+      "ratio": 13.07,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 37
+    },
+    {
+      "fg": "#d7d8db",
+      "bg": "#000000",
+      "ratio": 14.73,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 37
+    },
+    {
+      "fg": "#797d86",
+      "bg": "#000000",
+      "ratio": 5.09,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 33
+    },
+    {
+      "fg": "#ffed9c",
+      "bg": "#000000",
+      "ratio": 17.85,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 24
+    },
+    {
+      "fg": "#61646b",
+      "bg": "#000000",
+      "ratio": 3.54,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 12
+    },
+    {
+      "fg": "#94979e",
+      "bg": "#afb1b6",
+      "ratio": 1.36,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 10
+    },
+    {
+      "fg": "#afb1b6",
+      "bg": "#000000",
+      "ratio": 9.79,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 10
+    },
+    {
+      "fg": "#f7b983",
+      "bg": "#000000",
+      "ratio": 12.22,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 7
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#111315",
+      "ratio": 18.62,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 5
+    },
+    {
+      "fg": "#285d49",
+      "bg": "#cae6d9",
+      "ratio": 5.75,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 5
+    },
+    {
+      "fg": "#61646b",
+      "bg": "#e4f1eb",
+      "ratio": 5.1,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 4
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#18191b",
+      "ratio": 17.59,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#0a0a0b",
+      "ratio": 19.79,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#e4e5e7",
+      "bg": "#0a0a0b",
+      "ratio": 15.7,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 4
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#303236",
+      "ratio": 12.84,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#c9cbcf",
+      "bg": "#000000",
+      "ratio": 12.93,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#648dff",
+      "bg": "#000000",
+      "ratio": 6.8,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 3
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#181818",
+      "ratio": 17.76,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#1a1a1a",
+      "bg": "#ffffff",
+      "ratio": 17.4,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#131415",
+      "bg": "#e4f1eb",
+      "ratio": 15.88,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#303236",
+      "bg": "#e4f1eb",
+      "ratio": 11.06,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#151617",
+      "ratio": 18.12,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#afb1b6",
+      "bg": "#18191b",
+      "ratio": 8.2,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#00e599",
+      "ratio": 1.66,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#494b50",
+      "bg": "#e4f1eb",
+      "ratio": 7.52,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#414445",
+      "bg": "#e4f1eb",
+      "ratio": 8.46,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#e4f1eb",
+      "ratio": 1.16,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 1
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#1a1b1c",
+      "ratio": 17.25,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#000000",
+      "bg": "#34d59a",
+      "ratio": 11.13,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#34d59a",
+      "bg": "#131415",
+      "ratio": 9.78,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#d7d8db",
+      "bg": "#131415",
+      "ratio": 12.94,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#131415",
+      "ratio": 18.44,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#0b0c0d",
+      "ratio": 19.58,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#9fa1a5",
+      "bg": "#0b0c0d",
+      "ratio": 7.57,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#0c0d0d",
+      "bg": "#ffffff",
+      "ratio": 19.46,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#c9cbcf",
+      "bg": "#303236",
+      "ratio": 7.91,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#00e599",
+      "bg": "#000000",
+      "ratio": 12.67,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#000000",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#000000",
+      "ratio": 21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "button",
+      "source": "state"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://neon.com/",
+      "extractedAt": "2026-09-12T11:01:10.704Z"
+    },
+    {
+      "url": "https://neon.com/blog/an-agent-provisions-a-neon-backend-a-human-claims-it-later",
+      "extractedAt": "2026-09-12T11:01:43.326Z"
+    }
+  ]
+}

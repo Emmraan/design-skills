@@ -33,6 +33,7 @@
 | matters | agency | dark-expressive | dark | work-led |
 | mavenclinic | healthcare | editorial-warm | light | split-hero |
 | mobbin | saas | minimal-clean | light | centered-hero |
+| neon | developer-tools | mint-dark | dark | product-funnel |
 | onemedical | healthcare | warm-clinical | light | care-funnel |
 | openship | developer-tools | aurora-dark | dark | product-funnel |
 | phantom | crypto | friendly-crypto | light | download-led |
