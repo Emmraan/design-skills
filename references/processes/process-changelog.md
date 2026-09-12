@@ -3,6 +3,15 @@
 > Append-only. Every playbook change cites its evidence. Latest entry matches
 > the playbook `version`.
 
+## v1.2.1 — 2026-09-12 (composition protocol)
+
+- New playbook section "Composing a surface with no annex": nearest-annex
+  mapping + full core phases at provisional grade + mandatory gates +
+  synthesis-note mapping + promotion trigger (second need → dedicated annex).
+- Rationale: agents using this skill on unlisted surfaces must compose inside
+  the playbook, never improvise outside it. Derived from existing evidence
+  (patch bump, no new runs).
+
 ## v1.2.0 — 2026-09-12 (dashboard annex)
 
 - Distilled from dashboard briefs E (Helpdeskly ops, light) + F (Ledgerline

@@ -1,6 +1,6 @@
 # UI Build Playbook — Frontier Process for Original, Human UI
 
-> version: 1.2.0 · updated: 2026-09-12
+> version: 1.2.1 · updated: 2026-09-12
 > evidence-from: claude-v1.md, astra-v1.md (3 landing briefs × 2 families) +
 > GLM-5.3 A/B gate (brief D) + dashboard briefs E/F × both families
 > (output-conformance checked; models worked from distilled recaps after
@@ -245,3 +245,23 @@ exception-driven work surface). Core phases hold; these rules specialize them.
 Astra's settings rows (mental-model grouping, consequence disclosure,
 save-state clarity) remain recorded in `astra-v1.md` signal 12, unconfirmed.
 Sidebar/nav-shell and profile await their briefs.
+
+## Composing a surface with no annex (mandatory protocol)
+
+If the surface you must build has no annex above, do NOT improvise outside
+this playbook. Compose it:
+
+1. **Pick the nearest annexes.** Map the surface to composed patterns, e.g.
+   date-picker → dashboard ordering + table discipline + detail actions;
+   in-app comments → detail panel + feedback states; pricing-as-app → billing
+   logic + list discipline; search results → table discipline + empty states.
+2. **Run all 6 core phases** with the composed rules treated as provisional
+   (`single`-grade at best — say so in your synthesis note).
+3. **De-AI pass and review-checklist gates are non-negotiable** — composition
+   never exempts copy, design-tell, or state-coverage gates.
+4. **Record the mapping and its gaps** in your synthesis note: which annex
+   gave which logic, what the composition couldn't cover.
+5. **Promotion trigger:** when the same unlisted pattern is needed by a second
+   surface, stop composing and propose a dedicated annex (new briefs → both
+   families → distill + changelog, same as A16–A21 were born). Log the
+   proposal in `process-changelog.md` even before the annex exists.
