@@ -407,6 +407,16 @@
         }
       ]
     },
+    "mono-minimal": {
+      "sites": [
+        {
+          "slug": "vercel",
+          "name": "Vercel",
+          "industry": "developer-tools",
+          "theme": "dual"
+        }
+      ]
+    },
     "immersive-dark": {
       "sites": [
         {

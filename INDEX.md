@@ -48,6 +48,7 @@
 | tasteskill | developer-tools | warm-paper | light | docs-led |
 | tavily | ai | cream-search | light | single-landing |
 | udemy | education | bold-marketplace | light | split-hero |
+| vercel | developer-tools | mono-minimal | dual | product-funnel |
 | vita-travel | travel | immersive-dark | dark | centered-hero |
 | wispr | ai | editorial-playful | dark | split-hero |
 

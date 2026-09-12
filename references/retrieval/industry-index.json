@@ -266,6 +266,12 @@
           "name": "Taste Skill",
           "style": "warm-paper",
           "theme": "light"
+        },
+        {
+          "slug": "vercel",
+          "name": "Vercel",
+          "style": "mono-minimal",
+          "theme": "dual"
         }
       ]
     },

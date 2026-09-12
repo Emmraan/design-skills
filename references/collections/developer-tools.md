@@ -19,6 +19,7 @@ is a component, not a code sample.
 | Coolify | `coolify` | Self-host populism; amber-on-dark; contributors-as-page; philosophy-as-trust |
 | Dokploy | `dokploy` | Systems-first self-host; midnight zinc; mega-nav depth; landing-as-dashboard |
 | Neon | `neon` | Friendly data infra; mint-as-surface; email-pill capture; ambient scroll |
+| Vercel | `vercel` | Monochrome deploy funnel; one-blue discipline; lifecycle state hues; pill/square CTA semantics |
 
 Linear is the dark product-led pole, Taste Skill the light docs-led pole, Openship the
 expressive-motion pole — synthesize **launch drama** from one with **documentation

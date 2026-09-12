@@ -1,0 +1,16 @@
+{
+  "slug": "vercel",
+  "name": "Vercel",
+  "source-url": "https://vercel.com/",
+  "industry": "developer-tools",
+  "style": "mono-minimal",
+  "layout": "product-funnel",
+  "theme": "dual",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "35AC30E26766"
+}

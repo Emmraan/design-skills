@@ -162,6 +162,10 @@
           "take": "statement headline (56px) + prominent search + supporting visual"
         },
         {
+          "slug": "vercel",
+          "take": "commitment split above the fold"
+        },
+        {
           "slug": "vita-travel",
           "take": "60px tracked display statement + primary pill CTA over dark canvas (0.2s ease-in motion)"
         },
@@ -316,6 +320,10 @@
           "take": "capability scan"
         },
         {
+          "slug": "vercel",
+          "take": "social proof as motion, not grid"
+        },
+        {
           "slug": "wispr",
           "take": "logo row / stats on dark"
         }
@@ -401,6 +409,10 @@
           "take": "topic index (`/featured-topics/`) for SEO + discovery depth"
         },
         {
+          "slug": "vercel",
+          "take": "show, don't tell"
+        },
+        {
           "slug": "wispr",
           "take": "how dictation works (split, visual-led)"
         }
@@ -448,6 +460,10 @@
         {
           "slug": "ramp",
           "take": "large numbers with accent key figure"
+        },
+        {
+          "slug": "vercel",
+          "take": "deploy narrative in color"
         }
       ]
     },
@@ -582,6 +598,10 @@
         {
           "slug": "udemy",
           "take": "lavender-tint subscription pitch with feature icons"
+        },
+        {
+          "slug": "vercel",
+          "take": "evaluation depth kept off the homepage"
         }
       ]
     },
@@ -756,6 +776,10 @@
         {
           "slug": "udemy",
           "take": "dark ink (`#202230`), multi-column links, muted slate meta"
+        },
+        {
+          "slug": "vercel",
+          "take": "docs-depth close"
         },
         {
           "slug": "vita-travel",
