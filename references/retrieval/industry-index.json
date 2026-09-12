@@ -171,6 +171,34 @@
         "product-first chrome from Mobbin"
       ]
     },
+    "ai": {
+      "sites": [
+        {
+          "slug": "context7",
+          "name": "Context7",
+          "style": "emerald-stone",
+          "theme": "light"
+        },
+        {
+          "slug": "sendr",
+          "name": "Sendr",
+          "style": "minimal-clean",
+          "theme": "light"
+        },
+        {
+          "slug": "wispr",
+          "name": "Wispr",
+          "style": "editorial-playful",
+          "theme": "dark"
+        }
+      ],
+      "pattern": "references/patterns/ai-product.md",
+      "collection": "references/collections/ai.md",
+      "borrow": [
+        "demo as hero from Wispr",
+        "real AI outputs + clarity over hype from Sendr"
+      ]
+    },
     "developer-tools": {
       "sites": [
         {
@@ -268,28 +296,6 @@
           "style": "clinical-utility",
           "theme": "light"
         }
-      ]
-    },
-    "ai": {
-      "sites": [
-        {
-          "slug": "sendr",
-          "name": "Sendr",
-          "style": "minimal-clean",
-          "theme": "light"
-        },
-        {
-          "slug": "wispr",
-          "name": "Wispr",
-          "style": "editorial-playful",
-          "theme": "dark"
-        }
-      ],
-      "pattern": "references/patterns/ai-product.md",
-      "collection": "references/collections/ai.md",
-      "borrow": [
-        "demo as hero from Wispr",
-        "real AI outputs + clarity over hype from Sendr"
       ]
     }
   }

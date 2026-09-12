@@ -102,6 +102,16 @@
         }
       ]
     },
+    "emerald-stone": {
+      "sites": [
+        {
+          "slug": "context7",
+          "name": "Context7",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ]
+    },
     "amber-dark": {
       "sites": [
         {

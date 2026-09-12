@@ -1,0 +1,16 @@
+{
+  "slug": "context7",
+  "name": "Context7",
+  "source-url": "https://context7.com/",
+  "industry": "ai",
+  "style": "emerald-stone",
+  "layout": "docs-led",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "6C9164C1B5D5"
+}

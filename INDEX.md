@@ -15,6 +15,7 @@
 | bybit | crypto | pro-trading-dark | dark | product-grid-funnel |
 | clickup | saas | bold-vibrant | light | centered-hero |
 | coinbase | crypto | clean-confident | light | split-hero |
+| context7 | ai | emerald-stone | light | docs-led |
 | coolify | developer-tools | amber-dark | dark | product-funnel |
 | coursera | education | institutional-blue | light | catalog-led |
 | dokploy | developer-tools | midnight-zinc | dark | product-funnel |
