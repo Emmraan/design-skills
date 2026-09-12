@@ -3,6 +3,22 @@
 > Append-only. Every playbook change cites its evidence. Latest entry matches
 > the playbook `version`.
 
+## v1.4.0 — 2026-09-13 (sidebar / nav-shell annex)
+
+- Distilled from nav-shell briefs I (Helpdeskly ops nav, light) + J
+  (Ledgerline finance nav, dark) × Claude + Astra (4 outputs,
+  output-conformance checked — STRONG both families, zero contested).
+- Models worked from distilled recap blocks (original chats deleted) —
+  third validation of recap-transfer as a method.
+- ~20 nav-shell rules: frequency-first grouping, topbar job order,
+  command-palette discipline (grouped initial view, destructive routing,
+  permission filtering), deep-view-only breadcrumbs, collapse honesty
+  (order/active/focus survive, persisted, never auto-collapse),
+  hide-don't-tease permissions with draft-preserving revocation, shell
+  mobile (modal drawer, header scope, sheet palette, no FAB).
+- Profile rows await their briefs.
+- Evidence: output/sidebar/* (extraction cache, consumed).
+
 ## v1.3.0 — 2026-09-13 (settings annex)
 
 - Distilled from settings briefs G (Helpdeskly team + access, light) + H

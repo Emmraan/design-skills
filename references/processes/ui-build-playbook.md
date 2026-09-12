@@ -1,9 +1,9 @@
 # UI Build Playbook — Frontier Process for Original, Human UI
 
-> version: 1.3.0 · updated: 2026-09-13
+> version: 1.4.0 · updated: 2026-09-13
 > evidence-from: claude-v1.md, astra-v1.md (3 landing briefs × 2 families) +
 > GLM-5.3 A/B gate (brief D) + dashboard briefs E/F × both families +
-> settings briefs G/H × both families
+> settings briefs G/H × both families + nav-shell briefs I/J × both families
 > (output-conformance checked; models worked from distilled recaps after
 > original chats were deleted — recap-transfer validated by strong conformance)
 >
@@ -331,9 +331,98 @@ to `both-confirm`.
   destructive actions stay separated with identical gates
   [`both-confirm`].
 
-## Surface annexes — Sidebar/nav-shell, profile (later)
+## Sidebar / nav-shell annex
 
-Sidebar/nav-shell and profile await their briefs.
+Distilled from nav-shell briefs I (Helpdeskly ops nav, light) + J
+(Ledgerline finance nav, dark) × Claude + Astra (4 outputs,
+output-conformance checked — STRONG both families, zero contested, De-AI
+clean). Both families refuse spectacle in the shell: no glow/glass/neon,
+no floating collages, no welcome heroes, no bell-for-its-own-sake.
+
+### Grouping and ordering
+
+- Order by frequency of use, config last: daily work first (inbox,
+  transactions), insight second (reports, approvals), administration last
+  in its own area — infrequent controls never sit beside daily ones
+  [`both-confirm`].
+- Groups answer ordered questions: where am I, what needs attention, where
+  do I manage [`both-confirm`].
+- Workspace/entity switcher sits topmost below the mark; help + user live
+  in the footer, never in the work path [`both-confirm`].
+
+### Topbar jobs
+
+- One context strip: toggle, search, scope, utilities — in that order. The
+  topbar answers which workspace/scope is active, whether retrieval works,
+  and whether a system condition exists [`both-confirm`].
+- Scope (inbox filter, legal entity, period) stays visible exactly where it
+  changes results; period pickers appear only on datasets a period affects
+  and never silently override page-local filters [`both-confirm`].
+- Alerts exist only if actionable — otherwise the bell is omitted, not
+  decorated [`both-confirm`].
+
+### Command-palette discipline
+
+- Palette opens from search + shortcut, focused back on close. Never a
+  blank state with illustration — initial view is recent destinations and
+  common commands, grouped (Recent / Jump / Records / Commands)
+  [`both-confirm`].
+- Destructive commands never execute directly; they route to confirmation
+  [`both-confirm`].
+- Permission-filtered results: sensitive titles hidden by role, with an
+  honest "some results unavailable" note — never disabled bait
+  [`both-confirm`].
+- Loading preserves group structure; Esc returns focus to the trigger
+  [`single-Astra`].
+
+### Breadcrumb rules
+
+- Breadcrumbs appear on deep views only (`Inbox / Billing Escalations /
+  Conversation #48291`), never on top-level landings [`both-confirm`].
+- Ancestors are links, current page is plain text; long names truncate
+  preserving IDs and distinguishing words, full text on hover/focus/title
+  [`both-confirm`].
+- On mobile the breadcrumb collapses to a back control + title, never a
+  wrapped trail [`both-confirm`].
+
+### Collapse honesty
+
+- Collapsed rail preserves order, active state, focus order, and tooltips;
+  active indicator and accessible names survive the collapse
+  [`both-confirm`].
+- Icons never stand alone without proven recognition — uncertain icons keep
+  text; rail tooltips supplement, never become the only route
+  [`both-confirm`].
+- Preference persists per user/device; never auto-collapse while the user
+  is actively navigating [`both-confirm`].
+- Counts on the rail keep their defined meaning — never floating badges
+  [`single-Astra`].
+
+### Permission filtering
+
+- Default hide, never disable-tease: inaccessible areas are omitted from
+  sidebar and palette alike [`both-confirm`].
+- Direct links to denied areas land on an access page ("You don't have
+  access to Reports") with a return action and a request path only if real
+  — never a fake "request sent" [`both-confirm`].
+- Never leak title, identity, metadata, or counts of hidden items
+  [`both-confirm`].
+- Mid-session revocation preserves unsaved work (copy-changes escape hatch)
+  and redirects — never silent discard [`both-confirm`].
+
+### Shell mobile
+
+- Below small breakpoints there is no persistent sidebar: menu button +
+  current location + search; the drawer is modal, focus-trapped, and closes
+  on select [`both-confirm`].
+- Scope stays in the page header — never hidden behind a generic menu
+  [`both-confirm`].
+- Palette becomes a full-height sheet with autofocus; no universal FAB and
+  no permanent bottom nav across roles [`both-confirm`].
+
+## Surface annexes — Profile (later)
+
+Profile awaits its briefs.
 
 ## Composing a surface with no annex (mandatory protocol)
 

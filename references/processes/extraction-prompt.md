@@ -115,3 +115,32 @@ Save outputs as `output/settings/claude-settings-G.txt`,
 `output/settings/astra-settings-H.txt` (2 briefs × 2 models = 4 runs).
 Distillation promoted settings rows to `both-confirm` in playbook v1.3.0;
 sidebar/profile rows await their briefs.
+
+## Standard v4 briefs (sidebar / nav-shell — one surface at a time, same protocol)
+
+Run each brief on BOTH models in fresh chats. Instruction line to prepend:
+"Apply the UI process you described earlier in this chat. Full nav-shell
+direction with copy, states, and responsive behavior — no code."
+
+- **Brief I (ops nav, light):** App nav-shell for Helpdeskly (same product
+  world as v2 Brief E / v3 Brief G). Light theme, calm-dense tone. Must
+  cover: sidebar grouping + ordering, topbar (search/scope/context),
+  command palette, breadcrumbs, collapse behavior, permission-filtered
+  items, keyboard + reduced-motion notes.
+- **Brief J (finance nav, dark):** App nav-shell for fictional Ledgerline
+  (same product world as v1 Brief C / v2 Brief F / v3 Brief H). Dark theme,
+  precise tone. Must cover: dense sidebar with role-based visibility,
+  topbar + global search entry, command palette, breadcrumbs, collapse +
+  icon-rail states, permission-filtered items, mobile nav recomposition,
+  reduced-motion notes.
+
+Save outputs as `output/sidebar/claude-sidebar-I.txt`,
+`output/sidebar/claude-sidebar-J.txt`,
+`output/sidebar/astra-sidebar-I.txt`,
+`output/sidebar/astra-sidebar-J.txt` (2 briefs × 2 models = 4 runs).
+Distillation target: sidebar/nav-shell annex (grouping + ordering, topbar
+jobs, palette discipline, collapse honesty, permission filtering) graded
+`both-confirm` only on cross-family conformance — promoted in playbook
+v1.4.0; profile rows await their briefs. If the original process chat was deleted, precede each brief with
+the family-specific recap block (see chat history) instead of the
+"described earlier" line.
