@@ -22,6 +22,10 @@
           "take": "centered statement type + product/visual + black pill CTA"
         },
         {
+          "slug": "bybit",
+          "take": "power-on first impression"
+        },
+        {
           "slug": "clickup",
           "take": "huge type statement + product UI visual + CTA"
         },
@@ -512,6 +516,10 @@
         {
           "slug": "assembly",
           "take": "muted, legal links"
+        },
+        {
+          "slug": "bybit",
+          "take": "regulation as ambience"
         },
         {
           "slug": "clickup",

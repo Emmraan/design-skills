@@ -12,6 +12,7 @@
 | aman | hospitality | serene-luxury | light | editorial-destinations |
 | apple | ecommerce | premium-minimal | light | banded-showcase |
 | assembly | fintech | minimal-clean | light | centered-hero |
+| bybit | crypto | pro-trading-dark | dark | product-grid-funnel |
 | clickup | saas | bold-vibrant | light | centered-hero |
 | coinbase | crypto | clean-confident | light | split-hero |
 | flyward | hospitality | editorial-luxury | light | centered-hero |

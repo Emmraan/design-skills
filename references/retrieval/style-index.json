@@ -71,6 +71,16 @@
       ],
       "signature": "quiet chrome, generous whitespace, one accent, product-first clarity"
     },
+    "pro-trading-dark": {
+      "sites": [
+        {
+          "slug": "bybit",
+          "name": "Bybit",
+          "industry": "crypto",
+          "theme": "dark"
+        }
+      ]
+    },
     "bold-vibrant": {
       "sites": [
         {

@@ -17,6 +17,7 @@ unit is a signup field beside one pill button — never break that adjacency.
 |---|---|---|
 | Coinbase | `coinbase` | Blue-chip trust; mono-shape pill CTAs; field + pill conversion unit; compliance-as-design |
 | Phantom | `phantom` | Friendly self-custody; cream/grape warmth-as-security; loud focus rings; expo-lift download CTAs |
+| Bybit | `bybit` | Pro-trading dark terminal; market-semantic colors; tnum figures; vertical-per-page funnels |
 
 Coinbase is the seed crypto reference; pair it with **fintech references**
 (FundingPips for number-hero energy, Ramp for institutional restraint) and
