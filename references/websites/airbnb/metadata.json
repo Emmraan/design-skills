@@ -1,0 +1,16 @@
+{
+  "slug": "airbnb",
+  "name": "Airbnb",
+  "source-url": "https://www.airbnb.co.in/",
+  "industry": "travel",
+  "style": "warm-marketplace",
+  "layout": "card-grid-search",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "FD1E75C64FC0"
+}

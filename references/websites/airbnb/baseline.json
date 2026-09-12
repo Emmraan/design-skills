@@ -1,0 +1,2372 @@
+{
+  "url": "https://www.airbnb.co.in/login?redirect_url=%2Fbecome-a-host",
+  "extractedAt": "2026-09-12T08:20:15.598Z",
+  "meta": {
+    "snapshotId": "332ef8d5-543a-42ec-b880-b205ffbf2f1d",
+    "httpStatus": 200,
+    "dembrandtVersion": "0.32.2",
+    "schemaVersion": "1.12.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": true,
+    "requestedUrl": "https://www.airbnb.co.in/",
+    "contentLength": 374476,
+    "flags": {},
+    "crawl": {
+      "technique": "auto",
+      "pagesRequested": 5,
+      "pagesFound": 5
+    }
+  },
+  "siteName": "Airbnb",
+  "logo": {
+    "source": "svg",
+    "context": "header",
+    "inline": true,
+    "url": "https://www.airbnb.co.in/",
+    "color": "#ff385c",
+    "ariaLabel": null,
+    "markup": "<svg width=\"102\" height=\"32\" viewBox=\"0 0 3490 1080\" style=\"display: block; color: rgb(255, 56, 92);\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1494.71 456.953C1458.28 412.178 1408.46 389.892 1349.68 389.892C1233.51 389.892 1146.18 481.906 1146.18 605.892C1146.18 729.877 1233.51 821.892 1349.68 821.892C1408.46 821.892 1458.28 799.605 1494.71 754.83L1500.95 810.195H1589.84V401.588H1500.95L1494.71 456.953ZM1369.18 736.895C1295.33 736.895 1242.08 683.41 1242.08 605.892C1242.08 528.373 1295.33 474.888 1369.18 474.888C1443.02 474.888 1495.49 529.153 1495.49 605.892C1495.49 682.63 1443.8 736.895 1369.18 736.895ZM1656.11 810.195H1750.46V401.588H1656.11V810.195ZM948.912 666.715C875.618 506.859 795.308 344.664 713.438 184.809C698.623 155.177 670.554 98.2527 645.603 67.8412C609.736 24.1733 556.715 0.779785 502.915 0.779785C449.115 0.779785 396.094 24.1733 360.227 67.8412C335.277 98.2527 307.207 155.177 292.392 184.809C210.522 344.664 130.212 506.859 56.9187 666.715C47.5621 687.769 24.9504 737.675 16.3736 760.289C6.2373 787.581 0.779297 817.213 0.779297 846.845C0.779297 975.509 101.362 1079.22 235.473 1079.22C346.193 1079.22 434.3 1008.26 502.915 934.18C571.53 1008.26 659.638 1079.22 770.357 1079.22C904.468 1079.22 1005.83 975.509 1005.83 846.845C1005.83 817.213 999.593 787.581 989.457 760.289C980.88 737.675 958.268 687.769 948.912 666.715ZM502.915 810.195C447.555 738.455 396.094 649.56 396.094 577.819C396.094 506.079 446.776 470.209 502.915 470.209C559.055 470.209 610.516 508.419 610.516 577.819C610.516 647.22 558.275 738.455 502.915 810.195ZM770.357 998.902C688.362 998.902 618.032 941.557 555.741 872.656C619.966 792.541 690.826 679.121 690.826 577.819C690.826 458.513 598.04 389.892 502.915 389.892C407.79 389.892 315.784 458.513 315.784 577.819C315.784 679.098 386.145 792.478 450.144 872.593C387.845 941.526 317.491 998.902 235.473 998.902C146.586 998.902 81.0898 931.061 81.0898 846.845C81.0898 826.57 84.2087 807.856 91.2261 788.361C98.2436 770.426 120.855 720.52 130.212 701.025C203.505 541.17 282.256 380.534 364.126 220.679C378.941 191.047 403.891 141.921 422.605 119.307C442.877 94.3538 470.947 81.0975 502.915 81.0975C534.883 81.0975 562.953 94.3538 583.226 119.307C601.939 141.921 626.89 191.047 641.704 220.679C723.574 380.534 802.325 541.17 875.618 701.025C884.975 720.52 907.587 770.426 914.604 788.361C921.622 807.856 925.52 826.57 925.52 846.845C925.52 931.061 859.244 998.902 770.357 998.902ZM3285.71 389.892C3226.91 389.892 3175.97 413.098 3139.91 456.953V226.917H3045.56V810.195H3134.45L3140.69 754.83C3177.12 799.605 3226.94 821.892 3285.71 821.892C3401.89 821.892 3489.22 729.877 3489.22 605.892C3489.22 481.906 3401.89 389.892 3285.71 389.892ZM3266.22 736.895C3191.6 736.895 3139.91 682.63 3139.91 605.892C3139.91 529.153 3191.6 474.888 3266.22 474.888C3340.85 474.888 3393.32 528.373 3393.32 605.892C3393.32 683.41 3340.07 736.895 3266.22 736.895ZM2827.24 389.892C2766.15 389.892 2723.56 418.182 2699.37 456.953L2693.13 401.588H2604.24V810.195H2698.59V573.921C2698.59 516.217 2741.47 474.888 2800.73 474.888C2856.87 474.888 2888.84 513.097 2888.84 578.599V810.195H2983.19V566.903C2983.19 457.733 2923.15 389.892 2827.24 389.892ZM1911.86 460.072L1905.62 401.588H1816.73V810.195H1911.08V604.332C1911.08 532.592 1954.74 486.585 2027.26 486.585C2042.85 486.585 2058.44 488.144 2070.92 492.043V401.588C2059.22 396.91 2044.41 395.35 2028.04 395.35C1978.58 395.35 1936.66 421.177 1911.86 460.072ZM2353.96 389.892C2295.15 389.892 2244.21 413.098 2208.15 456.953V226.917H2113.8V810.195H2202.69L2208.93 754.83C2245.36 799.605 2295.18 821.892 2353.96 821.892C2470.13 821.892 2557.46 729.877 2557.46 605.892C2557.46 481.906 2470.13 389.892 2353.96 389.892ZM2334.46 736.895C2259.84 736.895 2208.15 682.63 2208.15 605.892C2208.15 529.153 2259.84 474.888 2334.46 474.888C2409.09 474.888 2461.56 528.373 2461.56 605.892C2461.56 683.41 2408.31 736.895 2334.46 736.895ZM1703.28 226.917C1669.48 226.917 1642.08 254.326 1642.08 288.13C1642.08 321.934 1669.48 349.343 1703.28 349.343C1737.09 349.343 1764.49 321.934 1764.49 288.13C1764.49 254.326 1737.09 226.917 1703.28 226.917Z\" fill=\"#ff385c\"></path></svg>",
+    "dataUri": "data:image/svg+xml;utf8,%3Csvg%20width%3D%22102%22%20height%3D%2232%22%20viewBox%3D%220%200%203490%201080%22%20style%3D%22display%3A%20block%3B%20color%3A%20rgb(255%2C%2056%2C%2092)%3B%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M1494.71%20456.953C1458.28%20412.178%201408.46%20389.892%201349.68%20389.892C1233.51%20389.892%201146.18%20481.906%201146.18%20605.892C1146.18%20729.877%201233.51%20821.892%201349.68%20821.892C1408.46%20821.892%201458.28%20799.605%201494.71%20754.83L1500.95%20810.195H1589.84V401.588H1500.95L1494.71%20456.953ZM1369.18%20736.895C1295.33%20736.895%201242.08%20683.41%201242.08%20605.892C1242.08%20528.373%201295.33%20474.888%201369.18%20474.888C1443.02%20474.888%201495.49%20529.153%201495.49%20605.892C1495.49%20682.63%201443.8%20736.895%201369.18%20736.895ZM1656.11%20810.195H1750.46V401.588H1656.11V810.195ZM948.912%20666.715C875.618%20506.859%20795.308%20344.664%20713.438%20184.809C698.623%20155.177%20670.554%2098.2527%20645.603%2067.8412C609.736%2024.1733%20556.715%200.779785%20502.915%200.779785C449.115%200.779785%20396.094%2024.1733%20360.227%2067.8412C335.277%2098.2527%20307.207%20155.177%20292.392%20184.809C210.522%20344.664%20130.212%20506.859%2056.9187%20666.715C47.5621%20687.769%2024.9504%20737.675%2016.3736%20760.289C6.2373%20787.581%200.779297%20817.213%200.779297%20846.845C0.779297%20975.509%20101.362%201079.22%20235.473%201079.22C346.193%201079.22%20434.3%201008.26%20502.915%20934.18C571.53%201008.26%20659.638%201079.22%20770.357%201079.22C904.468%201079.22%201005.83%20975.509%201005.83%20846.845C1005.83%20817.213%20999.593%20787.581%20989.457%20760.289C980.88%20737.675%20958.268%20687.769%20948.912%20666.715ZM502.915%20810.195C447.555%20738.455%20396.094%20649.56%20396.094%20577.819C396.094%20506.079%20446.776%20470.209%20502.915%20470.209C559.055%20470.209%20610.516%20508.419%20610.516%20577.819C610.516%20647.22%20558.275%20738.455%20502.915%20810.195ZM770.357%20998.902C688.362%20998.902%20618.032%20941.557%20555.741%20872.656C619.966%20792.541%20690.826%20679.121%20690.826%20577.819C690.826%20458.513%20598.04%20389.892%20502.915%20389.892C407.79%20389.892%20315.784%20458.513%20315.784%20577.819C315.784%20679.098%20386.145%20792.478%20450.144%20872.593C387.845%20941.526%20317.491%20998.902%20235.473%20998.902C146.586%20998.902%2081.0898%20931.061%2081.0898%20846.845C81.0898%20826.57%2084.2087%20807.856%2091.2261%20788.361C98.2436%20770.426%20120.855%20720.52%20130.212%20701.025C203.505%20541.17%20282.256%20380.534%20364.126%20220.679C378.941%20191.047%20403.891%20141.921%20422.605%20119.307C442.877%2094.3538%20470.947%2081.0975%20502.915%2081.0975C534.883%2081.0975%20562.953%2094.3538%20583.226%20119.307C601.939%20141.921%20626.89%20191.047%20641.704%20220.679C723.574%20380.534%20802.325%20541.17%20875.618%20701.025C884.975%20720.52%20907.587%20770.426%20914.604%20788.361C921.622%20807.856%20925.52%20826.57%20925.52%20846.845C925.52%20931.061%20859.244%20998.902%20770.357%20998.902ZM3285.71%20389.892C3226.91%20389.892%203175.97%20413.098%203139.91%20456.953V226.917H3045.56V810.195H3134.45L3140.69%20754.83C3177.12%20799.605%203226.94%20821.892%203285.71%20821.892C3401.89%20821.892%203489.22%20729.877%203489.22%20605.892C3489.22%20481.906%203401.89%20389.892%203285.71%20389.892ZM3266.22%20736.895C3191.6%20736.895%203139.91%20682.63%203139.91%20605.892C3139.91%20529.153%203191.6%20474.888%203266.22%20474.888C3340.85%20474.888%203393.32%20528.373%203393.32%20605.892C3393.32%20683.41%203340.07%20736.895%203266.22%20736.895ZM2827.24%20389.892C2766.15%20389.892%202723.56%20418.182%202699.37%20456.953L2693.13%20401.588H2604.24V810.195H2698.59V573.921C2698.59%20516.217%202741.47%20474.888%202800.73%20474.888C2856.87%20474.888%202888.84%20513.097%202888.84%20578.599V810.195H2983.19V566.903C2983.19%20457.733%202923.15%20389.892%202827.24%20389.892ZM1911.86%20460.072L1905.62%20401.588H1816.73V810.195H1911.08V604.332C1911.08%20532.592%201954.74%20486.585%202027.26%20486.585C2042.85%20486.585%202058.44%20488.144%202070.92%20492.043V401.588C2059.22%20396.91%202044.41%20395.35%202028.04%20395.35C1978.58%20395.35%201936.66%20421.177%201911.86%20460.072ZM2353.96%20389.892C2295.15%20389.892%202244.21%20413.098%202208.15%20456.953V226.917H2113.8V810.195H2202.69L2208.93%20754.83C2245.36%20799.605%202295.18%20821.892%202353.96%20821.892C2470.13%20821.892%202557.46%20729.877%202557.46%20605.892C2557.46%20481.906%202470.13%20389.892%202353.96%20389.892ZM2334.46%20736.895C2259.84%20736.895%202208.15%20682.63%202208.15%20605.892C2208.15%20529.153%202259.84%20474.888%202334.46%20474.888C2409.09%20474.888%202461.56%20528.373%202461.56%20605.892C2461.56%20683.41%202408.31%20736.895%202334.46%20736.895ZM1703.28%20226.917C1669.48%20226.917%201642.08%20254.326%201642.08%20288.13C1642.08%20321.934%201669.48%20349.343%201703.28%20349.343C1737.09%20349.343%201764.49%20321.934%201764.49%20288.13C1764.49%20254.326%201737.09%20226.917%201703.28%20226.917Z%22%20fill%3D%22%23ff385c%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E",
+    "svgColors": [
+      "#000000"
+    ],
+    "width": 102,
+    "height": 32,
+    "rect": {
+      "x": 48,
+      "y": 32,
+      "width": 102,
+      "height": 32
+    },
+    "natural": {
+      "width": 3490,
+      "height": 1080
+    },
+    "type": "wordmark",
+    "reversed": false,
+    "background": "#ffffff",
+    "safeZone": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "position": {
+      "top": 32,
+      "left": 48
+    }
+  },
+  "favicons": [
+    {
+      "type": "apple-touch-icon",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+      "sizes": null
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+      "sizes": "76x76"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-120x120-52b1adb4fe3a8f825fc4b143de12ea4b.png",
+      "sizes": "120x120"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-152x152-7b7c6444b63d8b6ebad9dae7169e5ed6.png",
+      "sizes": "152x152"
+    },
+    {
+      "type": "apple-touch-icon",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-180x180-bcbe0e3960cd084eb8eaf1353cf3c730.png",
+      "sizes": "180x180"
+    },
+    {
+      "type": "icon",
+      "url": "https://a0.muscache.com/im/pictures/AirbnbPlatformAssets/AirbnbPlatformAssets-Favicons/original/d1fcc0b3-865f-485a-b28b-43ca0bf7c891.png?im_w=240",
+      "sizes": "192x192"
+    },
+    {
+      "type": "shortcut icon",
+      "url": "https://a0.muscache.com/im/pictures/AirbnbPlatformAssets/AirbnbPlatformAssets-Favicons/original/d1fcc0b3-865f-485a-b28b-43ca0bf7c891.png?im_w=240",
+      "sizes": "76x76"
+    },
+    {
+      "type": "mask-icon",
+      "url": "https://a0.muscache.com/pictures/airbnb-platform-assets/AirbnbPlatformAssets-Favicons/original/304e8c59-05df-4fab-9846-f69fd7f749b0.svg?im_w=240",
+      "sizes": null
+    },
+    {
+      "type": "og:image",
+      "url": "https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg?im_w=1200",
+      "sizes": null
+    },
+    {
+      "type": "pwa",
+      "url": "https://a0.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-180x180-bcbe0e3960cd084eb8eaf1353cf3c730.png",
+      "sizes": "180x180",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-152x152-7b7c6444b63d8b6ebad9dae7169e5ed6.png",
+      "sizes": "152x152",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-120x120-52b1adb4fe3a8f825fc4b143de12ea4b.png",
+      "sizes": "120x120",
+      "purpose": "any"
+    },
+    {
+      "type": "pwa",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+      "sizes": "76x76",
+      "purpose": "any"
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "background": "rgb(255, 255, 255)",
+      "text": "rgb(34, 34, 34)",
+      "primary": "rgb(255, 56, 92)"
+    },
+    "palette": [
+      {
+        "color": "rgb(34, 34, 34)",
+        "normalized": "#222222",
+        "count": 5029,
+        "confidence": "high",
+        "sources": [
+          "with-new-header",
+          "screen-reader-only",
+          "[object"
+        ],
+        "lch": "lch(13.228% 0.007 53.346)",
+        "oklch": "oklch(25.1965% 0 0)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#292929",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 15.91,
+            "aa": true
+          },
+          {
+            "bg": "#f7f7f7",
+            "ratio": 14.85,
+            "aa": true
+          },
+          {
+            "bg": "#f2f2f2",
+            "ratio": 14.21,
+            "aa": true
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(108, 108, 108)",
+        "normalized": "#6c6c6c",
+        "count": 1270,
+        "confidence": "high",
+        "sources": [
+          "t1jiriwb",
+          "i1feiwj2",
+          "t4m7o8q"
+        ],
+        "lch": "lch(45.629% 0.015 53.346)",
+        "oklch": "oklch(53.1282% 0 0)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#828282",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 5.25,
+            "aa": true
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(193, 193, 193)",
+        "normalized": "#c1c1c1",
+        "count": 240,
+        "confidence": "high",
+        "sources": [
+          "l1lx1n3h"
+        ],
+        "lch": "lch(78.068% 0.023 53.346)",
+        "oklch": "oklch(81.0931% 0 0)",
+        "role": "neutral",
+        "onColor": "#000000",
+        "hover": "#a4a4a4",
+        "contrastAgainst": [
+          {
+            "bg": "#f2f2f2",
+            "ratio": 1.61,
+            "aa": false
+          }
+        ],
+        "pageCount": 2
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 157,
+        "confidence": "high",
+        "sources": [
+          "with-new-header",
+          "l1lx1n3h",
+          "manifest:theme_color",
+          "manifest:background_color"
+        ],
+        "lch": "lch(100% 0.028 53.346)",
+        "oklch": "oklch(100% 0 0)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d9d9d9",
+        "contrastAgainst": [
+          {
+            "bg": "#222222",
+            "ratio": 15.91,
+            "aa": true
+          },
+          {
+            "bg": "#6c6c6c",
+            "ratio": 5.25,
+            "aa": true
+          },
+          {
+            "bg": "#ff385c",
+            "ratio": 3.52,
+            "aa": false
+          }
+        ],
+        "pageCount": 5
+      },
+      {
+        "color": "rgb(255, 56, 92)",
+        "normalized": "#ff385c",
+        "count": 20,
+        "confidence": "high",
+        "sources": [
+          "c13cw3wj"
+        ],
+        "lch": "lch(57.786% 80.415 22.064)",
+        "oklch": "oklch(65.7858% 0.23092 17.074)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#d9304e",
+        "variantOf": "primary",
+        "contrastAgainst": [
+          {
+            "bg": "#ffffff",
+            "ratio": 3.52,
+            "aa": false
+          }
+        ],
+        "pageCount": 3
+      },
+      {
+        "color": "rgb(215, 4, 102)",
+        "normalized": "#d70466",
+        "count": 8,
+        "confidence": "medium",
+        "sources": [
+          "gradient"
+        ],
+        "lch": "lch(46.993% 73.606 6.391)",
+        "oklch": "oklch(56.681% 0.22657 4.387)",
+        "pageCount": 2
+      }
+    ],
+    "cssVariables": {
+      "--palette-text-avatar-scheme-blue": {
+        "value": "#0D4DAA",
+        "hex": "#0d4daa",
+        "lch": "lch(33.66% 57.254 281.002)",
+        "oklch": "oklch(44.2249% 0.16152 259.28)"
+      },
+      "--palette-text-avatar-scheme-rausch": {
+        "value": "#A21039",
+        "hex": "#a21039",
+        "lch": "lch(35.32% 59.695 18.463)",
+        "oklch": "oklch(45.9408% 0.17492 13.99)"
+      },
+      "--palette-text-avatar-scheme-green": {
+        "value": "#015F1A",
+        "hex": "#015f1a",
+        "lch": "lch(34.545% 48.073 140.212)",
+        "oklch": "oklch(42.2561% 0.12915 145.837)"
+      },
+      "--palette-bg-primary-luxe": {
+        "value": "#460479",
+        "hex": "#460479",
+        "lch": "lch(18.403% 66.913 310.696)",
+        "oklch": "oklch(32.523% 0.16771 301.711)"
+      },
+      "--palette-border-brand": {
+        "value": "#D80669",
+        "hex": "#d80669",
+        "lch": "lch(47.323% 73.688 5.318)",
+        "oklch": "oklch(56.9907% 0.22745 3.532)"
+      },
+      "--palette-bg-input-line-active": {
+        "value": "#318CF7",
+        "hex": "#318cf7",
+        "lch": "lch(57.193% 62.258 272.075)",
+        "oklch": "oklch(64.1977% 0.18075 255.171)"
+      },
+      "--palette-text-avatar-scheme-orange": {
+        "value": "#8F3400",
+        "hex": "#8f3400",
+        "lch": "lch(35.151% 60.437 51.19)",
+        "oklch": "oklch(44.9938% 0.13424 42.606)"
+      },
+      "--palette-text-avatar-scheme-purple": {
+        "value": "#503EB2",
+        "hex": "#503eb2",
+        "lch": "lch(33.85% 68.782 298.501)",
+        "oklch": "oklch(45.4028% 0.1756 284.011)"
+      },
+      "--palette-bg-primary-plus": {
+        "value": "#92174D",
+        "hex": "#92174d",
+        "lch": "lch(32.833% 51.888 1.926)",
+        "oklch": "oklch(43.8298% 0.16078 0.84)"
+      },
+      "--palette-text-avatar-scheme-magenta": {
+        "value": "#901E7C",
+        "hex": "#901e7c",
+        "lch": "lch(34.719% 59.334 334.434)",
+        "oklch": "oklch(46.015% 0.17823 336.458)"
+      },
+      "--palette-bg-primary-core": {
+        "value": "#FF385C",
+        "hex": "#ff385c",
+        "lch": "lch(57.786% 80.415 22.064)",
+        "oklch": "oklch(65.7858% 0.23092 17.074)"
+      },
+      "--palette-bg-tertiary-core": {
+        "value": "#DA1249",
+        "hex": "#da1249",
+        "lch": "lch(47.545% 76.373 20.753)",
+        "oklch": "oklch(56.8978% 0.22098 15.714)"
+      },
+      "--palette-bg-slider-track-inactive": {
+        "value": "#C1C1C1",
+        "hex": "#c1c1c1",
+        "lch": "lch(78.068% 0.023 53.346)",
+        "oklch": "oklch(81.0931% 0 0)"
+      },
+      "--palette-bg-beige-secondary-pressed": {
+        "value": "#C5C1BB",
+        "hex": "#c5c1bb",
+        "lch": "lch(78.266% 3.629 79.501)",
+        "oklch": "oklch(81.2439% 0.00946 78.273)"
+      },
+      "--palette-icon-brand": {
+        "value": "#D80669",
+        "hex": "#d80669",
+        "lch": "lch(47.323% 73.688 5.318)",
+        "oklch": "oklch(56.9907% 0.22745 3.532)"
+      }
+    },
+    "detected": [
+      {
+        "color": "rgb(34, 34, 34)",
+        "normalized": "#222222",
+        "count": 2740,
+        "usageFrac": 0.6407857811038353,
+        "areaFrac": 0.00011481589598738837,
+        "confidence": "high",
+        "sources": [
+          "with-new-header",
+          "screen-reader-only",
+          "[object",
+          "c2zxfaj",
+          "s5o62i6"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(108, 108, 108)",
+        "normalized": "#6c6c6c",
+        "count": 1176,
+        "usageFrac": 0.27502338634237605,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "t1jiriwb",
+          "i1feiwj2",
+          "t4m7o8q"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(193, 193, 193)",
+        "normalized": "#c1c1c1",
+        "count": 232,
+        "usageFrac": 0.05425631431244153,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "l1lx1n3h"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 63,
+        "usageFrac": 0.014733395696913003,
+        "areaFrac": 0.5842740291020877,
+        "confidence": "high",
+        "sources": [
+          "with-new-header",
+          "l1lx1n3h"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(221, 221, 221)",
+        "normalized": "#dddddd",
+        "count": 37,
+        "usageFrac": 0.008652946679139382,
+        "areaFrac": 0.2060802515589866,
+        "confidence": "high",
+        "sources": [
+          "t1v4vf93"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(242, 242, 242)",
+        "normalized": "#f2f2f2",
+        "count": 14,
+        "usageFrac": 0.003274087932647334,
+        "areaFrac": 0.0013867757010938304,
+        "confidence": "high",
+        "sources": [
+          "l1lx1n3h"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(255, 56, 92)",
+        "normalized": "#ff385c",
+        "count": 8,
+        "usageFrac": 0.0018709073900841909,
+        "areaFrac": 0,
+        "confidence": "high",
+        "sources": [
+          "c13cw3wj"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 2,
+        "usageFrac": 0.0004677268475210477,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": true
+      },
+      {
+        "color": "rgb(247, 247, 247)",
+        "normalized": "#f7f7f7",
+        "count": 2,
+        "usageFrac": 0.0004677268475210477,
+        "areaFrac": 0.20789070680154312,
+        "confidence": "medium",
+        "sources": [
+          "f12ytkur"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(218, 18, 73)",
+        "normalized": "#da1249",
+        "count": 1,
+        "usageFrac": 0.00023386342376052386,
+        "areaFrac": 0.00025342094030141065,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": true
+      },
+      {
+        "color": "rgb(235, 235, 235)",
+        "normalized": "#ebebeb",
+        "count": 1,
+        "usageFrac": 0.00023386342376052386,
+        "areaFrac": 0,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": true
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "heading-1",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "40px (2.50rem)",
+        "weight": 600,
+        "lineHeight": "1.10",
+        "spacing": "-1.2px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 2,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "32px (2.00rem)",
+        "weight": 600,
+        "lineHeight": "1.13",
+        "spacing": "-0.96px",
+        "transform": null
+      },
+      {
+        "context": "heading-1",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "28px (1.75rem)",
+        "weight": 700,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "26px (1.63rem)",
+        "weight": 500,
+        "lineHeight": "1.15",
+        "spacing": "-0.52px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "22px (1.38rem)",
+        "weight": 500,
+        "lineHeight": "1.18",
+        "spacing": "-0.44px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 3,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "21px (1.31rem)",
+        "weight": 700,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "20px (1.25rem)",
+        "weight": 600,
+        "lineHeight": "1.20",
+        "spacing": "-0.18px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 3,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "18px (1.13rem)",
+        "weight": 500,
+        "lineHeight": "1.33",
+        "spacing": "-0.18px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 4,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "17px (1.06rem)",
+        "weight": 575,
+        "lineHeight": "1.18",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 10,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 500,
+        "lineHeight": "1.25",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 600,
+        "lineHeight": "1.25",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 3,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.25",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 20,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 13,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 500,
+        "lineHeight": "1.29",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "14px (0.88rem)",
+        "weight": 600,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"salt\""
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "13px (0.81rem)",
+        "weight": 400,
+        "lineHeight": "1.23",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 2,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": "1.33",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 700,
+        "lineHeight": "1.33",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 2,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "12px (0.75rem)",
+        "weight": 500,
+        "lineHeight": "1.33",
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Airbnb Cereal VF",
+        "fallbacks": "Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue",
+        "size": "11px (0.69rem)",
+        "weight": 600,
+        "lineHeight": "1.18",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"salt\""
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": true,
+      "openTypeFeatures": [
+        "salt"
+      ],
+      "urls": [
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_Arabic_W_Wght.6bee4dd7ab27ef998da2f3a25ae61b48.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_Cyril_W_Wght.df06d21e3ece5673610c24f0090979ff.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_Deva_W_Wght.b498e56f4d652dd9addb81cdafd7e6d8.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_Greek_W_Wght.4eec7b9ea9093264b972a6eb2a7f13b8.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_Hebrew_W_Wght.8c6defa083bcccea47d68d872b5a2b0c.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_Italics_W_Wght.bd5e0f97cea11e9264b40656a83357ec.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_ThaiLp_W_Wght.e40f7fff25db11840de609db35118844.woff2",
+        "https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_W_Wght.8816d9e5c3b6a860636193e36b6ac4e4.woff2"
+      ],
+      "selfHostedFonts": [
+        "AirbnbCerealVF_Arabic_W_Wght.6bee4dd7ab27ef998da2f3a25ae61b48.woff2",
+        "AirbnbCerealVF_Cyril_W_Wght.df06d21e3ece5673610c24f0090979ff.woff2",
+        "AirbnbCerealVF_Deva_W_Wght.b498e56f4d652dd9addb81cdafd7e6d8.woff2",
+        "AirbnbCerealVF_Greek_W_Wght.4eec7b9ea9093264b972a6eb2a7f13b8.woff2",
+        "AirbnbCerealVF_Hebrew_W_Wght.8c6defa083bcccea47d68d872b5a2b0c.woff2",
+        "AirbnbCerealVF_ThaiLp_W_Wght.e40f7fff25db11840de609db35118844.woff2",
+        "AirbnbCerealVF_W_Wght.8816d9e5c3b6a860636193e36b6ac4e4.woff2"
+      ],
+      "customFonts": [
+        "AirbnbCerealVF_Arabic_W_Wght.6bee4dd7ab27ef998da2f3a25ae61b48.woff2",
+        "AirbnbCerealVF_Cyril_W_Wght.df06d21e3ece5673610c24f0090979ff.woff2",
+        "AirbnbCerealVF_Deva_W_Wght.b498e56f4d652dd9addb81cdafd7e6d8.woff2",
+        "AirbnbCerealVF_Greek_W_Wght.4eec7b9ea9093264b972a6eb2a7f13b8.woff2",
+        "AirbnbCerealVF_Hebrew_W_Wght.8c6defa083bcccea47d68d872b5a2b0c.woff2",
+        "AirbnbCerealVF_ThaiLp_W_Wght.e40f7fff25db11840de609db35118844.woff2",
+        "AirbnbCerealVF_W_Wght.8816d9e5c3b6a860636193e36b6ac4e4.woff2"
+      ]
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "12px",
+        "display": "12px",
+        "rem": "0.75rem",
+        "count": 110,
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "px": "4px",
+        "display": "4px",
+        "rem": "0.25rem",
+        "count": 103,
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "px": "8px",
+        "display": "8px",
+        "rem": "0.50rem",
+        "count": 79,
+        "numericValue": 8,
+        "frequency": 0
+      },
+      {
+        "px": "14px",
+        "display": "14px",
+        "rem": "0.88rem",
+        "count": 76,
+        "numericValue": 14,
+        "frequency": 0
+      },
+      {
+        "px": "6px",
+        "display": "6px",
+        "rem": "0.38rem",
+        "count": 54,
+        "numericValue": 6,
+        "frequency": 0
+      },
+      {
+        "px": "16px",
+        "display": "16px",
+        "rem": "1.00rem",
+        "count": 48,
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "px": "5.5px",
+        "display": "5.5px",
+        "rem": "0.34rem",
+        "count": 46,
+        "numericValue": 5.5
+      },
+      {
+        "px": "24px",
+        "display": "24px",
+        "rem": "1.50rem",
+        "count": 37,
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "px": "11px",
+        "display": "11px",
+        "rem": "0.69rem",
+        "count": 34,
+        "numericValue": 11,
+        "frequency": 0
+      },
+      {
+        "px": "32px",
+        "display": "32px",
+        "rem": "2.00rem",
+        "count": 13,
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "px": "80px",
+        "display": "80px",
+        "rem": "5.00rem",
+        "count": 13,
+        "numericValue": 80,
+        "frequency": 0
+      },
+      {
+        "px": "15px",
+        "display": "15px",
+        "rem": "0.94rem",
+        "count": 12,
+        "numericValue": 15,
+        "frequency": 0
+      },
+      {
+        "px": "48px",
+        "display": "48px",
+        "rem": "3.00rem",
+        "count": 10,
+        "numericValue": 48,
+        "frequency": 0
+      },
+      {
+        "px": "7px",
+        "display": "7px",
+        "rem": "0.44rem",
+        "count": 10,
+        "numericValue": 7
+      },
+      {
+        "px": "5px",
+        "display": "5px",
+        "rem": "0.31rem",
+        "count": 8,
+        "numericValue": 5
+      },
+      {
+        "px": "20px",
+        "display": "20px",
+        "rem": "1.25rem",
+        "count": 7,
+        "numericValue": 20,
+        "frequency": 0
+      },
+      {
+        "px": "40px",
+        "display": "40px",
+        "rem": "2.50rem",
+        "count": 6,
+        "numericValue": 40,
+        "frequency": 0
+      },
+      {
+        "px": "17px",
+        "display": "17px",
+        "rem": "1.06rem",
+        "count": 6,
+        "numericValue": 17
+      },
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 5,
+        "numericValue": 10,
+        "frequency": 0
+      },
+      {
+        "px": "18.375px",
+        "display": "18.375px",
+        "rem": "1.15rem",
+        "count": 4,
+        "numericValue": 18.375
+      },
+      {
+        "px": "39.0469px",
+        "display": "39.0469px",
+        "rem": "2.44rem",
+        "count": 4,
+        "numericValue": 39.0469
+      },
+      {
+        "px": "9px",
+        "display": "9px",
+        "rem": "0.56rem",
+        "count": 4,
+        "numericValue": 9,
+        "frequency": 0
+      },
+      {
+        "px": "2px",
+        "display": "2px",
+        "rem": "0.13rem",
+        "count": 3,
+        "numericValue": 2
+      },
+      {
+        "px": "22px",
+        "display": "22px",
+        "rem": "1.38rem",
+        "count": 3,
+        "numericValue": 22,
+        "frequency": 0
+      },
+      {
+        "px": "49px",
+        "display": "49px",
+        "rem": "3.06rem",
+        "count": 1,
+        "numericValue": 49
+      },
+      {
+        "px": "53px",
+        "display": "53px",
+        "rem": "3.31rem",
+        "count": 1,
+        "numericValue": 53
+      },
+      {
+        "px": "30px",
+        "display": "30px",
+        "rem": "1.88rem",
+        "count": 1,
+        "numericValue": 30
+      },
+      {
+        "px": "56px",
+        "display": "56px",
+        "rem": "3.50rem",
+        "count": 1,
+        "numericValue": 56
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "4px",
+        "count": 109,
+        "elements": [
+          "a"
+        ],
+        "confidence": "high",
+        "numericValue": 4,
+        "frequency": 0
+      },
+      {
+        "value": "20px",
+        "count": 101,
+        "elements": [
+          "button",
+          "group",
+          "a",
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 20
+      },
+      {
+        "value": "50%",
+        "count": 99,
+        "elements": [
+          "Choose a language and currency",
+          "Main navigation menu",
+          "Previous",
+          "Next",
+          "Add to wishlist: Flat in Puri"
+        ],
+        "confidence": "high",
+        "numericValue": 50,
+        "frequency": 0
+      },
+      {
+        "value": "16px",
+        "count": 74,
+        "elements": [
+          "a",
+          "img"
+        ],
+        "confidence": "high",
+        "numericValue": 16
+      },
+      {
+        "value": "12px",
+        "count": 42,
+        "elements": [
+          "Choose a language",
+          "Choose a currency",
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "value": "14px",
+        "count": 39,
+        "elements": [
+          "span",
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 14
+      },
+      {
+        "value": "8px",
+        "count": 35,
+        "elements": [
+          "a",
+          "tab",
+          "button"
+        ],
+        "confidence": "high",
+        "numericValue": 8,
+        "frequency": 0
+      },
+      {
+        "value": "32px",
+        "count": 14,
+        "elements": [
+          "div",
+          "button"
+        ],
+        "confidence": "high",
+        "numericValue": 32,
+        "frequency": 0
+      },
+      {
+        "value": "100px",
+        "count": 7,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium",
+        "numericValue": 100,
+        "frequency": 0
+      },
+      {
+        "value": "9999px",
+        "count": 4,
+        "elements": [
+          "a"
+        ],
+        "confidence": "medium",
+        "numericValue": 9999
+      },
+      {
+        "value": "3px 3px 0px 0px",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 3,
+        "frequency": 0
+      },
+      {
+        "value": "50px",
+        "count": 2,
+        "elements": [
+          "Search",
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 50
+      },
+      {
+        "value": "40px",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 40,
+        "frequency": 0
+      },
+      {
+        "value": "24px",
+        "count": 2,
+        "elements": [
+          "img"
+        ],
+        "confidence": "low",
+        "numericValue": 24
+      },
+      {
+        "value": "42px",
+        "count": 2,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low",
+        "numericValue": 42
+      },
+      {
+        "value": "0px 1.5px 1.5px 0px",
+        "count": 1,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 0
+      },
+      {
+        "value": "1.5px 0px 0px 1.5px",
+        "count": 1,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 1.5
+      },
+      {
+        "value": "0px 3px 0px 0px",
+        "count": 1,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 0
+      },
+      {
+        "value": "3px 0px 0px",
+        "count": 1,
+        "elements": [
+          "span"
+        ],
+        "confidence": "low",
+        "numericValue": 3
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "color(srgb 1 1 1 / 0.5)",
+        "count": 23,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(221, 221, 221)",
+        "count": 19,
+        "elements": [
+          "div",
+          "search",
+          "button",
+          "a"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "4px",
+        "style": "solid",
+        "color": "rgb(255, 255, 255)",
+        "count": 12,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high"
+      },
+      {
+        "width": "0px 0px 1px",
+        "style": "none none solid",
+        "color": "rgb(34, 34, 34)",
+        "count": 7,
+        "elements": [
+          "div"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "2px",
+        "style": "inset",
+        "color": "rgb(34, 34, 34)",
+        "count": 3,
+        "elements": [
+          "iframe"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px 0px 0px",
+        "style": "solid none none",
+        "color": "rgb(235, 235, 235)",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(235, 235, 235)",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "8px 1px 1px",
+        "style": "solid",
+        "color": "rgb(215, 37, 28)",
+        "count": 1,
+        "elements": [
+          "alert"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "color(srgb 0 0 0 / 0.02) 0px 0px 0px 1px, color(srgb 0 0 0 / 0.04) 0px 2px 6px 0px, color(srgb 0 0 0 / 0.1) 0px 4px 8px 0px",
+      "count": 39,
+      "confidence": "high"
+    },
+    {
+      "shadow": "color(srgb 0 0 0 / 0.02) 0px 0px 0px 1px, color(srgb 0 0 0 / 0.1) 0px 8px 24px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "rgba(0, 0, 0, 0.06) 0px 2px 4px 0px",
+      "count": 2,
+      "confidence": "low"
+    },
+    {
+      "shadow": "color(srgb 0 0 0 / 0.135) 0px 1px 0px 0px",
+      "count": 1,
+      "confidence": "low"
+    },
+    {
+      "shadow": "color(srgb 0 0 0 / 0.18) 0px 2px 4px 0px",
+      "count": 1,
+      "confidence": "low"
+    }
+  ],
+  "gradients": [
+    {
+      "gradient": "linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(230, 30, 77)",
+        "rgb(227, 28, 95)",
+        "rgb(215, 4, 102)"
+      ],
+      "count": 5
+    },
+    {
+      "gradient": "radial-gradient(circle, rgb(255, 56, 92) 0%, rgb(230, 30, 77) 27.5%, rgb(227, 28, 95) 40%, rgb(215, 4, 102) 57.5%, rgb(189, 30, 89) 75%, rgb(189, 30, 89) 100%)",
+      "type": "radial",
+      "stopColors": [
+        "rgb(255, 56, 92)",
+        "rgb(230, 30, 77)",
+        "rgb(227, 28, 95)",
+        "rgb(215, 4, 102)",
+        "rgb(189, 30, 89)",
+        "rgb(189, 30, 89)"
+      ],
+      "count": 5
+    },
+    {
+      "gradient": "linear-gradient(rgb(255, 255, 255) 39.9%, rgb(248, 248, 248) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(255, 255, 255)",
+        "rgb(248, 248, 248)"
+      ],
+      "count": 1
+    }
+  ],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.1s",
+        "ms": 100,
+        "count": 67
+      },
+      {
+        "value": "0.14s",
+        "ms": 140,
+        "count": 1
+      },
+      {
+        "value": "0.15s",
+        "ms": 150,
+        "count": 1
+      },
+      {
+        "value": "0.175s",
+        "ms": 175,
+        "count": 1
+      },
+      {
+        "value": "0.2s",
+        "ms": 200,
+        "count": 82
+      },
+      {
+        "value": "0.25s",
+        "ms": 250,
+        "count": 155
+      },
+      {
+        "value": "0.3s",
+        "ms": 300,
+        "count": 309
+      },
+      {
+        "value": "0.4s",
+        "ms": 400,
+        "count": 2
+      },
+      {
+        "value": "0.451754s",
+        "ms": 451.75399999999996,
+        "count": 2
+      },
+      {
+        "value": "0.5s",
+        "ms": 500,
+        "count": 1
+      },
+      {
+        "value": "0.583772s",
+        "ms": 583.7719999999999,
+        "count": 9
+      },
+      {
+        "value": "1.25s",
+        "ms": 1250,
+        "count": 5
+      }
+    ],
+    "easings": [
+      {
+        "value": "cubic-bezier(0.2, 0, 0, 1)",
+        "type": "custom",
+        "count": 603
+      },
+      {
+        "value": "cubic-bezier(0, 0, 1, 1)",
+        "type": "ease-out",
+        "count": 13
+      },
+      {
+        "value": "linear(0 0%, 0.157943 9.09091%, 0.414669 18.1818%, 0.63031 27.2727%, 0.780228 36.3636%, 0.875101 45.4545%, 0.931756 54.5455%, 0.964243 63.6364%, 0.982305 72.7273%, 0.992098 81.8182%, 0.997294 90.9091%, 1 100%)",
+        "type": "custom",
+        "count": 9
+      },
+      {
+        "value": "ease",
+        "type": "ease",
+        "count": 5
+      },
+      {
+        "value": "linear(0 0%, 0.185572 10%, 0.465306 20%, 0.682334 30%, 0.822325 40%, 0.904974 50%, 0.951289 60%, 0.976364 70%, 0.989612 80%, 0.996485 90%, 1 100%)",
+        "type": "custom",
+        "count": 2
+      },
+      {
+        "value": "linear",
+        "type": "linear",
+        "count": 2
+      },
+      {
+        "value": "cubic-bezier(0.1, 0.9, 0.2, 1)",
+        "type": "ease-out",
+        "count": 1
+      },
+      {
+        "value": "cubic-bezier(0.17, 0.11, 0.34, 1)",
+        "type": "ease-out",
+        "count": 1
+      }
+    ],
+    "animations": [
+      {
+        "name": "kf-h0qfv9",
+        "duration": "0.15s",
+        "easing": "cubic-bezier(0",
+        "count": 3,
+        "contexts": [
+          "other"
+        ]
+      }
+    ],
+    "contexts": {
+      "link": {
+        "count": 27,
+        "durations": [
+          "0.3s",
+          "0.2s",
+          "0.1s"
+        ],
+        "easing": "cubic-bezier(0.2, 0, 0, 1)",
+        "easingType": "custom",
+        "props": [
+          "box-shadow",
+          "text-decoration-thickness",
+          "background-color",
+          "transform"
+        ]
+      },
+      "button": {
+        "count": 50,
+        "durations": [
+          "0.25s",
+          "0.1s",
+          "0.2s"
+        ],
+        "easing": "cubic-bezier(0.2, 0, 0, 1)",
+        "easingType": "custom",
+        "props": [
+          "transform",
+          "box-shadow",
+          "color",
+          "background-color"
+        ]
+      }
+    },
+    "interactiveDeltas": [
+      {
+        "tag": "div",
+        "text": "WhenAdd dates",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgb(235, 235, 235)"
+          }
+        }
+      },
+      {
+        "tag": "div",
+        "text": "WhoAdd guests",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgb(235, 235, 235)"
+          }
+        }
+      },
+      {
+        "tag": "button",
+        "text": "Become a host",
+        "pattern": "color-shift",
+        "delta": {
+          "background": {
+            "from": "rgba(0, 0, 0, 0)",
+            "to": "rgb(247, 247, 247)"
+          }
+        }
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(34, 34, 34)",
+            "padding": "11px 16px",
+            "borderRadius": "32px",
+            "border": "1px solid rgb(221, 221, 221)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "14px",
+        "text": "Pricing",
+        "confidence": "high",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(34, 34, 34)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "14px 24px",
+            "borderRadius": "12px",
+            "border": "0px solid rgb(255, 255, 255)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "Get details",
+        "confidence": "medium",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(34, 34, 34)",
+            "padding": "7px 15px",
+            "borderRadius": "9999px",
+            "border": "1px solid rgb(221, 221, 221)",
+            "fontSize": "12px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "12px",
+        "text": "Read more",
+        "confidence": "medium",
+        "count": 1
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(242, 242, 242)",
+            "color": "rgb(34, 34, 34)",
+            "padding": "14px 24px",
+            "borderRadius": "12px",
+            "border": "0px solid rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "500"
+          }
+        },
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "text": "Contact us",
+        "confidence": "medium",
+        "count": 1
+      }
+    ],
+    "inputs": {
+      "text": [
+        {
+          "specificType": "search",
+          "states": {
+            "default": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderRadius": "0px",
+              "padding": "0px",
+              "boxShadow": "none",
+              "outline": "rgb(34, 34, 34) none 3px"
+            },
+            "focus": {
+              "border": "var(--elevation-secondary-border)",
+              "borderColor": "var(--palette-grey1000)",
+              "boxShadow": "inset 0 0 0 2px rgba(255,255,255,0.8),inset 0 0 0 4px var(--palette-border-primary)",
+              "backgroundColor": "var(--palette-bg-primary-hover)",
+              "color": "var(--palette-grey1000)",
+              "outline": "none"
+            }
+          },
+          "count": 4
+        }
+      ],
+      "checkbox": [],
+      "radio": [],
+      "select": []
+    },
+    "links": [
+      {
+        "color": "rgb(34, 34, 34)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(34, 34, 34)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "inherit",
+            "textDecoration": "none"
+          }
+        },
+        "count": 5
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "500",
+        "states": {
+          "default": {
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "inherit",
+            "textDecoration": "none"
+          }
+        },
+        "count": 2
+      },
+      {
+        "color": "rgb(255, 56, 92)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(255, 56, 92)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "inherit",
+            "textDecoration": "none"
+          }
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(108, 108, 108)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(108, 108, 108)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "color": "inherit",
+            "textDecoration": "none"
+          }
+        },
+        "count": 1
+      },
+      {
+        "color": "rgb(0, 0, 255)",
+        "textDecoration": "underline",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(0, 0, 255)",
+            "textDecoration": "underline"
+          },
+          "hover": {
+            "color": "inherit",
+            "textDecoration": "none"
+          }
+        },
+        "count": 1
+      }
+    ],
+    "badges": {
+      "all": [],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": []
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "2120px"
+    },
+    {
+      "px": "1920px"
+    },
+    {
+      "px": "1880px"
+    },
+    {
+      "px": "1780px"
+    },
+    {
+      "px": "1779px"
+    },
+    {
+      "px": "1762px"
+    },
+    {
+      "px": "1761px"
+    },
+    {
+      "px": "1760px"
+    },
+    {
+      "px": "1759px"
+    },
+    {
+      "px": "1720px"
+    },
+    {
+      "px": "1719px"
+    },
+    {
+      "px": "1660px"
+    },
+    {
+      "px": "1659px"
+    },
+    {
+      "px": "1600px"
+    },
+    {
+      "px": "1599px"
+    },
+    {
+      "px": "1584px"
+    },
+    {
+      "px": "1583px"
+    },
+    {
+      "px": "1560px"
+    },
+    {
+      "px": "1559px"
+    },
+    {
+      "px": "1510px"
+    },
+    {
+      "px": "1509px"
+    },
+    {
+      "px": "1468px"
+    },
+    {
+      "px": "1467px"
+    },
+    {
+      "px": "1460px"
+    },
+    {
+      "px": "1459px"
+    },
+    {
+      "px": "1440px"
+    },
+    {
+      "px": "1439px"
+    },
+    {
+      "px": "1406px"
+    },
+    {
+      "px": "1405px"
+    },
+    {
+      "px": "1396px"
+    },
+    {
+      "px": "1395px"
+    },
+    {
+      "px": "1360px"
+    },
+    {
+      "px": "1359px"
+    },
+    {
+      "px": "1348px"
+    },
+    {
+      "px": "1285px"
+    },
+    {
+      "px": "1284px"
+    },
+    {
+      "px": "1280px"
+    },
+    {
+      "px": "1240px"
+    },
+    {
+      "px": "1239px"
+    },
+    {
+      "px": "1238px"
+    },
+    {
+      "px": "1228px"
+    },
+    {
+      "px": "1227px"
+    },
+    {
+      "px": "1200px"
+    },
+    {
+      "px": "1199px"
+    },
+    {
+      "px": "1194px"
+    },
+    {
+      "px": "1190px"
+    },
+    {
+      "px": "1189px"
+    },
+    {
+      "px": "1160px"
+    },
+    {
+      "px": "1159px"
+    },
+    {
+      "px": "1141px"
+    },
+    {
+      "px": "1140px"
+    },
+    {
+      "px": "1128px"
+    },
+    {
+      "px": "1127px"
+    },
+    {
+      "px": "1120px"
+    },
+    {
+      "px": "1119px"
+    },
+    {
+      "px": "1075px"
+    },
+    {
+      "px": "1060px"
+    },
+    {
+      "px": "1059px"
+    },
+    {
+      "px": "1050px"
+    },
+    {
+      "px": "1049px"
+    },
+    {
+      "px": "1040px"
+    },
+    {
+      "px": "1039px"
+    },
+    {
+      "px": "1028px"
+    },
+    {
+      "px": "1024px"
+    },
+    {
+      "px": "984px"
+    },
+    {
+      "px": "983px"
+    },
+    {
+      "px": "970px"
+    },
+    {
+      "px": "969px"
+    },
+    {
+      "px": "960px"
+    },
+    {
+      "px": "959px"
+    },
+    {
+      "px": "950px"
+    },
+    {
+      "px": "949px"
+    },
+    {
+      "px": "940px"
+    },
+    {
+      "px": "939px"
+    },
+    {
+      "px": "916px"
+    },
+    {
+      "px": "910px"
+    },
+    {
+      "px": "909px"
+    },
+    {
+      "px": "894px"
+    },
+    {
+      "px": "890px"
+    },
+    {
+      "px": "880px"
+    },
+    {
+      "px": "879px"
+    },
+    {
+      "px": "872px"
+    },
+    {
+      "px": "871px"
+    },
+    {
+      "px": "820px"
+    },
+    {
+      "px": "819px"
+    },
+    {
+      "px": "814px"
+    },
+    {
+      "px": "813px"
+    },
+    {
+      "px": "800px"
+    },
+    {
+      "px": "778px"
+    },
+    {
+      "px": "777px"
+    },
+    {
+      "px": "768px"
+    },
+    {
+      "px": "760px"
+    },
+    {
+      "px": "759px"
+    },
+    {
+      "px": "744px"
+    },
+    {
+      "px": "743px"
+    },
+    {
+      "px": "725px"
+    },
+    {
+      "px": "700px"
+    },
+    {
+      "px": "699px"
+    },
+    {
+      "px": "694px"
+    },
+    {
+      "px": "693px"
+    },
+    {
+      "px": "680px"
+    },
+    {
+      "px": "679px"
+    },
+    {
+      "px": "667px"
+    },
+    {
+      "px": "660px"
+    },
+    {
+      "px": "650px"
+    },
+    {
+      "px": "640px"
+    },
+    {
+      "px": "639px"
+    },
+    {
+      "px": "634px"
+    },
+    {
+      "px": "633px"
+    },
+    {
+      "px": "600px"
+    },
+    {
+      "px": "599px"
+    },
+    {
+      "px": "568px"
+    },
+    {
+      "px": "551px"
+    },
+    {
+      "px": "550px"
+    },
+    {
+      "px": "541px"
+    },
+    {
+      "px": "500px"
+    },
+    {
+      "px": "499px"
+    },
+    {
+      "px": "481px"
+    },
+    {
+      "px": "480px"
+    },
+    {
+      "px": "479px"
+    },
+    {
+      "px": "475px"
+    },
+    {
+      "px": "474px"
+    },
+    {
+      "px": "450px"
+    },
+    {
+      "px": "440px"
+    },
+    {
+      "px": "431px"
+    },
+    {
+      "px": "429px"
+    },
+    {
+      "px": "420px"
+    },
+    {
+      "px": "400px"
+    },
+    {
+      "px": "395px"
+    },
+    {
+      "px": "376px"
+    },
+    {
+      "px": "375px"
+    },
+    {
+      "px": "330px"
+    },
+    {
+      "px": "320px"
+    },
+    {
+      "px": "300px"
+    },
+    {
+      "px": "220px"
+    },
+    {
+      "px": "200px"
+    },
+    {
+      "px": "99px"
+    }
+  ],
+  "iconSystem": [],
+  "frameworks": [],
+  "wcag": [
+    {
+      "fg": "#222222",
+      "bg": "#f7f7f7",
+      "ratio": 14.85,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 366
+    },
+    {
+      "fg": "#222222",
+      "bg": "#ffffff",
+      "ratio": 15.91,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 193
+    },
+    {
+      "fg": "#6c6c6c",
+      "bg": "#ffffff",
+      "ratio": 5.25,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 18
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#f7f7f7",
+      "ratio": 1.07,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 10
+    },
+    {
+      "fg": "#222222",
+      "bg": "#f2f2f2",
+      "ratio": 14.21,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 8
+    },
+    {
+      "fg": "#222222",
+      "bg": "#ebebeb",
+      "ratio": 13.35,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 3
+    },
+    {
+      "fg": "#c1c1c1",
+      "bg": "#ffffff",
+      "ratio": 1.8,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#6c6c6c",
+      "bg": "#f7f7f7",
+      "ratio": 4.9,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 2
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#3f3f3f",
+      "ratio": 10.53,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 2
+    },
+    {
+      "fg": "#ff385c",
+      "bg": "#ffffff",
+      "ratio": 3.52,
+      "aa": false,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 1
+    },
+    {
+      "fg": "#0000ff",
+      "bg": "#ffffff",
+      "ratio": 8.59,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 1
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#222222",
+      "ratio": 15.91,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    },
+    {
+      "fg": "#222222",
+      "bg": "#f7f7f7",
+      "ratio": 14.85,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#222222",
+      "bg": "#f7f7f7",
+      "ratio": 14.85,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#c1c1c1",
+      "bg": "#f2f2f2",
+      "ratio": 1.61,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "disabled",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#222222",
+      "bg": "#ebebeb",
+      "ratio": 13.35,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "input",
+      "source": "state"
+    },
+    {
+      "fg": "#222222",
+      "bg": "#ffffff",
+      "ratio": 15.91,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "input",
+      "source": "state"
+    },
+    {
+      "fg": "#c1c1c1",
+      "bg": "#ffffff",
+      "ratio": 1.8,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "state": "disabled",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#222222",
+      "bg": "#ffffff",
+      "ratio": 15.91,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "hover",
+      "tag": "button",
+      "source": "state"
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#3f3f3f",
+      "ratio": 10.53,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "state": "focus",
+      "tag": "a",
+      "source": "state"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.airbnb.co.in/login?redirect_url=%2Fbecome-a-host",
+      "extractedAt": "2026-09-12T08:20:15.598Z"
+    },
+    {
+      "url": "https://www.airbnb.co.in/about/company-details",
+      "extractedAt": "2026-09-12T08:20:30.013Z"
+    },
+    {
+      "url": "https://www.airbnb.co.in/resources/hosting-homes",
+      "extractedAt": "2026-09-12T08:20:47.820Z"
+    },
+    {
+      "url": "https://www.airbnb.co.in/help",
+      "extractedAt": "2026-09-12T08:21:05.185Z"
+    },
+    {
+      "url": "https://www.airbnb.co.in/refer",
+      "extractedAt": "2026-09-12T08:21:23.542Z"
+    }
+  ]
+}

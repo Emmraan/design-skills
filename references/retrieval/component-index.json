@@ -340,6 +340,10 @@
       "file": "references/components/pricing.md",
       "notable": [
         {
+          "slug": "airbnb",
+          "take": "inventory as interface"
+        },
+        {
           "slug": "ajmal",
           "take": "browse density"
         },

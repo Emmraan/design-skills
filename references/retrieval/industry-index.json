@@ -2,6 +2,22 @@
   "version": "1.0.0",
   "description": "Industry -> references index. Open the listed analyses + pattern + collection, then synthesize. Source of truth: references/websites/*/metadata.json.",
   "industries": {
+    "travel": {
+      "sites": [
+        {
+          "slug": "airbnb",
+          "name": "Airbnb",
+          "style": "warm-marketplace",
+          "theme": "light"
+        },
+        {
+          "slug": "vita-travel",
+          "name": "Vita Travel",
+          "style": "immersive-dark",
+          "theme": "dark"
+        }
+      ]
+    },
     "ecommerce": {
       "sites": [
         {
@@ -201,16 +217,6 @@
           "name": "Udemy",
           "style": "bold-marketplace",
           "theme": "light"
-        }
-      ]
-    },
-    "travel": {
-      "sites": [
-        {
-          "slug": "vita-travel",
-          "name": "Vita Travel",
-          "style": "immersive-dark",
-          "theme": "dark"
         }
       ]
     }

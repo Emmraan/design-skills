@@ -7,6 +7,7 @@
 
 | Slug | Industry | Style | Theme | Layout |
 |---|---|---|---|---|
+| airbnb | travel | warm-marketplace | light | card-grid-search |
 | ajmal | ecommerce | affordable-luxury | light | dense-pdp |
 | apple | ecommerce | premium-minimal | light | banded-showcase |
 | assembly | fintech | minimal-clean | light | centered-hero |

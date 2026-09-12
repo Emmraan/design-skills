@@ -15,6 +15,7 @@ book / enquire. One booking CTA repeated beats many competing actions.
 | Site | Slug | What to borrow as logic |
 |---|---|---|
 | Vita Travel | `vita-travel` | Dark immersive retreat look; pill CTA as brand; ember-accent rationing; coaches-as-proof |
+| Airbnb | `airbnb` | Warm marketplace system: rationed brand color, locale-aware variable type, photo-card grids, supply-side funnel |
 
 Vita Travel is the seed travel reference; pair it with **editorial references**
 (Ghost) for destination storytelling and **marketplace patterns** (Udemy's
