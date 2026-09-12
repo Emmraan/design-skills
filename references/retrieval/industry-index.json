@@ -5,6 +5,12 @@
     "ecommerce": {
       "sites": [
         {
+          "slug": "ajmal",
+          "name": "Ajmal",
+          "style": "affordable-luxury",
+          "theme": "light"
+        },
+        {
           "slug": "apple",
           "name": "Apple",
           "style": "premium-minimal",

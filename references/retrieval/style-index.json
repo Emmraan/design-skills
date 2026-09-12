@@ -2,6 +2,16 @@
   "version": "1.0.0",
   "description": "Style -> references index. Pick a target mood, open the listed analyses, then synthesize. Source of truth: references/websites/*/metadata.json.",
   "styles": {
+    "affordable-luxury": {
+      "sites": [
+        {
+          "slug": "ajmal",
+          "name": "Ajmal",
+          "industry": "ecommerce",
+          "theme": "light"
+        }
+      ]
+    },
     "premium-minimal": {
       "sites": [
         {

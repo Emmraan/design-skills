@@ -6,6 +6,10 @@
       "file": "references/components/hero.md",
       "notable": [
         {
+          "slug": "ajmal",
+          "take": "campaign imagery"
+        },
+        {
           "slug": "apple",
           "take": "desire in one viewport"
         },
@@ -91,6 +95,10 @@
       "file": "references/components/navbar.md",
       "notable": [
         {
+          "slug": "ajmal",
+          "take": "commerce wayfinding"
+        },
+        {
           "slug": "apple",
           "take": "wayfinding that disappears"
         },
@@ -151,6 +159,10 @@
     "logo-cloud": {
       "file": "references/components/logo-cloud.md",
       "notable": [
+        {
+          "slug": "ajmal",
+          "take": "risk reversal"
+        },
         {
           "slug": "assembly",
           "take": "quiet band"
@@ -316,6 +328,10 @@
       "file": "references/components/pricing.md",
       "notable": [
         {
+          "slug": "ajmal",
+          "take": "browse density"
+        },
+        {
           "slug": "assembly",
           "take": "clean cards, highlighted plan"
         },
@@ -429,6 +445,10 @@
     "footer": {
       "file": "references/components/footer.md",
       "notable": [
+        {
+          "slug": "ajmal",
+          "take": "capture and sign-off"
+        },
         {
           "slug": "apple",
           "take": "legal density made scannable"

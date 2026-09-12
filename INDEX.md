@@ -7,6 +7,7 @@
 
 | Slug | Industry | Style | Theme | Layout |
 |---|---|---|---|---|
+| ajmal | ecommerce | affordable-luxury | light | dense-pdp |
 | apple | ecommerce | premium-minimal | light | banded-showcase |
 | assembly | fintech | minimal-clean | light | centered-hero |
 | clickup | saas | bold-vibrant | light | centered-hero |
