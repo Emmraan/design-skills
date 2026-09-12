@@ -22,6 +22,16 @@
         }
       ]
     },
+    "serene-luxury": {
+      "sites": [
+        {
+          "slug": "aman",
+          "name": "Aman",
+          "industry": "hospitality",
+          "theme": "light"
+        }
+      ]
+    },
     "premium-minimal": {
       "sites": [
         {

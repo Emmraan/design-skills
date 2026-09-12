@@ -1,0 +1,16 @@
+{
+  "slug": "aman",
+  "name": "Aman",
+  "source-url": "https://www.aman.com/",
+  "industry": "hospitality",
+  "style": "serene-luxury",
+  "layout": "editorial-destinations",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "24EB55BFE455"
+}

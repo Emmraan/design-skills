@@ -9,6 +9,7 @@
 |---|---|---|---|---|
 | airbnb | travel | warm-marketplace | light | card-grid-search |
 | ajmal | ecommerce | affordable-luxury | light | dense-pdp |
+| aman | hospitality | serene-luxury | light | editorial-destinations |
 | apple | ecommerce | premium-minimal | light | banded-showcase |
 | assembly | fintech | minimal-clean | light | centered-hero |
 | clickup | saas | bold-vibrant | light | centered-hero |

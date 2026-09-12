@@ -10,6 +10,10 @@
           "take": "campaign imagery"
         },
         {
+          "slug": "aman",
+          "take": "arrival as exhale"
+        },
+        {
           "slug": "apple",
           "take": "desire in one viewport"
         },
@@ -224,6 +228,10 @@
     "features": {
       "file": "references/components/features.md",
       "notable": [
+        {
+          "slug": "aman",
+          "take": "sell transformation, not rooms"
+        },
         {
           "slug": "assembly",
           "take": "minimal rows with blue highlights"
@@ -476,6 +484,10 @@
         {
           "slug": "ajmal",
           "take": "capture and sign-off"
+        },
+        {
+          "slug": "aman",
+          "take": "quiet sitemap on stone"
         },
         {
           "slug": "apple",

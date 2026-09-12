@@ -51,6 +51,22 @@
         "creator commerce with personality + low-friction buy from Gumroad"
       ]
     },
+    "hospitality": {
+      "sites": [
+        {
+          "slug": "aman",
+          "name": "Aman",
+          "style": "serene-luxury",
+          "theme": "light"
+        },
+        {
+          "slug": "flyward",
+          "name": "Flyward",
+          "style": "editorial-luxury",
+          "theme": "light"
+        }
+      ]
+    },
     "fintech": {
       "sites": [
         {
@@ -121,16 +137,6 @@
           "slug": "coinbase",
           "name": "Coinbase",
           "style": "clean-confident",
-          "theme": "light"
-        }
-      ]
-    },
-    "hospitality": {
-      "sites": [
-        {
-          "slug": "flyward",
-          "name": "Flyward",
-          "style": "editorial-luxury",
           "theme": "light"
         }
       ]
