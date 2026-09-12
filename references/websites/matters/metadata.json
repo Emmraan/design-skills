@@ -1,0 +1,16 @@
+{
+  "slug": "matters",
+  "name": "Matters",
+  "source-url": "https://www.matters.sg/",
+  "industry": "agency",
+  "style": "dark-expressive",
+  "layout": "work-led",
+  "theme": "dark",
+  "complexity": "medium",
+  "cta": "single",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "47F02A77DFC2"
+}

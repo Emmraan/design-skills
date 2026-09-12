@@ -110,6 +110,12 @@
           "theme": "light"
         },
         {
+          "slug": "matters",
+          "name": "Matters",
+          "style": "dark-expressive",
+          "theme": "dark"
+        },
+        {
           "slug": "primora",
           "name": "Primora",
           "style": "editorial-premium",

@@ -15,6 +15,7 @@ build affinity → get a conversation. See `patterns/portfolio-agency.md` for as
 |---|---|---|
 | Primora | `primora` | Craft-forward presentation; premium, editorial polish |
 | KOTA | `kota` | Bold-brutalist type-led agency; single-family scale contrast, pill system, animated gradient moment |
+| Matters | `matters` | Dark-expressive studio; grotesk/serif shout-whisper pairing, acid-lime accent, film grain, work-led flow |
 
 Primora is the seed craft reference; pair it with **portfolio-agency galleries** and with
 *product* references (Ghost, Mobbin) for editorial restraint and product-grade polish.

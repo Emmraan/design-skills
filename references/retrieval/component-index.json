@@ -46,6 +46,10 @@
           "take": "centered statement type (72px, tight) + dual-pill CTA + product visual"
         },
         {
+          "slug": "matters",
+          "take": "taste first"
+        },
+        {
           "slug": "mavenclinic",
           "take": "oversized serif statement (160px fluid) + dual CTA + human photography proof"
         },
@@ -389,6 +393,10 @@
           "take": "closing statement + the dual-pill pattern repeated"
         },
         {
+          "slug": "matters",
+          "take": "single conversion goal"
+        },
+        {
           "slug": "mobbin",
           "take": "blue or dark moment"
         },
@@ -448,6 +456,10 @@
         {
           "slug": "linear",
           "take": "muted multi-column, meta gray, legal quiet"
+        },
+        {
+          "slug": "matters",
+          "take": "quiet sign-off on black"
         },
         {
           "slug": "mavenclinic",

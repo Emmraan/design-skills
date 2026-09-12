@@ -115,6 +115,16 @@
         }
       ]
     },
+    "dark-expressive": {
+      "sites": [
+        {
+          "slug": "matters",
+          "name": "Matters",
+          "industry": "agency",
+          "theme": "dark"
+        }
+      ]
+    },
     "editorial-warm": {
       "sites": [
         {
