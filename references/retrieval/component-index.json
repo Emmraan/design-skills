@@ -50,6 +50,10 @@
           "take": "text-forward statement, no product shot"
         },
         {
+          "slug": "globalscrapconnect",
+          "take": "category authority"
+        },
+        {
           "slug": "gumroad",
           "take": "poster-scale centered headline"
         },
@@ -342,6 +346,10 @@
           "take": "ROI proof for both audiences"
         },
         {
+          "slug": "globalscrapconnect",
+          "take": "liquidity signal"
+        },
+        {
           "slug": "kota",
           "take": "credibility with playfulness"
         },
@@ -576,6 +584,10 @@
         {
           "slug": "ghost",
           "take": "muted links, legal, organized"
+        },
+        {
+          "slug": "globalscrapconnect",
+          "take": "alive-and-local proof"
         },
         {
           "slug": "gumroad",

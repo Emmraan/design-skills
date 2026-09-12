@@ -39,6 +39,12 @@
           "theme": "light"
         },
         {
+          "slug": "globalscrapconnect",
+          "name": "Global Scrap Connect",
+          "style": "eco-industrial",
+          "theme": "light"
+        },
+        {
           "slug": "gumroad",
           "name": "Gumroad",
           "style": "bold-playful",

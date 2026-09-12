@@ -1,0 +1,16 @@
+{
+  "slug": "globalscrapconnect",
+  "name": "Global Scrap Connect",
+  "source-url": "https://www.globalscrapconnect.in/",
+  "industry": "ecommerce",
+  "style": "eco-industrial",
+  "layout": "marketplace-grid",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "74E5437CDCD3"
+}

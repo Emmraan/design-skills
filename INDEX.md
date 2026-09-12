@@ -19,6 +19,7 @@
 | flyward | hospitality | editorial-luxury | light | centered-hero |
 | fundingpips | fintech | bold-trading | light | split-hero |
 | ghost | saas | minimal-editorial | light | centered-hero |
+| globalscrapconnect | ecommerce | eco-industrial | light | marketplace-grid |
 | gumroad | ecommerce | bold-playful | light | centered-hero |
 | juno | saas | playful-warm | light | split-hero |
 | kota | agency | bold-brutalist | light | type-led-hero |

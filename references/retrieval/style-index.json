@@ -143,6 +143,16 @@
       ],
       "signature": "type-led calm, text-forward confidence, premium restraint"
     },
+    "eco-industrial": {
+      "sites": [
+        {
+          "slug": "globalscrapconnect",
+          "name": "Global Scrap Connect",
+          "industry": "ecommerce",
+          "theme": "light"
+        }
+      ]
+    },
     "bold-playful": {
       "sites": [
         {

@@ -16,6 +16,7 @@ move interest → cart → checkout. See `patterns/ecommerce.md` for assembly.
 | Gumroad | `gumroad` | Creator commerce: selling digital goods with personality and minimal friction |
 | Apple | `apple` | Premium-minimal commerce: banded showcase, pill CTAs, tabular pricing, AA-everywhere restraint |
 | Ajmal | `ajmal` | Affordable-luxury D2C: serif/sans pairing, bronze CTAs, discount-as-interaction, review-dense PDPs |
+| Global Scrap Connect | `globalscrapconnect` | B2B trade marketplace: hoarding Montserrat, pill-everything CTAs, local-proof socials |
 
 Gumroad is the seed commerce reference; pair it with **retail/consumer references from the
 external galleries** below, since most of the repo's seed sites are SaaS/fintech. When
