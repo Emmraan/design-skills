@@ -20,6 +20,7 @@ show the AI working, set expectations, and answer data/privacy objections — se
 | Flowstep | `flowstep` | Auth-gate reference; OAuth-first; filled inputs; stylesheet-declared token depth |
 | Context.dev | `contextdev` | Agent-native maximalism; rainbow gradients; dashed hairlines; copy-prompt CTA |
 | Firecrawl | `firecrawl` | Warm-minimal scraping API; ember glow; agent-badge jewelry; depth-as-moat |
+| Antideploy | `antideploy` | Brutalist agent-deploy; accessible pure blue; wire-diagram motion; one-hover discipline |
 | Primora | `primora` | Craft-forward presentation that makes AI feel premium |
 
 Synthesize: **demo treatment** from one, **color/type identity** from another, **trust

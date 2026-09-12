@@ -32,6 +32,16 @@
         }
       ]
     },
+    "blue-brutal": {
+      "sites": [
+        {
+          "slug": "antideploy",
+          "name": "Antideploy",
+          "industry": "ai",
+          "theme": "light"
+        }
+      ]
+    },
     "premium-minimal": {
       "sites": [
         {

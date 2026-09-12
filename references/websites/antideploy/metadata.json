@@ -1,0 +1,16 @@
+{
+  "slug": "antideploy",
+  "name": "Antideploy",
+  "source-url": "https://antideploy.com/",
+  "industry": "ai",
+  "style": "blue-brutal",
+  "layout": "product-funnel",
+  "theme": "light",
+  "complexity": "high",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "80B4CF3F5711"
+}

@@ -10,6 +10,7 @@
 | airbnb | travel | warm-marketplace | light | card-grid-search |
 | ajmal | ecommerce | affordable-luxury | light | dense-pdp |
 | aman | hospitality | serene-luxury | light | editorial-destinations |
+| antideploy | ai | blue-brutal | light | product-funnel |
 | apple | ecommerce | premium-minimal | light | banded-showcase |
 | assembly | fintech | minimal-clean | light | centered-hero |
 | bybit | crypto | pro-trading-dark | dark | product-grid-funnel |

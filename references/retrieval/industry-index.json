@@ -79,6 +79,58 @@
         }
       ]
     },
+    "ai": {
+      "sites": [
+        {
+          "slug": "antideploy",
+          "name": "Antideploy",
+          "style": "blue-brutal",
+          "theme": "light"
+        },
+        {
+          "slug": "context7",
+          "name": "Context7",
+          "style": "emerald-stone",
+          "theme": "light"
+        },
+        {
+          "slug": "contextdev",
+          "name": "Context.dev",
+          "style": "gradient-plex",
+          "theme": "light"
+        },
+        {
+          "slug": "firecrawl",
+          "name": "Firecrawl",
+          "style": "ember-light",
+          "theme": "light"
+        },
+        {
+          "slug": "flowstep",
+          "name": "Flowstep",
+          "style": "auth-blue",
+          "theme": "light"
+        },
+        {
+          "slug": "sendr",
+          "name": "Sendr",
+          "style": "minimal-clean",
+          "theme": "light"
+        },
+        {
+          "slug": "wispr",
+          "name": "Wispr",
+          "style": "editorial-playful",
+          "theme": "dark"
+        }
+      ],
+      "pattern": "references/patterns/ai-product.md",
+      "collection": "references/collections/ai.md",
+      "borrow": [
+        "demo as hero from Wispr",
+        "real AI outputs + clarity over hype from Sendr"
+      ]
+    },
     "fintech": {
       "sites": [
         {
@@ -169,52 +221,6 @@
         "energetic color + bento storytelling from ClickUp",
         "warm approachable tone from Juno",
         "product-first chrome from Mobbin"
-      ]
-    },
-    "ai": {
-      "sites": [
-        {
-          "slug": "context7",
-          "name": "Context7",
-          "style": "emerald-stone",
-          "theme": "light"
-        },
-        {
-          "slug": "contextdev",
-          "name": "Context.dev",
-          "style": "gradient-plex",
-          "theme": "light"
-        },
-        {
-          "slug": "firecrawl",
-          "name": "Firecrawl",
-          "style": "ember-light",
-          "theme": "light"
-        },
-        {
-          "slug": "flowstep",
-          "name": "Flowstep",
-          "style": "auth-blue",
-          "theme": "light"
-        },
-        {
-          "slug": "sendr",
-          "name": "Sendr",
-          "style": "minimal-clean",
-          "theme": "light"
-        },
-        {
-          "slug": "wispr",
-          "name": "Wispr",
-          "style": "editorial-playful",
-          "theme": "dark"
-        }
-      ],
-      "pattern": "references/patterns/ai-product.md",
-      "collection": "references/collections/ai.md",
-      "borrow": [
-        "demo as hero from Wispr",
-        "real AI outputs + clarity over hype from Sendr"
       ]
     },
     "developer-tools": {
