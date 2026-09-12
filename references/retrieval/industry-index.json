@@ -157,6 +157,12 @@
           "name": "Maven Clinic",
           "style": "editorial-warm",
           "theme": "light"
+        },
+        {
+          "slug": "onemedical",
+          "name": "One Medical",
+          "style": "warm-clinical",
+          "theme": "light"
         }
       ]
     },

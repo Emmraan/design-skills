@@ -66,6 +66,10 @@
           "take": "strong display statement + product/library visual + CTA"
         },
         {
+          "slug": "onemedical",
+          "take": "zoom)"
+        },
+        {
           "slug": "primora",
           "take": "serif statement + mono label + single CTA (editorial-split)"
         },
@@ -282,6 +286,10 @@
           "take": "proof numbers on product library"
         },
         {
+          "slug": "onemedical",
+          "take": "second funnel, same language"
+        },
+        {
           "slug": "ramp",
           "take": "large numbers with accent key figure"
         }
@@ -366,6 +374,10 @@
         {
           "slug": "mobbin",
           "take": "cards, highlighted plan"
+        },
+        {
+          "slug": "onemedical",
+          "take": "transparent cost, calm presentation"
         },
         {
           "slug": "ramp",

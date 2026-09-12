@@ -155,6 +155,16 @@
         }
       ]
     },
+    "warm-clinical": {
+      "sites": [
+        {
+          "slug": "onemedical",
+          "name": "One Medical",
+          "industry": "healthcare",
+          "theme": "light"
+        }
+      ]
+    },
     "editorial-premium": {
       "sites": [
         {

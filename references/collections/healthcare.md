@@ -15,6 +15,7 @@ separate proof bands.
 | Site | Slug | What to borrow as logic |
 |---|---|---|
 | Maven Clinic | `mavenclinic` | Warm bone + pine AAA system; serif emotion + grotesk clarity; dot-coded programs; 4px CTA discipline |
+| One Medical | `onemedical` | Warm-clinical care funnel; pine/sage/peach trust palette; round provider portraits; calm-as-conversion |
 
 Maven Clinic is the seed healthcare reference; pair it with **fintech/SaaS proof patterns**
 (Ramp outcomes, Linear restraint) for buyer-facing sections and with editorial references

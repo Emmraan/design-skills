@@ -1,0 +1,16 @@
+{
+  "slug": "onemedical",
+  "name": "One Medical",
+  "source-url": "https://www.onemedical.com/",
+  "industry": "healthcare",
+  "style": "warm-clinical",
+  "layout": "care-funnel",
+  "theme": "light",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "6AA9B60A6EF8"
+}
