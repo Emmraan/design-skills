@@ -3,6 +3,21 @@
 > Append-only. Every playbook change cites its evidence. Latest entry matches
 > the playbook `version`.
 
+## v1.2.0 — 2026-09-12 (dashboard annex)
+
+- Distilled from dashboard briefs E (Helpdeskly ops, light) + F (Ledgerline
+  cash ops, dark) × Claude + Astra (4 outputs, output-conformance checked).
+- Models worked from distilled recap blocks (original chats deleted) —
+  conformance stayed strong, validating recap-transfer as a method.
+- ~20 dashboard rules: exception-first ordering, region→job mapping, filter
+  context honesty, queue discipline, context-preserving detail, freshness as
+  trust language, per-value fencing (blanket disclaimers insufficient),
+  uncertainty communication, AI-assistive boundary, structural density,
+  honest dark, permission precision, mobile recomposition.
+- Promotes Astra `astra-v1.md` signal 12 dashboard rows from `single` to
+  `both-confirm`; settings rows stay `single` (unconfirmed).
+- Evidence: output/dashboard/* (extraction cache, consumed).
+
 ## v1.1.0 — 2026-09-12 (GLM-5.3 A/B gate)
 
 - Gate: brief D (Rosterly scheduling) baseline vs playbook-run on GLM-5.3.

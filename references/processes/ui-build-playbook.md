@@ -1,9 +1,10 @@
 # UI Build Playbook — Frontier Process for Original, Human UI
 
-> version: 1.1.0 · updated: 2026-09-12
-> evidence-from: claude-v1.md, astra-v1.md (3 landing briefs × 2 families,
-> output-conformance checked) + GLM-5.3 A/B gate (brief D baseline vs
-> playbook-run; gate rules tagged `gate-evidence`)
+> version: 1.2.0 · updated: 2026-09-12
+> evidence-from: claude-v1.md, astra-v1.md (3 landing briefs × 2 families) +
+> GLM-5.3 A/B gate (brief D) + dashboard briefs E/F × both families
+> (output-conformance checked; models worked from distilled recaps after
+> original chats were deleted — recap-transfer validated by strong conformance)
 >
 > Every rule carries an evidence grade: `both-confirm` (both families converge —
 > strong), `single` (one family — provisional, marked), `contested` (families
@@ -135,9 +136,112 @@ easy" → "handles what I dislike" → "I can start" → "cost is reasonable" �
 clarity and labeled placeholders, never fabricated logos, metrics, or quotes
 [`both-confirm`].
 
-## Surface annexes — Dashboard, sidebar/nav-shell, profile, settings (v2)
+## Surface annexes — Dashboard (v1.2.0)
 
-Astra's surface-emphasis rows (scan order + exception handling for dashboards;
-mental-model grouping + consequence disclosure + save-state clarity for
-settings) are recorded in `astra-v1.md` signal 12 — unconfirmed by outputs
-(landing-first scope). They distill into annexes once app-surface briefs run.
+Applies to monitoring/operations dashboards (support ops, cash ops, any
+exception-driven work surface). Core phases hold; these rules specialize them.
+
+### Ordering: exceptions before explanation
+
+- Scan path: freshness/scope → current position → exceptions → approvals/
+  decisions → supporting detail → trends/source-health [`both-confirm`].
+- Trends and diagnosis support prioritization; they never compete with the
+  exception queue for primacy [`both-confirm`].
+- Landing-page storytelling structure must not leak into work surfaces
+  [`both-confirm`].
+
+### Regions with jobs
+
+- Map regions to jobs: orient (global header), explain scope (dashboard
+  header + filter context), prove condition (status overview), act (exception
+  queue + approval queue), compare (trends), validate/decide (detail panel),
+  recover trust (system feedback) [`both-confirm`].
+- Status overview items are interactive filters that update queue + context —
+  never decorative KPI tiles. Drop any metric that doesn't change staffing or
+  decision action [`both-confirm`].
+- Approval queue is its own decision region beside/below exceptions — never
+  buried in a tab when a pending approval is itself a risk [`single-Claude`].
+
+### Filter context honesty
+
+- A plain-language scope sentence always accompanies filter controls; chips
+  alone are insufficient and unclear in combination [`both-confirm`].
+- When a filter makes a metric irrelevant, explain it inline (e.g. no SLA
+  policy for this team) rather than showing dead numbers [`single-Claude`].
+- Sort labels disclose the algorithm ("sorted by SLA risk, then priority");
+  never imply a universal priority score [`single-Claude`].
+
+### Queue discipline
+
+- One dominant region; items appear once, ranked by most urgent condition,
+  with reason tags for additional concerns [`both-confirm`].
+- One dominant action per decision context; row action matches the most
+  likely resolution (Review funding plan, Hold payment — not View)
+  [`single-Astra`].
+- Urgency/status always pairs color with icon + explicit text; never color
+  alone, never red-green alone without target line + written value
+  [`both-confirm`].
+- Bulk actions appear only after selection; destructive actions live under
+  overflow with consequence-confirmation, never beside routine actions
+  [`single-Claude`].
+
+### Detail preserves context
+
+- Detail opens as a persistent side panel with the list visible behind it;
+  focus moves to the detail heading and returns to the originating row on
+  close [`both-confirm`].
+- Detail action area maps record-state → primary CTA (unassigned → Assign
+  owner; shortfall → Review forecast; failed payment → Open payment);
+  vague labels (View details) fail [`both-confirm`].
+- Audit history is a chronological text list; decorative timelines add
+  nothing [`single-Claude`].
+
+### Trust: freshness, fencing, uncertainty
+
+- Freshness is decision-grade language (current / updating / last synced /
+  source delayed), never a decorative dot; stale data keeps its timestamp so
+  it can't be mistaken for current [`both-confirm`].
+- Fence per value (`[live amount]`), not per document — blanket "all data
+  fictional" headers let realistic fakes read as real inside the spec
+  [`single-Claude`].
+- Communicate uncertainty, never smooth it: forecast confidence breakdowns,
+  "comparison unavailable" states, similarity framed as similarity (never
+  fraud/duplication without evidence) [`both-confirm`].
+- AI assistance is explicitly assistive and reviewable (verify-before-approve
+  framing); never an accounting conclusion or verified instruction
+  [`single-Astra`].
+
+### Density and dark
+
+- Dense by structure, not decoration: compact rows, stable alignment,
+  right-aligned tabular numerals, progressive disclosure; routine detail
+  quieter, high-risk items given line height + contrast [`both-confirm`].
+- Dark must serve concentration (near-black blue-gray/charcoal, soft
+  off-white text) — never pure black, never neon-danger shorthand; darkness
+  is justified by environment and content, not sophistication signaling
+  [`both-confirm`].
+
+### Permissions and states
+
+- Permission limits get precise language + scope notices (partial-view
+  warning); never show company-wide totals for partial access; never expose
+  enabled decision buttons without authority, and never disabled ones without
+  explaining why [`both-confirm`].
+- Fail by region with per-region retry; retain labeled stale data; empty
+  states stay calm (small check icon, next action) — no celebration
+  artwork [`both-confirm`].
+
+### Mobile recomposition
+
+- Recompose around next-exception/next-decision: header scope → position →
+  exceptions → approvals → supporting detail; tables become labeled rows,
+  never horizontal scrolls [`both-confirm`].
+- Never hide scope, material impact, effective date, or approval authority on
+  mobile; charts move below operational content with written summaries first
+  [`single-Astra`].
+
+## Surface annexes — Sidebar/nav-shell, profile, settings (later)
+
+Astra's settings rows (mental-model grouping, consequence disclosure,
+save-state clarity) remain recorded in `astra-v1.md` signal 12, unconfirmed.
+Sidebar/nav-shell and profile await their briefs.

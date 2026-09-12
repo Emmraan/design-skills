@@ -84,5 +84,8 @@ Save outputs as `output/dashboard/claude-dashboard-E.txt`,
 `output/dashboard/claude-dashboard-F.txt`,
 `output/dashboard/astra-dashboard-E.txt`,
 `output/dashboard/astra-dashboard-F.txt` (2 briefs × 2 models = 4 runs).
-Distillation promotes Astra signal 12 (dashboard rows) from `single` to
-`both-confirm` only if Claude outputs show the same behavior.
+Distillation promoted Astra signal 12 dashboard rows to `both-confirm` in
+playbook v1.2.0; settings rows stay `single` until app-settings briefs run.
+If the original process chat was deleted, precede each brief with the
+family-specific recap block (see chat history) instead of the "described
+earlier" line.
