@@ -16,6 +16,7 @@ is a component, not a code sample.
 | Linear | `linear` | Dark product-led drama; dual CTA; minimal-clean craft |
 | Taste Skill | `tasteskill` | Warm-paper docs-led; install-command hero; voice/mono type split |
 | Openship | `openship` | Expressive dark infra-launch; aurora ambient motion; tint-band section theming |
+| Coolify | `coolify` | Self-host populism; amber-on-dark; contributors-as-page; philosophy-as-trust |
 
 Linear is the dark product-led pole, Taste Skill the light docs-led pole, Openship the
 expressive-motion pole — synthesize **launch drama** from one with **documentation

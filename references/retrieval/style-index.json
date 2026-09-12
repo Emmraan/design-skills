@@ -102,6 +102,16 @@
         }
       ]
     },
+    "amber-dark": {
+      "sites": [
+        {
+          "slug": "coolify",
+          "name": "Coolify",
+          "industry": "developer-tools",
+          "theme": "dark"
+        }
+      ]
+    },
     "institutional-blue": {
       "sites": [
         {

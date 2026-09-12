@@ -34,6 +34,10 @@
           "take": "80px display statement + email field + blue pill conversion unit"
         },
         {
+          "slug": "coolify",
+          "take": "ownership statement"
+        },
+        {
           "slug": "coursera",
           "take": "intent capture"
         },
@@ -222,6 +226,10 @@
         {
           "slug": "coinbase",
           "take": "FCA/regional info as first-class sections"
+        },
+        {
+          "slug": "coolify",
+          "take": "capability scan"
         },
         {
           "slug": "coursera",
@@ -434,6 +442,10 @@
         {
           "slug": "clickup",
           "take": "cards, highlighted plan, black CTA"
+        },
+        {
+          "slug": "coolify",
+          "take": "transparency moat"
         },
         {
           "slug": "fundingpips",

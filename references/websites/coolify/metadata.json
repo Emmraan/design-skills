@@ -1,0 +1,16 @@
+{
+  "slug": "coolify",
+  "name": "Coolify",
+  "source-url": "https://coolify.io/",
+  "industry": "developer-tools",
+  "style": "amber-dark",
+  "layout": "product-funnel",
+  "theme": "dark",
+  "complexity": "medium",
+  "cta": "dual",
+  "responsive": true,
+  "collected-at": "2026-09-12",
+  "collected-by": "dembrandt",
+  "baseline-ref": "baseline.json",
+  "fingerprint": "B1628558AEDB"
+}

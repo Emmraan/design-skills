@@ -165,6 +165,34 @@
         "product-first chrome from Mobbin"
       ]
     },
+    "developer-tools": {
+      "sites": [
+        {
+          "slug": "coolify",
+          "name": "Coolify",
+          "style": "amber-dark",
+          "theme": "dark"
+        },
+        {
+          "slug": "linear",
+          "name": "Linear",
+          "style": "minimal-clean",
+          "theme": "dark"
+        },
+        {
+          "slug": "openship",
+          "name": "Openship",
+          "style": "aurora-dark",
+          "theme": "dark"
+        },
+        {
+          "slug": "tasteskill",
+          "name": "Taste Skill",
+          "style": "warm-paper",
+          "theme": "light"
+        }
+      ]
+    },
     "education": {
       "sites": [
         {
@@ -206,28 +234,6 @@
       "collection": "references/collections/agency.md",
       "borrow": [
         "craft-forward editorial presentation from Primora"
-      ]
-    },
-    "developer-tools": {
-      "sites": [
-        {
-          "slug": "linear",
-          "name": "Linear",
-          "style": "minimal-clean",
-          "theme": "dark"
-        },
-        {
-          "slug": "openship",
-          "name": "Openship",
-          "style": "aurora-dark",
-          "theme": "dark"
-        },
-        {
-          "slug": "tasteskill",
-          "name": "Taste Skill",
-          "style": "warm-paper",
-          "theme": "light"
-        }
       ]
     },
     "healthcare": {
